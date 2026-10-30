@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="淡江大學許昭元企業與法律，依115學年度第一學期教學計畫整理的期中學習筆記、案例與練習。">
+<title>企業與法律｜許昭元・期中複習</title>
+<style>
+:root{--paper:#f6f3eb;--card:#fffefb;--ink:#233b36;--muted:#66716b;--line:#dcded3;--green:#244c42;--soft:#e9eee5;--orange:#a7502e;--orange-bg:#faecdf;--red:#a33a35;--radius:18px}
+*{box-sizing:border-box}html{scroll-behavior:smooth;scroll-padding-top:28px}body{margin:0;color:var(--ink);background:var(--paper);font-family:-apple-system,BlinkMacSystemFont,"Noto Sans TC","PingFang TC","Microsoft JhengHei",sans-serif;line-height:1.85;font-size:16px}a{color:var(--green);text-underline-offset:4px}button,input,select,textarea{font:inherit}button,.button{cursor:pointer;border:1px solid var(--line);border-radius:9px;background:var(--card);color:var(--ink);padding:9px 16px;text-decoration:none;display:inline-block;line-height:1.5}button:hover,.button:hover{background:var(--soft)}button.primary,.button.primary{background:var(--green);color:white;border-color:var(--green)}button:disabled{cursor:default;opacity:.5}button:focus-visible,a:focus-visible,input:focus-visible,select:focus-visible,textarea:focus-visible,summary:focus-visible{outline:3px solid #c77b47;outline-offset:4px}input,select,textarea{color:var(--ink);border:1px solid var(--line);border-radius:8px;background:white;padding:9px 12px;max-width:100%}textarea{display:block;width:100%;min-height:125px;resize:vertical}input[type=checkbox]{accent-color:var(--green);width:18px;height:18px;vertical-align:middle;margin-right:8px}h1,h2,h3,h4,p{margin-top:0}h1{font-family:"Songti TC","Noto Serif TC",serif;font-size:clamp(36px,5vw,62px);font-weight:700;line-height:1.25;letter-spacing:.025em;margin-bottom:18px}h2{font-size:26px;line-height:1.45;margin-bottom:14px}h3{font-size:20px;line-height:1.5;margin-bottom:10px}h4{font-size:16px;margin-bottom:6px}p{margin-bottom:16px}small,.small{font-size:13px}strong{font-weight:650}ul,ol{padding-left:1.45em;margin:10px 0 18px}li{margin-bottom:7px}hr{border:0;border-top:1px solid var(--line);margin:28px 0}.muted{color:var(--muted)}.eyebrow{font-size:12px;font-weight:700;letter-spacing:.12em;text-transform:uppercase}.tag{display:inline-block;background:var(--soft);padding:3px 10px;border-radius:6px;font-size:12px;font-weight:650}.tag.orange{background:var(--orange-bg);color:var(--orange)}.skip{position:fixed;top:-80px;left:20px;z-index:10;background:white;padding:10px}.skip:focus{top:10px}.sidebar{position:fixed;top:0;left:0;bottom:0;width:238px;border-right:1px solid var(--line);padding:34px 22px;background:#efefe6;overflow-y:auto}.brand{font-family:"Songti TC",serif;font-size:23px;font-weight:700;line-height:1.5}.sidebar .meta{font-size:12px;margin:8px 0 26px}.sidebar nav a{display:flex;gap:10px;align-items:center;text-decoration:none;padding:9px 8px;border-radius:8px;font-size:14px;line-height:1.5;margin:3px 0}.sidebar nav a:hover,.sidebar nav a[aria-current=true]{background:#dde5d9}.num{font-size:11px;color:var(--muted);font-variant-numeric:tabular-nums;min-width:20px}.nav-group{margin-top:20px}.progress-wrap{border-top:1px solid var(--line);margin-top:25px;padding-top:18px}progress{appearance:none;border:0;width:100%;height:6px;display:block;border-radius:8px;overflow:hidden;background:#d8dfd2;margin:10px 0}progress::-webkit-progress-bar{background:#d8dfd2}progress::-webkit-progress-value{background:var(--green)}progress::-moz-progress-bar{background:var(--green)}main{max-width:1190px;margin-left:238px;padding:48px 56px 72px}.hero{padding-bottom:35px;border-bottom:1px solid var(--line)}.hero-top{display:flex;justify-content:space-between;gap:15px;align-items:center;margin-bottom:26px}.hero-sub{font-size:18px;max-width:650px;color:var(--muted)}.hero-actions{display:flex;gap:10px;flex-wrap:wrap;margin-top:25px}.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:12px;overflow:hidden;margin:28px 0}.stat{background:var(--card);padding:18px 20px}.stat strong{font-size:26px;display:block;line-height:1.5}.stat span{font-size:12px;color:var(--muted)}section{margin-top:42px}.section-head{display:flex;align-items:center;justify-content:space-between;gap:15px;margin-bottom:20px}.panel,.lesson{border:1px solid var(--line);border-radius:var(--radius);padding:28px;background:var(--card)}.note{background:var(--orange-bg);border-left:3px solid #b86742;padding:16px 20px;border-radius:0 10px 10px 0;font-size:14px}.note p:last-child,.panel p:last-child{margin-bottom:0}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:20px}.grid3{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.table-wrap{overflow-x:auto;margin:16px 0}table{width:100%;border-collapse:collapse;font-size:14px}th,td{padding:11px 13px;border-bottom:1px solid var(--line);text-align:left;vertical-align:top}thead th{background:var(--soft);font-weight:650;white-space:nowrap}tbody tr:last-child td{border-bottom:0}.schedule .now{background:#edf2e8}.schedule th:first-child,.schedule td:first-child{white-space:nowrap}.lesson{margin-top:24px;scroll-margin-top:24px}.lesson-head{display:flex;gap:16px;margin-bottom:20px;align-items:flex-start}.lesson-number{font-family:Georgia,serif;font-size:40px;color:#96a596;line-height:1.1;min-width:50px}.lesson-head h2{margin:4px 0 5px}.lead{font-size:18px;color:var(--green);font-weight:600}.rule{padding:16px 18px;background:var(--soft);border-radius:10px;margin:17px 0}.example{border:1px solid #e1d4c6;border-radius:12px;padding:20px;margin:20px 0;background:#fdf9f1}.example .eyebrow{color:var(--orange);margin-bottom:7px}.pitfall{font-size:14px;border-left:3px solid #bacab4;padding-left:16px;margin:18px 0}.sources{font-size:12px;color:var(--muted);padding-top:12px;border-top:1px dashed var(--line);margin-top:18px}.sources a{margin-right:8px}.done{display:block;border-top:1px solid var(--line);padding-top:15px;margin-top:18px;font-size:14px}.flow{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:18px 0}.flow>div{padding:15px;background:var(--soft);border-radius:9px;font-size:14px}.flow strong{display:block}.key-number{font-size:25px;color:var(--green);font-weight:700;line-height:1.5}.controls{display:flex;align-items:center;gap:12px;flex-wrap:wrap}.controls label{font-size:14px}.calc{background:var(--soft);border-radius:12px;padding:22px;margin-top:20px}.calc input{width:130px}.calc output{display:block;font-size:22px;font-weight:700;margin-top:15px}.calc .formula{font-size:13px;color:var(--muted)}details{border:1px solid var(--line);border-radius:10px;padding:14px 18px;margin:14px 0}summary{cursor:pointer;font-weight:650}.details-body{padding-top:14px}.study-tool{background:var(--green);color:#f5f6ec;border:0}.study-tool .muted{color:#c6d8cc}.flash-prompt{font-size:25px;line-height:1.6;min-height:100px;margin:24px 0}.flash-answer{padding:18px;border-radius:10px;background:#3a6053;margin-bottom:22px}.quiz-options{display:grid;gap:10px;margin:20px 0}.quiz-option{display:flex;gap:14px;text-align:left;width:100%;padding:14px 16px;align-items:flex-start}.quiz-option .letter{font-weight:700}.quiz-option.correct{background:#e5f1e4;border-color:#7da17a;opacity:1}.quiz-option.wrong{background:#fae8e4;border-color:#cb8175;opacity:1}.feedback{padding:20px;border-radius:12px;background:var(--soft);margin:20px 0}.feedback.bad{background:#fae8e4}.feedback h3{margin-bottom:8px}.quiz-title{font-size:22px;line-height:1.6;margin-top:20px;outline-offset:6px}.quiz-footer{display:flex;justify-content:space-between;align-items:center;gap:10px}.question-meta{font-size:12px;color:var(--muted)}.case{margin-top:20px}.case h3{margin-top:12px}.case textarea{margin-top:10px}.self-check{display:flex;gap:15px;flex-wrap:wrap;font-size:13px}.source-list{font-size:14px}.source-list li{margin-bottom:14px}.source-list a{overflow-wrap:anywhere}.footer{font-size:12px;color:var(--muted);margin-top:40px;border-top:1px solid var(--line);padding-top:20px}[hidden]{display:none!important}.toast{font-size:12px;color:var(--muted);min-height:20px}.screen-only{}.print-only{display:none}
+@media(min-width:1500px){main{margin-left:calc(238px + (100vw - 1500px)/2)}}
+@media(max-width:1000px){main{padding:34px 28px}.sidebar{width:210px;padding:26px 17px}main{margin-left:210px}.grid2{grid-template-columns:1fr}.grid3{grid-template-columns:1fr}.flow{grid-template-columns:1fr}}
+@media(max-width:720px){html{scroll-padding-top:80px}.sidebar{position:sticky;top:0;width:100%;height:auto;bottom:auto;z-index:5;padding:10px 16px;border-right:0;border-bottom:1px solid var(--line);overflow:visible}.brand{font-size:16px}.sidebar .meta,.sidebar .nav-group,.sidebar .progress-wrap{display:none}.sidebar nav{display:flex;gap:5px;overflow-x:auto;white-space:nowrap;margin-top:4px}.sidebar nav a{flex:none;padding:6px 9px;font-size:12px}.sidebar nav .num{display:none}main{margin:0;padding:28px 16px 50px}.hero-top{font-size:11px;margin-bottom:20px}.panel,.lesson{padding:20px}.stats{margin:22px 0}.stat{padding:12px}.stat strong{font-size:22px}.section-head{align-items:flex-start;flex-direction:column}h2{font-size:23px}.lesson-number{font-size:33px;min-width:39px}.lesson{scroll-margin-top:95px}.flash-prompt{font-size:22px}.quiz-title{font-size:19px}.table-wrap{margin-left:-4px;margin-right:-4px}th,td{padding:10px 9px}.quiz-footer{flex-wrap:wrap}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+@media print{body{background:white;font-size:11pt;line-height:1.6}.sidebar,.screen-only,.hero-actions,.done,.calc,.study-tool,#quiz,.case textarea,.self-check{display:none!important}main{margin:0;padding:0;max-width:none}.hero{padding:0;border:0}h1{font-size:30pt}h2{font-size:18pt}h3{font-size:14pt}.stats{margin:12px 0}.panel,.lesson{border:0;border-radius:0;padding:0;margin-top:24px}section{margin-top:24px}.grid2,.grid3{display:block}.example,.rule,.note,table{break-inside:avoid}.lesson-head{break-after:avoid}details{border:0;padding:0}details:not([open])>*:not(summary){display:block!important}summary{display:none}.details-body{padding:0}.print-only{display:block}.sources{font-size:8pt}a{color:black;text-decoration:none}.source-list a{word-break:break-all}.table-wrap{overflow:visible}.footer{margin-top:20px}}
+</style>
+</head>
+<body>
+<a class="skip" href="#main">跳到複習內容</a>
+<aside class="sidebar" aria-label="複習導覽">
+  <div class="brand">企業與法律<span style="color:#8a9d89">．</span></div>
+  <div class="meta muted">淡江大學 · 許昭元<br>115–1｜期中學習筆記</div>
+  <nav aria-label="單元">
+    <a href="#scope"><span class="num">START</span>範圍與讀法</a>
+    <a href="#lesson1"><span class="num">01</span>能力與法律行為</a>
+    <a href="#lesson2"><span class="num">02</span>企業種類與股份</a>
+    <a href="#lesson3"><span class="num">03</span>股東會</a>
+    <a href="#lesson4"><span class="num">04</span>董事會</a>
+    <a href="#lesson5"><span class="num">05</span>監察人</a>
+    <a href="#lesson6"><span class="num">06</span>勞動契約</a>
+    <a href="#lesson7"><span class="num">07</span>工資與延伸複習</a>
+    <a href="#flashcards"><span class="num">RECALL</span>記憶卡</a>
+    <a href="#quiz"><span class="num">QUIZ</span>選擇題練習</a>
+    <a href="#cases"><span class="num">APPLY</span>案例作答</a>
+    <a href="#references"><span class="num">SOURCE</span>資料來源</a>
+  </nav>
+  <div class="progress-wrap"><span class="small">已能解釋 <strong id="progressText">0 / 7</strong></span><progress id="studyProgress" max="7" value="0" aria-label="單元理解進度"></progress><p class="small muted">每學完一章，試著先合上筆記，再用自己的話說一次。</p></div>
+</aside>
+<main id="main">
+<header class="hero">
+  <div class="hero-top"><span class="eyebrow">TKU · BUSINESS &amp; LAW</span><span class="tag">已核對 10/25 老師公告</span></div>
+  <h1>把法律讀懂，<br>再把案例說清楚。</h1>
+  <p class="hero-sub">許昭元老師「企業與法律」期中複習。依 10/25 課程公告調整：期中暫定準備到工資，從法律行為、公司運作一路接到勞動契約。</p>
+  <div class="hero-actions"><a class="button primary" href="#lesson1">從第一單元開始 →</a><a class="button" href="#quiz">先測看看</a><button id="printButton" type="button">列印筆記</button></div>
+  <div class="stats"><div class="stat"><strong>7</strong><span>學習單元</span></div><div class="stat"><strong>28</strong><span>自編選擇練習</span></div><div class="stat"><strong>25%</strong><span>大綱列示期中評量比重</span></div></div>
+  <p class="small muted">公告核對：2026/10/30 · 大綱及基礎法規整理：2026/10/08 · TNUSB0T0805 0B／2625</p>
+</header>
+
+<section id="scope">
+  <div class="section-head"><h2>先確認要準備什麼</h2><a class="small" href="https://webp1.emis.tku.edu.tw/115_1/115_1_2625.PDF" target="_blank" rel="noopener">查看官方教學計畫 ↗</a></div>
+  <div class="note" id="teacherUpdate"><p class="eyebrow">老師公告重點 · 2026/10/25 17:55</p><h3>期中暫定到「工資」，進度仍會調整</h3><p>老師在〈上課內容澄清與說明〉表示，10/29 預計開始勞動契約，期中前希望教到工資，考試也暫定到這裡。<strong>先讀單元 01–06，再讀單元 07 的工資；工時、加班費與休假先列延伸複習。</strong>這是公告的預期進度，還不是最終逐項考點。</p><ul><li><strong>董監事持股：</strong>公告澄清「超過二分之一」不包含剛好一半；限公開發行股票公司的相關規則。詳見 <a href="#directorShares">董事持股例題</a>、<a href="#supervisorShares">監察人準用</a>。</li><li><strong>比較「以上」：</strong>假決議出席門檻的三分之一以上，包含剛好三分之一。詳見 <a href="#provisionalResolution">假決議</a>。</li><li><strong>颱風停班給薪：</strong>老師表示仍有爭議，預計留到加班費、休假時再說明，可能在期中後；不要把它背成一律給薪或一律不給薪。</li></ul><p class="small"><a href="https://iclass.tku.edu.tw/course/267399/bulletin#/" target="_blank" rel="noopener">回 iClass 查看原公告（需登入） ↗</a> · 10/30 查閱時，線上測驗列表尚無測驗，未取得另列的考試日期或題型。</p></div>
+  <div class="panel schedule" style="margin-top:20px">
+    <div class="table-wrap"><table><caption class="small muted" style="text-align:left;margin-bottom:10px">115–1 教學計畫，第 2 頁 · 日期均為 2026 年</caption><thead><tr><th>週次</th><th>週次日期</th><th>大綱內容</th><th>本頁單元</th></tr></thead><tbody>
+      <tr><td>第 2 週</td><td>9/21–9/27</td><td>權利能力、行為能力與法律行為</td><td><a href="#lesson1">01</a></td></tr>
+      <tr><td>第 3 週</td><td>9/28–10/4</td><td>企業與經營：種類與股份</td><td><a href="#lesson2">02</a></td></tr>
+      <tr><td>第 4 週</td><td>10/5–10/11</td><td>企業與經營：股東會</td><td><a href="#lesson3">03</a></td></tr>
+      <tr><td>第 5 週</td><td>10/12–10/18</td><td>企業與經營：董事會</td><td><a href="#lesson4">04</a></td></tr>
+      <tr><td>第 6 週</td><td>10/19–10/25</td><td>企業與經營：監察人</td><td><a href="#lesson5">05</a></td></tr>
+      <tr><td>第 7 週</td><td>10/26–11/1</td><td>企業與員工：勞動契約</td><td><a href="#lesson6">06</a></td></tr>
+      <tr><td>第 8 週</td><td>11/2–11/8</td><td>企業與員工：工時、工資與休假</td><td><a href="#lesson7">07</a></td></tr>
+      <tr><td>第 9 週</td><td>11/9–11/15</td><td colspan="2"><strong>期中考／期中評量週，老師得自行調整週次</strong></td></tr>
+    </tbody></table></div>
+    <p class="small muted">以上是原教學計畫，保留作進度對照。10/25 公告已把期中暫定終點說明為工資；不能因原大綱第 8 週列休假，就直接認定休假一定考。第 10 週以後的職災、性別平等工作及消費者保護，本次未列主要複習。</p>
+    <details><summary>評量與教材還寫了什麼？</summary><div class="details-body"><p>出席率 10%、平時評量 40%、期中評量 25%、期末評量 25%。課程要求分十二組收集案例，負責該週的口頭報告以十五分鐘為限。大綱沒有再細分平時 40% 的計分方式。</p><p class="small">參考文獻：賴源河《實用商事法精義》（2024，第15版）；李智仁等《企業管理與法律》（2023，第11版）；鄭津津《職場與法律》（2025，第3版）；洪誌宏《消費者保護法》（2025，第7版）。本頁以公開法規補充白話說明，並未複製上述教科書內容。</p></div></details>
+  </div>
+  <div class="grid2" style="margin-top:20px"><div class="panel"><h3>一輪複習的順序</h3><ol><li><strong>看懂：</strong>讀每章的核心概念與案例。</li><li><strong>回想：</strong>不看筆記，回答記憶卡。</li><li><strong>辨別：</strong>做選擇題，讀錯誤原因。</li><li><strong>應用：</strong>用「爭點 → 規則 → 套用 → 結論」寫案例。</li></ol><p class="small muted">依最新公告，先讀 01–06 與 07 的工資，再做 28 題自測。工時、加班費、休假放在單元 07 的延伸區。</p></div><div class="panel"><h3>記下老師最後的公告</h3><label for="scopeNotes" class="small muted">精確範圍、題型、可帶資料、課堂補充</label><textarea id="scopeNotes" data-note="scope" placeholder="例如：老師後續確認的考試日期、題型、最後範圍……"></textarea><div id="saveStatus" class="toast" role="status">筆記與理解勾選只儲存在目前的瀏覽器。</div></div></div>
+</section>
+
+<section id="lessons" aria-label="七個學習單元">
+<article class="lesson" id="lesson1">
+  <div class="lesson-head"><div class="lesson-number">01</div><div><span class="tag">第 2 週</span><h2>能力與法律行為</h2><p class="small muted">學會分辨：能擁有權利、能自己作決定，以及決定是否有效。</p></div></div>
+  <p class="lead">「可以擁有財產」和「可以自己有效簽約」是兩個問題。</p>
+  <div class="table-wrap"><table><thead><tr><th>概念</th><th>在問什麼</th><th>簡單例子</th></tr></thead><tbody><tr><td><strong>權利能力</strong></td><td>能不能成為權利、義務的主體？</td><td>出生的嬰兒也能擁有財產；自然人的權利能力原則上始於出生、終於死亡。</td></tr><tr><td><strong>行為能力</strong></td><td>能不能自己作出有效的法律行為？</td><td>嬰兒有權利能力，但不能自己有效簽買賣契約。</td></tr><tr><td><strong>法律行為</strong></td><td>透過意思表示，產生所希望的法律效果。</td><td>買賣、租賃、贈與等契約。意思一致只是成立問題，還要檢查效力。</td></tr></tbody></table></div>
+  <h3>未成年人的判斷順序</h3>
+  <div class="flow"><div><strong>未滿 7 歲</strong>無行為能力。意思表示原則上無效，由法定代理人代為行為。</div><div><strong>滿 7 歲、未滿 18 歲</strong>限制行為能力。原則需法定代理人允許；注意法定例外。</div><div><strong>滿 18 歲</strong>已成年。一般具有完全行為能力；監護宣告等是另外的制度。</div></div>
+  <p>限制行為能力人的例外有兩類：<strong>純獲法律上利益</strong>，以及依年齡、身分屬<strong>日常生活所必需</strong>的行為。「買得很便宜」仍然要付錢，不能因此稱為純獲法律上利益。未經允許、又不屬例外的契約，須經法定代理人承認才生效，通常稱為「效力未定」。</p>
+  <div class="example"><div class="eyebrow">一步一步判斷</div><h3>17 歲的小安，自己買 8 萬元電腦</h3><ol><li><strong>身分：</strong>17 歲是限制行為能力人。</li><li><strong>行為：</strong>買電腦是契約，且負擔付款義務。</li><li><strong>例外：</strong>題目假設並非日常所必需，也沒有法定代理人允許或其他授權。</li><li><strong>效果：</strong>契約效力未定，須法定代理人承認才生效。</li></ol><p class="small">改成「符合年齡、身分的日常餐點」時，可能適用日常必需例外。不要只看未滿 18 歲就判定所有交易無效。</p></div>
+  <h3>法律行為：先成立，再檢查有效</h3><p>契約原則上在必要事項意思一致時成立，口頭或默示也可能成立。但效力仍須檢查行為能力、法定方式、內容是否合法等。違反強制或禁止規定，原則上可能無效；規定是否有意使行為無效仍須判斷。違反公共秩序或善良風俗的法律行為也有無效問題。</p>
+  <div class="pitfall"><strong>辨別練習：</strong>「沒簽紙本，所以沒契約」不一定對；「簽了紙本，所以一定有效」也不一定對。法人具有法令範圍內的權利義務能力，但結婚等專屬自然人的權利不適用。</div>
+  <div class="sources">法規依據：<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=6" target="_blank" rel="noopener">民法 §6</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=12" target="_blank" rel="noopener">§12</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=13" target="_blank" rel="noopener">§13</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=26" target="_blank" rel="noopener">§26</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=77" target="_blank" rel="noopener">§77</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=75" target="_blank" rel="noopener">§75</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=79" target="_blank" rel="noopener">§79</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=71" target="_blank" rel="noopener">§71</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=72" target="_blank" rel="noopener">§72</a><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&amp;flno=153" target="_blank" rel="noopener">§153</a></div>
+  <label class="done"><input type="checkbox" data-done="1">我能解釋權利能力、行為能力，以及未成年契約的效力。</label>
+</article>
+
+<article class="lesson" id="lesson2">
+  <div class="lesson-head"><div class="lesson-number">02</div><div><span class="tag">第 3 週</span><h2>企業種類與股份</h2><p class="small muted">先找出法律上的主體，再判斷出資人要負多少責任。</p></div></div>
+  <p class="lead">「企業」是經營活動的概念；「公司」是法律上的組織型態。</p>
+  <p>常見經營方式包含獨資、一般合夥與公司。商業登記法所稱的商業，是以獨資或合夥方式經營的營利事業；公司則依公司法組織、登記成立，具有法人地位。不要把商號名稱、公司的法人、公司的股東混成同一個人。</p>
+  <div class="table-wrap"><table><thead><tr><th>公司種類</th><th>責任的核心</th><th>記憶線索</th></tr></thead><tbody><tr><td>無限公司</td><td>股東對公司債務負連帶無限清償責任。</td><td>股東責任可能及於個人財產。</td></tr><tr><td>有限公司</td><td>股東原則上以出資額為限，對公司負責。</td><td>先分開公司債務與股東出資責任。</td></tr><tr><td>兩合公司</td><td>同時有無限責任股東與有限責任股東。</td><td>同一家公司，股東責任分兩類。</td></tr><tr><td>股份有限公司</td><td>資本分為股份；股東原則上以繳清股份金額為限，對公司負責。</td><td>股份是持有公司權益的單位。</td></tr></tbody></table></div>
+  <div class="example"><div class="eyebrow">先畫清楚誰欠誰</div><h3>股東已出資 10 萬，公司欠供應商 100 萬</h3><p>假設是有限公司、股東已履行出資，也沒有個人保證或其他責任事由。供應商的債務人是<strong>公司</strong>；不能只因公司欠錢，就要求股東再以個人財產替公司清償 100 萬。</p><p class="small">有限責任也有邊界：股東若濫用公司法人地位，使特定債務顯難清償，情節重大且有必要時，法律可能要求該股東清償。股東自己作的保證或違法行為，也要另外判斷。</p></div>
+  <h3>股份、股東權與股票</h3><p><strong>股份</strong>是資本及權益的單位；<strong>股東權</strong>包含參與公司決策及符合條件時的財產權益；<strong>股票</strong>是股份的表彰形式。持有股份不表示直接擁有公司某張桌子，也不表示公司必須每年固定發股利。</p><div class="rule">普通股一般採每股一表決權。特別股的股利、剩餘財產分配或表決權等，可依法律及章程設計；不能一概認為「特別股都有表決權」或「特別股都沒有表決權」。</div>
+  <p class="small muted">公司治理的後三章以股份有限公司為主要對象。不同公司型態、公開發行制度與章程，可能有不同規則。</p>
+  <div class="sources">法規依據：<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080004" target="_blank" rel="noopener">商業登記法 §3</a><a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080001" target="_blank" rel="noopener">公司法 §1、2、6、99、154、156、157、179</a></div>
+  <label class="done"><input type="checkbox" data-done="2">我能區分四種公司、股東有限責任及股份的意義。</label>
+</article>
+
+<article class="lesson" id="lesson3">
+  <div class="lesson-head"><div class="lesson-number">03</div><div><span class="tag">第 4 週</span><h2>股東會</h2><p class="small muted">重點是誰召集、多久前通知，以及決議需要多少票。</p></div></div>
+  <p class="lead">先檢查出席門檻，再計算同意門檻。</p>
+  <p>股東會處理法律或章程交給股東決定的事項，例如選任董事、監察人及變更章程。原則上由董事會召集；法律另有少數股東或監察人召集等例外。股東常會每年至少一次，原則於會計年度終了後六個月內召開；必要時可召集臨時會。</p>
+  <div class="table-wrap"><table><thead><tr><th>召集通知</th><th>非公開發行公司</th><th>公開發行股票公司</th></tr></thead><tbody><tr><td>股東常會</td><td>20 日前</td><td>30 日前</td></tr><tr><td>股東臨時會</td><td>10 日前</td><td>15 日前</td></tr></tbody></table></div>
+  <div class="rule"><strong>普通決議（一般規則）：</strong>代表已發行股份總數<strong>過半數</strong>的股東出席，再由出席股東表決權<strong>過半數</strong>同意。計算前，題目中的無表決權股份及利益衝突等，要依規定處理。</div>
+  <div class="example"><div class="eyebrow">計算例題 · 假設均有表決權，無須扣除股份</div><h3>總股數 10,000 股，出席 6,000 股，同意 3,100 票</h3><ol><li>出席：6,000 ＞ 10,000 × 1/2，符合門檻。</li><li>同意：3,100 ＞ 6,000 × 1/2，符合門檻。</li><li>若是普通決議，且其他程序合法，決議可通過。</li></ol><p class="small"><strong>只改一個數字：</strong>同意變成 3,000 票就不夠，因為「過半數」不包含剛好一半。出席若只有 5,000 股，也未達一般出席門檻；假決議等另有制度。</p></div>
+  <div class="example" id="provisionalResolution"><div class="eyebrow">老師特別澄清 · 以上包含本數</div><h3>三分之一「以上」，含剛好三分之一</h3><p>普通決議出席不足，但有總股數三分之一以上股東出席時，得以出席表決權過半數同意作成假決議，通知各股東，並在一個月內再召開股東會。第二次對假決議仍有總股數三分之一以上出席、出席表決權過半同意，才依法視同普通決議。</p><p class="small">例：總股數 9,000 股，出席 3,000 股，剛好達三分之一以上；第一場可依法進行假決議，不代表第一場就已完成普通決議。<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&amp;flno=175" target="_blank" rel="noopener">公司法 §175 ↗</a></p></div>
+  <h3>特殊事項不能直接套普通決議</h3><p>例如變更章程：一般須代表總股數<strong>三分之二以上</strong>的股東出席，出席表決權<strong>過半數</strong>同意。公開發行股票公司在出席不足上述門檻時，另有「總股數過半數出席、出席表決權三分之二以上同意」的規則；章程有更高要求時還要檢查。</p>
+  <div class="pitfall">「以上」包含剛好達到；「過半數」要超過一半。選任／解任董監事、變更章程等重要事項，必須依規定列入召集事由，不能隨意用臨時動議提出。股東對議案有自身利害關係且有害於公司利益之虞時，另有表決限制。</div>
+  <div class="sources">法規依據：<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080001" target="_blank" rel="noopener">公司法 §170、171、172、174、175、178、179、277</a></div>
+  <label class="done"><input type="checkbox" data-done="3">我能分開計算股東會的出席與同意門檻。</label>
+</article>
+<article class="lesson" id="lesson4">
+  <div class="lesson-head"><div class="lesson-number">04</div><div><span class="tag">第 5 週</span><h2>董事會</h2><p class="small muted">分清集體決策、對外代表，以及董事的義務。</p></div></div>
+  <p class="lead">董事會決定業務執行；董事長一般代表公司對外。</p>
+  <p>公司業務的執行，除法律或章程規定應由股東會決議的事項外，原則上由董事會決議。董事長是董事會的主席，並對外代表公司；不能因此推論他可跳過董事會，任意決定所有業務。</p>
+  <div class="rule"><strong>一般董事會決議：</strong>須有<strong>過半數董事出席</strong>，再由<strong>出席董事過半數同意</strong>。有特殊法定門檻、章程規定或利益衝突時，須另外檢查。</div>
+  <div class="example"><div class="eyebrow">計算例題 · 5 名董事，無利益衝突</div><h3>3 人出席，2 人同意，能通過嗎？</h3><ol><li>出席：3 ＞ 5 ÷ 2，符合。</li><li>同意：2 ＞ 3 ÷ 2，符合。</li><li>若議案採一般門檻，且其他程序合法，可通過。</li></ol><p class="small">只有 2 人出席，即使全體出席者同意，也不足一般出席門檻。<strong>股東會算股份與表決權，董事會通常算董事人數。</strong></p></div>
+  <div class="example" id="directorShares"><div class="eyebrow">老師特別澄清 · 超過不含本數</div><h3>公開發行公司董事轉讓持股：500 股與 501 股</h3><p>公司法第 197 條第 1 項的任期中當然解任規則，針對<strong>公開發行股票公司</strong>的董事：任期中轉讓<strong>超過選任當時持股數二分之一</strong>，即涉及該條的當然解任。</p><ol><li>先找基準：董事選任時持有 1,000 股，不是用公司總股數或現在持股數。</li><li>基準的一半為 500 股。轉讓剛好 500 股，未超過一半，僅就此條件不構成當然解任。</li><li>轉讓 501 股，501 ＞ 500，已超過一半，符合此持股轉讓條件。</li></ol><p class="small">題目還要辨認任期中、就任前等不同情境；不要把公開發行公司的限制直接套到所有公司。<a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&amp;flno=197" target="_blank" rel="noopener">公司法 §197 ↗</a></p></div>
+  <h3>決策權伴隨責任</h3>
+  <div class="grid2"><div><h4>忠實義務與注意義務</h4><p>公司負責人應忠實執行業務，盡善良管理人的注意義務。違反義務造成公司損害，可能負賠償責任。把公司資金拿來支付自己的私人消費，就是典型的判斷素材。</p></div><div><h4>利益衝突與競業</h4><p>董事對議案有自身或其代表法人利害關係，應說明重要內容；若有害於公司利益之虞，應依規定迴避表決。董事為自己或他人從事公司營業範圍內的行為，須向股東會說明並取得許可。</p></div></div>
+  <div class="pitfall">利益衝突題不要只寫「董事有利益所以一律不能出席」。應依序辨認利害關係、揭露義務、是否有害公司利益之虞，以及表決與人數的處理。董事自己與公司交易，還要接著看單元 05 的公司代表問題。</div>
+  <div class="sources">法規依據：<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080001" target="_blank" rel="noopener">公司法 §23、202、206、208、209</a></div>
+  <label class="done"><input type="checkbox" data-done="4">我能區分董事會與董事長，並計算一般決議門檻。</label>
+</article>
+
+<article class="lesson" id="lesson5">
+  <div class="lesson-head"><div class="lesson-number">05</div><div><span class="tag">第 6 週</span><h2>監察人</h2><p class="small muted">以下以設有監察人的股份有限公司為學習情境。</p></div></div>
+  <p class="lead">董事負責執行，監察人負責監督。</p>
+  <p>監察人由股東會選任，監察公司業務的執行，並可調查業務、財務狀況，查核簿冊文件及要求董事會或經理人報告。監察人的監督權<strong>可由各監察人單獨行使</strong>，不要直接套用董事會的集體決議模式。</p>
+  <div class="table-wrap"><table><thead><tr><th>職能</th><th>要記住的規則</th></tr></thead><tbody><tr><td>檢查業務與財務</td><td>監督董事執行，查核帳簿、文件並要求報告。</td></tr><tr><td>獨立性</td><td>不得兼任公司董事、經理人或其他職員。</td></tr><tr><td>必要時召集股東會</td><td>除董事會不為召集或不能召集外，為公司利益有必要時，也可依法召集。</td></tr><tr><td>董事與公司交易</td><td>董事為自己或他人與公司作買賣、借貸等法律行為時，由監察人代表公司。</td></tr></tbody></table></div>
+  <div class="example"><div class="eyebrow">角色判斷</div><h3>董事把自己的房屋賣給公司</h3><p>先問公司是否依法作成交易決定，再問「誰代表公司簽約」。董事站在交易的一方，不能想當然地同時代表公司另一方；公司法第 223 條規定，這類交易由<strong>監察人代表公司</strong>。</p><p class="small">監察人代表簽約不等於所有決策程序就完成，也不表示交易價格一定合理。董事的揭露、迴避及忠實義務仍要分別檢查。</p></div>
+  <div class="note" id="supervisorShares"><p><strong>老師提醒：監察人也要看持股轉讓。</strong>公司法第 227 條準用第 197 條，因此公開發行股票公司監察人的相關持股轉讓限制也須檢查。判斷仍是「超過」選任時持股一半，剛好一半不算超過。</p><p class="small"><a href="https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&amp;flno=227" target="_blank" rel="noopener">公司法 §227 ↗</a> · <a href="#directorShares">回看 1,000／500／501 股例題</a></p></div>
+  <div class="rule"><strong>三個角色連成一條線：</strong>股東會處理法定重大事項及人事 → 董事會執行經營決策 → 監察人監督業務、財務及董事行為。</div>
+  <div class="sources">法規依據：<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080001" target="_blank" rel="noopener">公司法 §216、218、220、221、222、223</a></div>
+  <label class="done"><input type="checkbox" data-done="5">我能說明監察人的監督、兼任限制及交易代表權。</label>
+</article>
+
+<article class="lesson" id="lesson6">
+  <div class="lesson-head"><div class="lesson-number">06</div><div><span class="tag">第 7 週</span><h2>勞動契約</h2><p class="small muted">先認定實際工作關係，再檢查契約內容。</p></div></div>
+  <p class="lead">契約名稱只是線索，實際的從屬關係才是重點。</p>
+  <p>勞動契約是約定勞雇關係、具有從屬性的契約。文件即使寫「承攬」或「合作」，仍須綜合工作如何進行來判斷；不能只靠名稱就排除勞動法的適用。下列說明以適用勞動基準法的勞雇關係為前提。</p>
+  <div class="flow"><div><strong>人格從屬性</strong>誰安排時間、地點、工作方式？是否受指揮、考核或懲處？</div><div><strong>經濟從屬性</strong>為誰的事業提供勞務？報酬、工具及經營風險如何分配？</div><div><strong>組織從屬性</strong>是否被納入企業分工，與其他成員協作完成工作？</div></div>
+  <p class="small muted">這些是綜合判斷線索，單一特徵不一定能決定結論。</p>
+  <div class="example"><div class="eyebrow">看事實，再看名稱</div><h3>「合作夥伴」每天固定打卡、照排班接客</h3><p>若公司決定班表、規定服務方式、考核懲處，工作者納入公司分工且沒有自行經營風險，這些事實指向從屬性。應綜合判斷是否其實為勞動契約，不能只引用文件上的「合作」二字。</p></div>
+  <h3>定期與不定期，不能任意選</h3><p>臨時性、短期性、季節性及特定性工作，得訂定定期契約；<strong>有繼續性工作應訂不定期契約</strong>。公司長期需要某個固定職位，不能只為了規避保障，每年都把它寫成一年一聘。派遣事業單位與派遣勞工也應訂立不定期契約。</p>
+  <div class="rule"><strong>勞動條件有最低標準。</strong>適用勞基法時，勞雇約定不能低於法定標準。簽下「沒有加班費／一律不給特休」的條款，不能單靠簽名就讓低於標準的約定有效。</div>
+  <h3>契約終止：理由與程序要分開</h3><p>雇主不能只說「我不想用了」就任意終止。一般資遣須有法定事由；嚴重違規等不經預告終止，則有不同要件。判斷時至少分開看<strong>終止事由、預告、資遣費</strong>，不要把三者當成同一筆錢。</p>
+  <div class="table-wrap"><table><caption class="small muted" style="text-align:left;margin-bottom:8px">勞基法第 16 條預告期間；適用第 11 條或第 13 條但書終止時</caption><thead><tr><th>繼續工作年資</th><th>預告期間</th></tr></thead><tbody><tr><td>3 個月以上、未滿 1 年</td><td>10 日前</td></tr><tr><td>1 年以上、未滿 3 年</td><td>20 日前</td></tr><tr><td>3 年以上</td><td>30 日前</td></tr></tbody></table></div>
+  <p>未依法給足預告期間，應給付該期間的工資。這是<strong>預告期間工資</strong>，不等於資遣費。不定期契約的勞工一般離職，依第 15 條準用第 16 條第一項的預告期間；未滿三個月、其他終止方式及特殊契約要另外判斷。</p>
+  <div class="sources">法規依據：<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001" target="_blank" rel="noopener">勞動基準法 §1、2、9、11、12、15、16</a><a href="https://www.mol.gov.tw/1607/28162/28296/28340/28342/28344/" target="_blank" rel="noopener">勞動部：勞動契約認定</a></div>
+  <label class="done"><input type="checkbox" data-done="6">我能從工作事實判斷勞動契約，並分開終止理由與預告。</label>
+</article>
+
+<article class="lesson" id="lesson7">
+  <div class="lesson-head"><div class="lesson-number">07</div><div><span class="tag">期中優先：工資</span><h2>工資，先掌握報酬與給付</h2><p class="small muted">原大綱本週另列工時與休假；依 10/25 公告，這些先留在下方延伸區。</p></div></div>
+  <p class="lead">先看報酬的實質，再看給付是否符合最低標準。</p>
+  <h3>工資：看是否因工作取得報酬</h3><p>工資包含因工作取得的報酬，判斷看實質，不能只看「獎金、津貼」名稱。雇主原則應全額、直接給付，提供工資各項目計算方式明細；不得預扣工資當作違約金或賠償費用。</p>
+  <div class="note"><p><strong>2026 年最低工資：月薪 29,500 元、時薪 196 元，自 1 月 1 日生效。</strong>兩種標準對應不同計薪情境，不是要求所有月薪工作都直接按 196 元乘總工時。課堂若使用不同年度數字，作答要先辨認題目年度。</p></div>
+  <div class="example"><div class="eyebrow">工資判斷例題</div><h3>叫「津貼」，就不是工資嗎？</h3><p>公司按月給固定職務津貼，作為員工擔任該工作、提供勞務的對價。不能只因名稱叫津貼就排除工資；應檢查實際給付原因、制度及工作關係。相對地，真正費用的實報實銷，也不能只因按月領取就一概當作工資。</p><p class="small">答題寫出「因工作取得報酬」的判斷，再套題目事實；不要只背款項名稱。</p></div>
+  <div class="rule"><strong>給付四個檢查：</strong>工資原則全額直接給付 → 看是否有法定或依法約定例外 → 應提供各項目計算方式明細 → 不得預扣作違約金或賠償費用。員工簽名也不能排除法定最低標準。</div>
+  <details id="extension7"><summary>延伸複習：工時、加班費與休假（尚未確認列入期中）</summary><div class="details-body"><p class="note">老師公告預計期中前教到工資，加班費與休假可能在期中後。以下保留原本教材方便之後學習；先完成上面的工資及主題自測，再依老師最新進度決定是否加讀。以下為勞基法一般規則，彈性工時等須另看規定。</p>
+  <div class="grid3"><div class="rule"><div class="key-number">8 ／ 40</div>正常工時：每日不超過 8 小時、每週不超過 40 小時。</div><div class="rule"><div class="key-number">4 → ½</div>連續工作 4 小時，至少休息 30 分鐘；輪班或工作具連續性、緊急性時依法調整。</div><div class="rule"><div class="key-number">1 ＋ 1</div>每 7 日一般有 1 日例假、1 日休息日，不一定排在週六、週日。</div></div>
+  <p>一般延長工時連同正常工時，每日不得超過 12 小時，每月延長工時原則不得超過 46 小時；法律另有程序及例外。<strong>例假、休息日、國定假日與特休是不同制度</strong>，出勤條件及工資算法不能混用。</p>
+  <h3 style="margin-top:25px">平日延長工時：加給是「額外加多少」</h3>
+  <div class="table-wrap"><table><thead><tr><th>平日延長工時</th><th>法定最低加給</th><th>該段每小時合計</th></tr></thead><tbody><tr><td>前 2 小時</td><td>加給平日每小時工資額的 1/3 以上</td><td>時薪 × 4/3</td></tr><tr><td>再延長的 2 小時</td><td>加給平日每小時工資額的 2/3 以上</td><td>時薪 × 5/3</td></tr></tbody></table></div>
+  <div class="example"><div class="eyebrow">計算例題 · 一般平日，正常工時已滿 8 小時</div><h3>平日每小時工資額 240 元，加班 3 小時</h3><ol><li>前 2 小時：240 × 4/3 × 2 ＝ 640 元。</li><li>第 3 小時：240 × 5/3 × 1 ＝ 400 元。</li><li><strong>本次加班費合計至少 1,040 元</strong>，是額外的延長工時工資。</li></ol><p class="small">不能把 3 小時全乘 4/3，也不能只算 1/3、2/3 的差額就當作完整加班費。休息日出勤另有規則。</p></div>
+  <div class="calc screen-only"><h3>自己改數字算一次</h3><p class="small">適用上面的平日情境，最多試算 4 小時；輸入的是「平日每小時工資額」。</p><div class="controls"><label for="hourlyWage">每小時工資額（元）<br><input id="hourlyWage" type="number" min="0.01" step="0.01" value="240" inputmode="decimal"></label><label for="overtimeHours">加班時數<br><input id="overtimeHours" type="number" min="0" max="4" step="0.5" value="3" inputmode="decimal"></label></div><output id="overtimeResult" for="hourlyWage overtimeHours" aria-live="polite"></output><p class="formula" id="overtimeFormula"></p><p class="small muted">呈現金額四捨五入至小數第 2 位；這是課堂公式練習，未包含休息日、假日出勤等算法。</p></div>
+  <div class="pitfall">加班後要改補休，須由勞工選擇並經雇主同意，不能由雇主一律強制改成補休；未補休完的處理也有法定規則。</div>
+  <h3>特別休假：看在同一雇主的年資</h3>
+  <div class="table-wrap"><table><thead><tr><th>年資</th><th>法定特休日數</th></tr></thead><tbody><tr><td>6 個月以上、未滿 1 年</td><td>3 日</td></tr><tr><td>1 年以上、未滿 2 年</td><td>7 日</td></tr><tr><td>2 年以上、未滿 3 年</td><td>10 日</td></tr><tr><td>3 年以上、未滿 5 年</td><td>14 日</td></tr><tr><td>5 年以上、未滿 10 年</td><td>15 日</td></tr><tr><td>10 年以上</td><td>每年加給 1 日，最高 30 日；滿 10 年為 16 日。</td></tr></tbody></table></div>
+  <p>特休日期原則由<strong>勞工排定</strong>，雇主因企業經營急迫需求、或勞工因個人因素，可與對方協商調整。年度終結或契約終止未休的日數，原則應發給工資；年度終結時可依法協商遞延，遞延期末仍未休完也須結清。</p>
+  <div class="calc screen-only"><h3>年資門檻練習</h3><label for="tenureMonths">在同一雇主連續工作多久？</label><select id="tenureMonths"><option value="5">5 個月</option><option value="6">6 個月</option><option value="12" selected>1 年</option><option value="24">2 年</option><option value="36">3 年</option><option value="60">5 年</option><option value="108">9 年</option><option value="120">10 年</option><option value="132">11 年</option><option value="288">24 年以上</option></select><output id="leaveResult" for="tenureMonths" aria-live="polite"></output><p class="small muted">顯示達到該年資門檻的法定日數，未扣已休天數，也未換算曆年制比例。</p></div>
+  </div></details>
+  <div class="sources">法規依據：<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001" target="_blank" rel="noopener">勞動基準法 §2、22、23、24、26、30、32、32-1、35–39</a><a href="https://www.mol.gov.tw/1607/28162/28166/28180/70460/76761/76833/?cprint=pt" target="_blank" rel="noopener">勞動部：2026 年最低工資</a></div>
+  <label class="done"><input type="checkbox" data-done="7">我能判斷工資的實質，並說明最低標準、給付與明細。</label>
+</article>
+</section>
+
+<section id="flashcards" class="panel study-tool screen-only" aria-label="記憶卡">
+  <div class="section-head"><div><div class="eyebrow">先回想，再翻面</div><h2 style="margin:8px 0 0">用自己的話說一次</h2></div><span id="flashCount" class="small">1 / 14</span></div>
+  <p class="muted small">先在心中回答。能解釋原因，比只記一個名詞更有幫助。</p><div id="flashPrompt" class="flash-prompt"></div><div id="flashAnswer" class="flash-answer" hidden></div>
+  <div class="controls"><button id="flashReveal" type="button" aria-controls="flashAnswer" aria-expanded="false">看答案</button><button id="flashPrev" type="button" aria-label="上一張記憶卡">← 上一張</button><button id="flashNext" type="button">下一張 →</button></div>
+</section>
+
+<section id="quiz" aria-label="選擇題練習" class="screen-only">
+  <div class="section-head"><div><div class="eyebrow muted">28 題 · 每單元 4 題</div><h2>選一個答案，讀懂理由</h2></div><span class="tag orange">自編練習，非考古題</span></div>
+  <div class="panel"><p class="small muted">依本頁規則設計的學習題，未經老師指定。答題後會顯示解析與法規；每題首次作答計入本輪成績。</p>
+    <div class="controls"><label for="quizTopic">練習範圍</label><select id="quizTopic"><option value="all">全部 7 個單元</option><option value="1">01 能力與法律行為</option><option value="2">02 企業種類與股份</option><option value="3">03 股東會</option><option value="4">04 董事會</option><option value="5">05 監察人</option><option value="6">06 勞動契約</option><option value="7">07 工資（期中優先）</option></select><button id="quizStart" type="button">開始新一輪</button><button id="quizWrong" type="button">重練錯題 <span id="wrongCount">0</span></button></div>
+    <hr><div id="quizPlay"><div class="question-meta" id="quizMeta"></div><h3 class="quiz-title" id="quizQuestion" tabindex="-1"></h3><div id="quizOptions" class="quiz-options" role="group" aria-label="答案選項"></div><div id="quizFeedback" class="feedback" role="status" hidden></div><div class="quiz-footer"><span class="small muted" id="quizScore"></span><button class="primary" id="quizNext" type="button" disabled>下一題 →</button></div></div>
+    <div id="quizSummary" hidden tabindex="-1"><h3 id="quizSummaryTitle"></h3><p id="quizSummaryText"></p><div id="quizSummaryTopics"></div><button id="quizRetry" class="primary" type="button">依目前範圍再練一次</button></div>
+  </div>
+</section>
+
+<section id="cases">
+  <div class="section-head"><div><div class="eyebrow muted">把規則套到事實</div><h2>五個案例，練習寫出推理</h2></div><span class="tag orange">自編案例</span></div>
+  <div class="panel"><p>每題先寫四句話：<strong>爭點</strong>（要判斷什麼）→ <strong>規則</strong>（適用什麼門檻或要件）→ <strong>套用</strong>（題目事實如何符合）→ <strong>結論</strong>（成立、有效、通過或給付多少）。再打開參考解析比較。</p><p class="small muted">這是學習作答的方法，不表示老師要求使用固定格式。文字欄可作私人筆記，沒有自動批改。</p></div>
+  <article class="panel case"><span class="tag">01 · 能力</span><h3>A｜17 歲自己簽下電腦買賣</h3><p>小安 17 歲，未經法定代理人允許，買下 8 萬元電腦。假設不是依其年齡、身分的日常必需，也無其他授權。店家說：「本人簽名就一定有效。」這說法是否正確？</p><label class="small muted screen-only" for="caseA">你的判斷與理由</label><textarea id="caseA" data-note="caseA" placeholder="爭點 → 規則 → 套用 → 結論"></textarea><details><summary>對照參考解析</summary><div class="details-body"><p><strong>爭點：</strong>限制行為能力人未經允許訂約的效力。</p><p><strong>規則：</strong>滿 7 歲、未滿 18 歲，原則需法定代理人允許；無例外的契約須經承認才生效。</p><p><strong>套用：</strong>17 歲屬限制行為能力；買電腦負擔付款義務，題目又排除日常必需及授權。</p><p><strong>結論：</strong>效力未定，須法定代理人承認。不能只因簽名就認定有效，也不是直接判成一律無效。</p><a class="small" href="#lesson1">回到單元 01</a></div></details></article>
+  <article class="panel case"><span class="tag">03 · 股東會</span><h3>B｜剛好一半的同意票</h3><p>公司已發行 10,000 股，全部有表決權。股東會有 6,000 股出席，某普通決議獲 3,000 票同意；假設程序合法、無股份須扣除。主席宣布：「有一半同意，通過。」請判斷。</p><label class="small muted screen-only" for="caseB">你的計算與結論</label><textarea id="caseB" data-note="caseB" placeholder="先算出席門檻，再算同意門檻……"></textarea><details><summary>對照參考解析</summary><div class="details-body"><p><strong>爭點：</strong>是否達到公司法第 174 條普通決議門檻。</p><p><strong>規則：</strong>總股份過半數出席，出席表決權過半數同意。</p><p><strong>套用：</strong>6,000 ＞ 5,000，出席足夠；3,000 ＝ 6,000 ÷ 2，只是一半。</p><p><strong>結論：</strong>同意票未過半，普通決議不通過。此假設下至少要 3,001 票同意。</p><a class="small" href="#lesson3">回到單元 03</a></div></details></article>
+  <article class="panel case"><span class="tag">04＋05 · 公司治理</span><h3>C｜董事自己的房子賣給公司</h3><p>設有監察人的股份有限公司，擬向甲董事買房作辦公室。甲主張他可以代表公司買，也代表自己賣，並且參與董事會表決。你會分開檢查哪些問題？</p><label class="small muted screen-only" for="caseC">你的檢查順序</label><textarea id="caseC" data-note="caseC" placeholder="先看揭露與迴避，再看代表公司的人……"></textarea><details><summary>對照參考解析</summary><div class="details-body"><p><strong>爭點一：</strong>董事會表決的利益衝突。甲應說明其利害關係的重要內容；如有害於公司利益之虞，應依規定迴避。其他董事也須按適用規則作成交易決策。</p><p><strong>爭點二：</strong>誰代表公司交易。公司法第 223 條規定董事為自己或他人與公司交易時，應由監察人代表公司。</p><p><strong>結論：</strong>甲不能用「我是董事」跳過揭露、迴避與代表權規則。仍須檢查交易價格及董事的忠實、注意義務。</p><a class="small" href="#lesson4">回到單元 04</a> · <a class="small" href="#lesson5">回到單元 05</a></div></details></article>
+  <article class="panel case"><span class="tag">06 · 勞動契約</span><h3>D｜文件叫承攬，工作像員工</h3><p>飲料店與乙簽「承攬契約」，乙卻每天依店長班表打卡、照店內規則製作飲料、接受考核懲處，工作時使用店家器材，不自行負擔經營風險。店家因此說不用給勞基法保障，合理嗎？</p><label class="small muted screen-only" for="caseD">哪些事實支持你的判斷？</label><textarea id="caseD" data-note="caseD" placeholder="人格、經濟與組織從屬性分別有哪些線索？"></textarea><details><summary>對照參考解析</summary><div class="details-body"><p><strong>爭點：</strong>實質上是否成立具有從屬性的勞動契約。</p><p><strong>規則：</strong>依實際工作綜合判斷人格、經濟、組織從屬性，不能只看契約名稱。</p><p><strong>套用：</strong>排班、指揮、考核顯示人格從屬；器材及風險由店家承擔，是經濟從屬的線索；乙被納入店內分工，顯示組織從屬。</p><p><strong>結論：</strong>這些事實支持勞動契約認定，店家不能單憑「承攬」名稱排除保障；完整認定仍須綜合事實。</p><a class="small" href="#lesson6">回到單元 06</a></div></details></article>
+  <article class="panel case"><span class="tag orange">延伸 · 加班與休假，尚未確認列入期中</span><h3>E｜加班 3 小時，任職剛滿 1 年</h3><p>丙適用勞基法一般工時制度，平日正常工作已滿 8 小時，再加班 3 小時；平日每小時工資額為 240 元。丙在同一雇主剛滿 1 年，公司說「3 小時全按 4/3 給，特休只有 3 日」。請分別判斷。</p><label class="small muted screen-only" for="caseE">加班費算式與特休日數</label><textarea id="caseE" data-note="caseE" placeholder="前2小時…… 第3小時…… 年資滿1年……"></textarea><details><summary>對照參考解析</summary><div class="details-body"><p><strong>加班費：</strong>前 2 小時為 240 × 4/3 × 2 ＝ 640 元；第 3 小時為 240 × 5/3 ＝ 400 元；共至少 1,040 元。</p><p><strong>特休：</strong>滿 1 年、未滿 2 年為 7 日；3 日適用於滿 6 個月、未滿 1 年的門檻。</p><p><strong>結論：</strong>兩項主張都不符合題目的法定最低標準。要分段計算，也要注意年資區間的「以上／未滿」。</p><a class="small" href="#lesson7">回到單元 07</a></div></details></article>
+</section>
+
+<section id="references">
+  <div class="section-head"><h2>資料從哪裡來？</h2><span class="tag">公告更新 2026/10/30</span></div>
+  <div class="panel"><ul class="source-list"><li><strong>最新準備終點：</strong><a href="https://iclass.tku.edu.tw/course/267399/bulletin#/" target="_blank" rel="noopener">許昭元〈上課內容澄清與說明〉，2026/10/25 17:55（需登入 iClass）</a>；本頁僅摘要學習範圍與澄清事項，並已於 10/30 核對。當日線上測驗列表無測驗。</li><li><strong>課程範圍：</strong><a href="https://webp1.emis.tku.edu.tw/115_1/115_1_2625.PDF" target="_blank" rel="noopener">淡江 115–1 許昭元《企業與法律》教學計畫</a>（開課序號 2625，第 2 頁授課進度，第 3 頁評量）；<a href="115_1_2625.pdf" target="_blank" rel="noopener">本資料夾保存的 PDF</a>。官方入口為<a href="https://esquery.tku.edu.tw/acad/" target="_blank" rel="noopener">淡江選課查詢系統</a>，點開課序號可查教學計畫。</li><li><strong>能力、法律行為：</strong><a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000001" target="_blank" rel="noopener">全國法規資料庫《民法》</a>。各單元附對應條文，遇到例外要回讀條文。</li><li><strong>企業組織與公司治理：</strong><a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080001" target="_blank" rel="noopener">《公司法》</a>、<a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080004" target="_blank" rel="noopener">《商業登記法》</a>。</li><li><strong>勞動契約與工作條件：</strong><a href="https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001" target="_blank" rel="noopener">《勞動基準法》</a>、<a href="https://www.mol.gov.tw/1607/28162/28296/28340/28342/28344/" target="_blank" rel="noopener">勞動部《勞動契約認定指導原則》</a>、<a href="https://www.mol.gov.tw/1607/28162/28166/28180/70460/76761/76833/?cprint=pt" target="_blank" rel="noopener">勞動部 2026 年最低工資公告資訊</a>。</li></ul>
+    <p class="small muted"><strong>整理邊界：</strong>七個章名及排課來自官方大綱；白話說明、計算範例、記憶卡與 28 題均為依公開法規自編的補充教材。已核對 10/25 公告的暫定範圍與澄清，尚未取得最終逐項考點、題型或原始考古題，不能把自編內容稱為老師必考清單。基礎法規整理日為 10/08；新增 §175、197、227 已於 10/30 核對。</p>
+  </div>
+</section>
+<footer class="footer">企業與法律 · 115–1 期中複習｜本頁可離線閱讀及練習。理解勾選、私人筆記與錯題紀錄儲存在目前瀏覽器；瀏覽器清除網站資料後會移除。列印時保留章節與案例解析。</footer>
+</main>
+<script>
+'use strict';
+const topicNames=['','能力與法律行為','企業種類與股份','股東會','董事會','監察人','勞動契約','工資'];
+const civil=n=>'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno='+n;
+const company=n=>'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno='+n;
+const labor=n=>'https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno='+n;
+const questions=[
+ {id:'1a',topic:1,q:'剛出生的嬰兒能擁有財產，但不能自己有效簽買賣契約。這主要呈現哪個區別？',options:['法人與自然人','權利能力與行為能力','股東與公司','定期與不定期契約'],answer:1,explain:'權利能力是在問「能否成為權利義務的主體」；行為能力是在問「能否自己有效作出法律行為」。嬰兒有前者，沒有後者。',source:civil(6),ref:'民法 §6、13、75'},
+ {id:'1b',topic:1,q:'依現行民法，一般成年年齡為何？',options:['滿 16 歲','滿 20 歲','滿 21 歲','滿 18 歲'],answer:3,explain:'民法第 12 條規定滿 18 歲為成年。不要沿用以前的 20 歲標準；監護宣告等行為能力制度仍須另外檢查。',source:civil(12),ref:'民法 §12'},
+ {id:'1c',topic:1,q:'17 歲者未經法定代理人允許，買 8 萬元電腦。假設不是日常必需，沒有其他授權。契約效力原則為何？',options:['效力未定，須法定代理人承認','立即有效，簽名就足夠','一律無效，不能承認','只要便宜就屬純獲利益而有效'],answer:0,explain:'17 歲屬限制行為能力人。買賣負擔付款義務，並非純獲法律上利益；題目已排除日常必需與授權例外。此契約須經法定代理人承認才生效。',source:civil(79),ref:'民法 §13、77、79'},
+ {id:'1d',topic:1,q:'對一般不要求特殊法定方式的買賣契約，哪個說法較正確？',options:['沒寫紙本就一定不成立','只要簽紙本就一定有效','必要事項意思一致可能成立，但仍要檢查效力','成立與有效永遠是同一件事'],answer:2,explain:'契約可以透過明示或默示的意思一致成立。成立之後，仍要檢查行為能力、法定方式、內容是否違法等效力問題。',source:civil(153),ref:'民法 §153、71、72'},
+ {id:'2a',topic:2,q:'依公司法，公司分成哪四種？',options:['獨資、合夥、基金會、社團','無限、有限、兩合、股份有限公司','公營、民營、外資、上市','普通股、特別股、債券、股票'],answer:1,explain:'公司法第 2 條列四種類型：無限公司、有限公司、兩合公司、股份有限公司。獨資、一般合夥是其他經營方式，不是公司法這四種公司的名稱。',source:company(2),ref:'公司法 §2'},
+ {id:'2b',topic:2,q:'有限公司股東已履行出資，公司另欠貨款。沒有保證、濫用法人或其他責任事由。何者正確？',options:['股東必須以全部個人財產清償','公司債務就是每位股東的個人債務','供應商可任意挑一位股東付全部','不能只因公司欠錢，就要求股東另用個人財產清償'],answer:3,explain:'公司與股東是不同主體，有限公司股東原則上以出資額為限對公司負責。但個人保證、濫用法人或自身違法行為等，需要分別判斷。',source:company(99),ref:'公司法 §99'},
+ {id:'2c',topic:2,q:'關於特別股的表決權，下列何者正確？',options:['所有特別股都沒有表決權','所有特別股每股一定只有一票','須依法律及章程所設計的權利內容判斷','有特別股就完全不用開股東會'],answer:2,explain:'特別股可設計表決權限制、無表決權等內容；法律也規範其他設計及公開發行限制。不能只從「特別股」三字斷定有無表決權。',source:company(157),ref:'公司法 §157'},
+ {id:'2d',topic:2,q:'買進公司的股份，最適合如何理解？',options:['取得公司權益的單位，不是直接取得某件公司財產','直接取得公司每一張桌子的共有權','公司每年都必須給固定股利','成為公司所有契約的個人債務人'],answer:0,explain:'股份表彰股東對公司的權益。公司財產仍屬公司；股利分配有法律與公司決議等條件，也不是持股就當然保證每年收益。',source:company(156),ref:'公司法 §156'},
+ {id:'3a',topic:3,q:'普通決議：總股數 10,000 股、出席 6,000 股、同意 3,100 票。均有表決權，程序合法且無須扣除股份。結果為何？',options:['不通過，必須全體股東同意','通過，出席與同意均超過各自的一半','不通過，同意須超過總股數的一半','通過，只因出席超過一半，不需看同意'],answer:1,explain:'先看出席：6,000＞5,000。再看同意：3,100＞3,000。兩道門檻都達到，題目又假設其他程序合法，所以普通決議通過。',source:company(174),ref:'公司法 §174'},
+ {id:'3b',topic:3,q:'總股數 10,000 股、出席 6,000 股，均有表決權且程序合法。若普通決議同意票剛好 3,000 票，是否通過？',options:['通過，剛好一半就是過半','通過，主席宣布就可以','不通過，「過半數」須超過 3,000 票','不通過，任何議案都需三分之二票'],answer:2,explain:'「過半數」要超過一半。出席表決權為 6,000，剛好 3,000 票未過半；此假設下至少需要 3,001 票。',source:company(174),ref:'公司法 §174'},
+ {id:'3c',topic:3,q:'公開發行股票公司的常會與臨時會，召集通知一般各須在幾日前？',options:['20 日／10 日','10 日／5 日','30 日／30 日','30 日／15 日'],answer:3,explain:'公開發行股票公司為常會 30 日前、臨時會 15 日前。非公開發行公司的一般門檻則是 20 日、10 日；題目先辨認公司種類。',source:company(172),ref:'公司法 §172'},
+ {id:'3e',topic:3,q:'公司法第 175 條假決議的出席門檻為總股數三分之一以上。總股數 9,000 股，出席 3,000 股，僅就此出席門檻而言，是否符合？',options:['符合，以上包含剛好三分之一','不符合，必須至少 3,001 股','符合，所以第一場就已完成普通決議','不符合，任何假決議都須全體出席'],answer:0,explain:'3,000＝9,000÷3，「以上」包含本數，因此達到假決議出席門檻。但第一場假決議還須過半同意、通知及一個月內再召集等後續程序，不能直接當作已完成普通決議。',source:company(175),ref:'公司法 §175'},
+ {id:'4a',topic:4,q:'一般董事會決議：共有 5 位董事，3 人出席、2 人同意；無利益衝突，程序合法且無特殊門檻。結果為何？',options:['不通過，至少 4 人出席','不通過，至少 3 人同意','通過，出席與同意分別達到過半數','通過，因董事長支持就足夠'],answer:2,explain:'3＞5/2，達出席門檻；2＞3/2，達同意門檻。董事會一般按人數計算，兩道門檻要各自檢查。',source:company(206),ref:'公司法 §206'},
+ {id:'4b',topic:4,q:'關於董事長與董事會，哪個說法正確？',options:['董事長一般對外代表公司，但業務決策仍要依權限與程序','董事長可任意取代所有股東會與董事會決議','董事長不能代表公司對外','董事會只能發放股利，不能決定業務執行'],answer:0,explain:'董事長依第 208 條對外代表公司；第 202 條把業務執行原則交由董事會決議。代表權與內部決策權要分開理解。',source:company(208),ref:'公司法 §202、208'},
+ {id:'4c',topic:4,q:'董事對議案有自身利害關係，且有害於公司利益之虞。何者較正確？',options:['只要是董事，就能投票','只要口頭說明就永遠不用迴避','只有監察人才需揭露利益','應說明重要內容，並依規定迴避表決'],answer:3,explain:'揭露與迴避是不同的檢查。第 206 條規範重要內容的說明，並準用利益衝突表決限制；存在有害公司利益之虞時，不能只以揭露取代迴避。',source:company(206),ref:'公司法 §206、178'},
+ {id:'4e',topic:4,q:'公開發行公司董事選任時持有 1,000 股，任期中轉讓剛好 500 股。僅依公司法第 197 條第 1 項的持股轉讓條件，何者正確？',options:['已當然解任，因為一半也算超過','未超過一半；轉讓 501 股才超過此基準','必須用公司總股數當分母','所有非公開發行公司也一律套相同限制'],answer:1,explain:'分母是選任當時該董事持有的股份。500＝1,000÷2，只是剛好一半；501＞500 才超過。任期中當然解任的此項規則針對公開發行股票公司。',source:company(197),ref:'公司法 §197'},
+ {id:'5a',topic:5,q:'設有監察人的股份有限公司，監察人一般由誰選任？',options:['公司所有員工投票','董事長直接指定','股東會','供應商會議'],answer:2,explain:'公司法第 216 條規定監察人由股東會選任。監察人監督公司業務與財務，不是由受監督的董事長隨意指定。',source:company(216),ref:'公司法 §216'},
+ {id:'5b',topic:5,q:'監察人可否兼任同一家公司的董事、經理人或一般職員？',options:['可以，只要拿兩份薪水','都不可以','可以兼任董事但不能任經理人','可以兼任職員但不能任董事'],answer:1,explain:'第 222 條禁止監察人兼任公司董事、經理人或其他職員，避免監督者同時成為被監督的執行者。',source:company(222),ref:'公司法 §222'},
+ {id:'5e',topic:5,q:'公開發行股票公司的監察人，是否也適用選任時持股轉讓超過二分之一的相關限制？',options:['不適用，監察人完全沒有持股轉讓限制','只有董事長口頭同意才適用','只看轉讓股數，不用找選任時基準','適用，公司法第 227 條準用第 197 條；超過不含剛好一半'],answer:3,explain:'第 227 條規定監察人準用第 197 條等規定。老師澄清的是「超過」與「以上」的區別；仍須辨認公開發行公司、時點及選任時持股基準。',source:company(227),ref:'公司法 §227、197'},
+ {id:'5d',topic:5,q:'在設有監察人的股份有限公司，董事為自己與公司作買賣等法律行為時，依法由誰代表公司？',options:['監察人','該董事本人同時代表兩邊','任何一位股東自行代表','外部供應商'],answer:0,explain:'公司法第 223 條指定監察人代表公司。這是交易代表權問題；董事會的決策、董事揭露與迴避等仍要另行檢查。',source:company(223),ref:'公司法 §223'},
+ {id:'6a',topic:6,q:'契約寫「合作夥伴」，實際卻受排班、指揮、考核並納入企業分工。判斷契約性質應如何進行？',options:['只看文件標題','依實際從屬關係綜合判斷','只看有沒有紙本','只看是否自稱自由工作者'],answer:1,explain:'勞動契約看實質從屬關係，綜合人格、經濟與組織面向。名稱、是否寫紙本、當事人自稱的職業，都不能單獨決定性質。',source:'https://www.mol.gov.tw/1607/28162/28296/28340/28342/28344/',ref:'勞動部：勞動契約認定指導原則'},
+ {id:'6b',topic:6,q:'雇主長期需要一個具有繼續性的工作職位，依勞基法原則應訂哪種契約？',options:['一律按日承攬','一定一年一聘','不定期契約','只要雇主喜歡，任意定期即可'],answer:2,explain:'勞基法第 9 條規定有繼續性工作應為不定期契約。定期契約須符合臨時性、短期性、季節性或特定性等法定工作性質。',source:labor(9),ref:'勞動基準法 §9'},
+ {id:'6c',topic:6,q:'適用勞基法的勞工簽了「不給法定加班費與特休」條款，雇主就能完全照做嗎？',options:['可以，有簽名就有效','可以，只要公司規模小','可以，只要員工是學生','不可以單靠簽名讓低於法定最低標準的約定有效'],answer:3,explain:'勞動條件不得低於勞基法最低標準。要先判斷法規適用與具體權利要件，但雇主不能單靠勞工簽字就排除法定最低保障。',source:labor(1),ref:'勞動基準法 §1'},
+ {id:'6d',topic:6,q:'勞工在同一雇主繼續工作 2 年，雇主依勞基法第 11 條合法資遣。第 16 條一般預告期間是多少？',options:['20 日前','10 日前','30 日前','完全不用預告'],answer:0,explain:'1 年以上、未滿 3 年，須 20 日前預告。這是預告期間規則，不等於資遣費；未給足預告期間的工資也須另算。',source:labor(16),ref:'勞動基準法 §16'},
+ {id:'7e',topic:7,q:'公司每月給員工一筆職務津貼，實際是提供該職務勞務的對價。判斷是否為工資，應如何處理？',options:['名稱叫津貼就絕不算工資','只要雇主說不是就不是','看實際是否因工作取得報酬，不只看名稱','只要不是底薪就都不是工資'],answer:2,explain:'勞基法第 2 條的工資判斷重視因工作取得報酬的實質。按月職務津貼若實際是勞務對價，不能只靠名稱排除；仍須依完整給付制度與事實判斷。',source:labor(2),ref:'勞動基準法 §2'},
+ {id:'7f',topic:7,q:'雇主說員工可能打破設備，所以先扣本月 2,000 元薪水當作將來賠償。主要涉及哪條規則？',options:['每週正常工時原則 40 小時','不得預扣工資作違約金或賠償費用','只要金額不高就可以任意預扣','公司可以先扣款而不需任何責任判斷'],answer:1,explain:'第 26 條禁止預扣工資作為違約金或賠償費用。題目是先替未來可能損害扣款，不能與已確定債務的其他法律處理一概混同。',source:labor(26),ref:'勞動基準法 §26'},
+ {id:'7g',topic:7,q:'適用勞基法的工資給付，下列何者較正確？',options:['依法只須告知最後匯款總額','只要員工沒問就永遠不用給明細','工資項目的名稱全由雇主任意決定其法律性質','雇主應提供工資各項目計算方式明細'],answer:3,explain:'勞基法第 23 條要求提供工資各項目計算方式明細。不能只以一個最後總額取代法定明細，也不能只憑款項名稱決定是否為工資。',source:labor(23),ref:'勞動基準法 §23'},
+ {id:'7h',topic:7,q:'依本頁核對的 2026 年最低工資，月薪與時薪標準各是多少？',options:['29,500 元／196 元','28,590 元／190 元','30,000 元／200 元','月薪與時薪標準完全相同'],answer:0,explain:'2026 年 1 月 1 日起，每月最低工資 29,500 元、每小時 196 元。須辨認題目年度與計薪情境，不要沿用上一年度數字。',source:'https://www.mol.gov.tw/1607/28162/28166/28180/70460/76761/76833/?cprint=pt',ref:'勞動部：2026 年最低工資'}
+];
+const flashcards=[
+ {topic:1,q:'權利能力和行為能力，各自在問什麼？',a:'權利能力：能否成為權利義務主體。行為能力：能否自己有效作出法律行為。嬰兒能有財產，但不能自己有效簽約。'},
+ {topic:1,q:'17 歲未經允許簽一般買賣，題目又排除法定例外，直接無效嗎？',a:'不是直接一律無效。這是限制行為能力人未經允許訂約，須法定代理人承認才生效，稱為效力未定。'},
+ {topic:2,q:'公司法的四種公司是什麼？',a:'無限公司、有限公司、兩合公司、股份有限公司。注意各類股東責任不同；獨資、一般合夥並非這四種公司。'},
+ {topic:2,q:'有限責任能保護什麼？有什麼邊界？',a:'原則上股東與公司分離，股東以出資或繳清股份金額為限對公司負責。個人保證、濫用法人地位或自身違法行為等，要另判責任。'},
+ {topic:3,q:'股東會普通決議，兩道一般門檻是什麼？',a:'總股份過半數出席；出席股東表決權過半數同意。題目若有無表決權股份、利益衝突或特殊事項，先處理適用規則。'},
+ {topic:3,q:'常會／臨時會的通知天數，公開與非公開發行如何不同？',a:'非公開發行：20 日／10 日前。公開發行股票公司：30 日／15 日前。先辨認公司種類。'},
+ {topic:4,q:'董事會與董事長，如何分開理解？',a:'董事會原則決定業務執行；董事長主持董事會並對外代表公司。對外代表不等於能跳過內部決議程序。'},
+ {topic:4,q:'公開發行公司董事選任時持股 1,000 股，任期中轉讓 500 股與 501 股，有何差別？',a:'以選任當時持股為基準，500 股是剛好一半，僅就第 197 條此條件未構成當然解任；501 股才超過一半。老師特別澄清超過不含本數。'},
+ {topic:5,q:'監察人由誰選？能兼任公司的員工嗎？',a:'由股東會選任。不得兼任公司董事、經理人或其他職員，以維持監督與執行的分離。'},
+ {topic:5,q:'董事為自己和公司作買賣，設有監察人時，誰代表公司？',a:'依公司法第 223 條，由監察人代表公司。這個代表權問題，與交易決策及董事利益衝突須分開檢查。'},
+ {topic:6,q:'寫成「承攬」，就能排除勞動契約嗎？',a:'不能只看名稱。綜合實際的人格、經濟、組織從屬性，判斷是否為勞動契約。'},
+ {topic:6,q:'一般預告期間 10／20／30 日，如何對應年資？',a:'第 16 條適用情境：3 個月以上未滿 1 年＝10 日；1 年以上未滿 3 年＝20 日；3 年以上＝30 日。預告期間工資與資遣費是不同概念。'},
+ {topic:7,q:'款項叫津貼、獎金，就一定不是工資嗎？',a:'不能只看名稱。應依給付原因、制度及工作事實，判斷是否為因工作取得的報酬；真正費用報銷也不能一概當作工資。'},
+ {topic:7,q:'雇主給工資時，要注意哪些最低保障？',a:'原則全額直接給付，檢查法律及依法約定的例外；提供各項目計算方式明細；不得預扣當違約金或賠償費用。2026 年最低工資為月薪 29,500、時薪 196 元。'}
+];
+
+const $=id=>document.getElementById(id);
+const storageKey='tku-business-law-115-1-2625-v1';
+let saved={notes:{},done:[],wrong:[]};
+let canStore=true;
+try{const raw=JSON.parse(localStorage.getItem(storageKey)||'null');if(raw&&typeof raw==='object')saved={notes:raw.notes&&typeof raw.notes==='object'?raw.notes:{},done:Array.isArray(raw.done)?raw.done:[],wrong:Array.isArray(raw.wrong)?raw.wrong:[]};}catch{canStore=false;}
+const validIds=new Set(questions.map(q=>q.id));
+const wrongIds=new Set(saved.wrong.filter(id=>validIds.has(id)));
+function persist(){
+ saved.done=Array.from(document.querySelectorAll('[data-done]:checked'),el=>el.dataset.done);
+ saved.wrong=Array.from(wrongIds);
+ try{localStorage.setItem(storageKey,JSON.stringify(saved));canStore=true;$('saveStatus').textContent='已儲存在目前的瀏覽器。';}
+ catch{canStore=false;$('saveStatus').textContent='此瀏覽器無法儲存；本次仍可閱讀與練習，重新整理後筆記可能消失。';}
+}
+document.querySelectorAll('[data-note]').forEach(el=>{
+ const stored=saved.notes[el.dataset.note];if(typeof stored==='string')el.value=stored;
+ el.addEventListener('input',()=>{saved.notes[el.dataset.note]=el.value;persist();});
+});
+function showProgress(){const count=document.querySelectorAll('[data-done]:checked').length;$('progressText').textContent=count+' / 7';$('studyProgress').value=count;}
+document.querySelectorAll('[data-done]').forEach(el=>{el.checked=saved.done.includes(el.dataset.done);el.addEventListener('change',()=>{showProgress();persist();});});
+showProgress();
+if(!canStore)$('saveStatus').textContent='此瀏覽器無法讀取儲存資料；本次仍可閱讀與練習。';
+
+function overtime(){
+ const wageText=$('hourlyWage').value,hoursText=$('overtimeHours').value;
+ const wage=Number(wageText),hours=Number(hoursText);
+ if(wageText===''||hoursText===''||!Number.isFinite(wage)||!Number.isFinite(hours)||wage<=0||hours<0||hours>4){$('overtimeResult').textContent='請輸入大於 0 的工資額，以及 0–4 小時。';$('overtimeFormula').textContent='';return;}
+ const first=Math.min(hours,2),second=Math.max(hours-2,0);
+ const total=wage*4/3*first+wage*5/3*second;
+ const fmt=n=>n.toLocaleString('zh-TW',{maximumFractionDigits:2});
+ $('overtimeResult').textContent='本次加班費至少 '+fmt(total)+' 元';
+ $('overtimeFormula').textContent=fmt(wage)+' × 4/3 × '+first+' ＋ '+fmt(wage)+' × 5/3 × '+second+' ＝ '+fmt(total)+' 元';
+}
+['hourlyWage','overtimeHours'].forEach(id=>$(id).addEventListener('input',overtime));overtime();
+function annualLeave(){const m=Number($('tenureMonths').value);const days=m<6?0:m<12?3:m<24?7:m<36?10:m<60?14:m<120?15:Math.min(30,Math.floor(m/12)+6);$('leaveResult').textContent=days===0?'尚未達到法定特休 6 個月門檻':'達到法定特休 '+days+' 日的門檻';}
+$('tenureMonths').addEventListener('change',annualLeave);annualLeave();
+
+let flashIndex=0;
+function renderFlash(){const f=flashcards[flashIndex];$('flashCount').textContent=(flashIndex+1)+' / '+flashcards.length+' · '+topicNames[f.topic];$('flashPrompt').textContent=f.q;$('flashAnswer').textContent=f.a;$('flashAnswer').hidden=true;$('flashReveal').textContent='看答案';$('flashReveal').setAttribute('aria-expanded','false');}
+$('flashReveal').addEventListener('click',()=>{const hidden=$('flashAnswer').hidden;$('flashAnswer').hidden=!hidden;$('flashReveal').textContent=hidden?'收起答案':'看答案';$('flashReveal').setAttribute('aria-expanded',String(hidden));});
+$('flashPrev').addEventListener('click',()=>{flashIndex=(flashIndex+flashcards.length-1)%flashcards.length;renderFlash();});
+$('flashNext').addEventListener('click',()=>{flashIndex=(flashIndex+1)%flashcards.length;renderFlash();});renderFlash();
+
+let round=[],quizIndex=0,answers=new Map();
+function selectedQuestions(){return questions.filter(q=>$('quizTopic').value==='all'||String(q.topic)===$('quizTopic').value);}
+function updateWrongCount(){$('wrongCount').textContent=selectedQuestions().filter(q=>wrongIds.has(q.id)).length;}
+function startRound(wrongOnly=false){
+ round=selectedQuestions().filter(q=>!wrongOnly||wrongIds.has(q.id));quizIndex=0;answers=new Map();
+ $('quizSummary').hidden=true;
+ if(!round.length){$('quizPlay').hidden=false;$('quizQuestion').textContent='這個範圍目前沒有錯題。';$('quizMeta').textContent='可以換個範圍，或開始新一輪。';$('quizOptions').replaceChildren();$('quizFeedback').hidden=true;$('quizScore').textContent='';$('quizNext').disabled=true;return;}
+ $('quizPlay').hidden=false;renderQuestion();
+}
+function renderQuestion(){
+ const q=round[quizIndex];$('quizMeta').textContent='第 '+(quizIndex+1)+' / '+round.length+' 題 · 單元 '+String(q.topic).padStart(2,'0')+' '+topicNames[q.topic];
+ $('quizQuestion').textContent=q.q;$('quizOptions').replaceChildren();$('quizFeedback').hidden=true;$('quizFeedback').className='feedback';
+ q.options.forEach((option,index)=>{const button=document.createElement('button');button.type='button';button.className='quiz-option';const letter=document.createElement('span');letter.className='letter';letter.textContent=String.fromCharCode(65+index);const label=document.createElement('span');label.textContent=option;button.append(letter,label);button.addEventListener('click',()=>answerQuestion(index));$('quizOptions').append(button);});
+ const right=Array.from(answers.entries()).filter(([id,a])=>questions.find(q=>q.id===id).answer===a).length;
+ $('quizScore').textContent='本輪已答 '+answers.size+' 題 · 答對 '+right+' 題';$('quizNext').disabled=true;$('quizNext').textContent=quizIndex===round.length-1?'看本輪結果 →':'下一題 →';
+}
+function answerQuestion(index){
+ const q=round[quizIndex];if(answers.has(q.id))return;answers.set(q.id,index);const right=index===q.answer;
+ if(right)wrongIds.delete(q.id);else wrongIds.add(q.id);persist();updateWrongCount();
+ Array.from($('quizOptions').children).forEach((button,i)=>{button.disabled=true;if(i===q.answer)button.classList.add('correct');else if(i===index)button.classList.add('wrong');});
+ const feedback=$('quizFeedback');feedback.replaceChildren();feedback.hidden=false;feedback.className=right?'feedback':'feedback bad';
+ const heading=document.createElement('h3');heading.textContent=right?'答對了。':'再看一次判斷的關鍵。';
+ const result=document.createElement('p');result.textContent='正確答案 '+String.fromCharCode(65+q.answer)+'：'+q.options[q.answer];
+ const explanation=document.createElement('p');explanation.textContent=q.explain;
+ const links=document.createElement('div');links.className='small';const law=document.createElement('a');law.href=q.source;law.target='_blank';law.rel='noopener';law.textContent=q.ref+' ↗';const lesson=document.createElement('a');lesson.href='#lesson'+q.topic;lesson.textContent='回讀單元 '+String(q.topic).padStart(2,'0');links.append(law,document.createTextNode(' · '),lesson);feedback.append(heading,result,explanation,links);
+ const correct=round.filter(q=>answers.has(q.id)&&answers.get(q.id)===q.answer).length;$('quizScore').textContent='本輪已答 '+answers.size+' 題 · 答對 '+correct+' 題';$('quizNext').disabled=false;
+}
+function showSummary(){
+ $('quizPlay').hidden=true;$('quizSummary').hidden=false;const correct=round.filter(q=>answers.get(q.id)===q.answer).length;
+ $('quizSummaryTitle').textContent='本輪答對 '+correct+' / '+round.length+' 題';
+ $('quizSummaryText').textContent=correct===round.length?'這一輪全對。接著試寫案例，檢查能否把理由完整說出來。':'先回讀失分單元，再用「重練錯題」檢查是否理解。練習成績不代表實際考試成績。';
+ const container=$('quizSummaryTopics');container.replaceChildren();const ul=document.createElement('ul');
+ [...new Set(round.map(q=>q.topic))].forEach(topic=>{const qs=round.filter(q=>q.topic===topic);const n=qs.filter(q=>answers.get(q.id)===q.answer).length;const li=document.createElement('li');const a=document.createElement('a');a.href='#lesson'+topic;a.textContent=topicNames[topic];li.append(a,document.createTextNode('：'+n+' / '+qs.length));ul.append(li);});container.append(ul);$('quizSummary').focus();
+}
+$('quizNext').addEventListener('click',()=>{if(!round.length||!answers.has(round[quizIndex].id))return;if(quizIndex===round.length-1)showSummary();else{quizIndex++;renderQuestion();$('quizQuestion').focus();}});
+$('quizStart').addEventListener('click',()=>startRound());$('quizRetry').addEventListener('click',()=>startRound());$('quizWrong').addEventListener('click',()=>startRound(true));$('quizTopic').addEventListener('change',()=>{updateWrongCount();startRound();});
+updateWrongCount();startRound();
+
+let printDetails=[];
+window.addEventListener('beforeprint',()=>{printDetails=Array.from(document.querySelectorAll('details:not([open])'));printDetails.forEach(el=>el.open=true);});
+window.addEventListener('afterprint',()=>{printDetails.forEach(el=>el.open=false);printDetails=[];});
+$('printButton').addEventListener('click',()=>window.print());
+if('IntersectionObserver' in window){const links=Array.from(document.querySelectorAll('.sidebar nav a'));const observer=new IntersectionObserver(entries=>{entries.forEach(entry=>{if(entry.isIntersecting)links.forEach(a=>{if(a.hash==='#'+entry.target.id)a.setAttribute('aria-current','true');else a.removeAttribute('aria-current');});});},{rootMargin:'0px 0px -65% 0px',threshold:0});links.forEach(a=>{const target=document.querySelector(a.hash);if(target)observer.observe(target);});}
+</script>
+</body>
+</html>
