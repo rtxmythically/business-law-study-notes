@@ -1,0 +1,296 @@
+{
+  "publisher": "考選部",
+  "files": [
+    {
+      "file": "112-initial-law-questions.pdf",
+      "title": "112年初等考試・法學大意・原卷",
+      "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=501&code=112010&q=1&s=0202&t=Q",
+      "pages": 6,
+      "sha256": "1432f28013b69ad2623f489321e529c36a189bfed4a9b72518959a3612385e0b",
+      "retrieved": "2026-11-02"
+    },
+    {
+      "file": "112-initial-law-answers-corrected.pdf",
+      "title": "112年初等考試・法學大意・更正答案",
+      "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=501&code=112010&q=1&s=0202&t=M",
+      "pages": 1,
+      "sha256": "f7f342997cd263e81d2269035d9b0efe28a111cf5b5265cbcbd26190e60e8cc4",
+      "retrieved": "2026-11-02"
+    },
+    {
+      "file": "114-cpa-company-questions.pdf",
+      "title": "114年會計師・公司法、證券交易法與商業會計法・原卷",
+      "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=Q",
+      "pages": 4,
+      "sha256": "4df01ddf6c207ea14da7983ae952f490c5f52df5712b3fc8bc0606a6594fd9cf",
+      "retrieved": "2026-11-02"
+    },
+    {
+      "file": "114-cpa-company-answers.pdf",
+      "title": "114年會計師・公司法、證券交易法與商業會計法・標準答案",
+      "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=S",
+      "pages": 1,
+      "sha256": "b2b1f4254ce0dfa656013f9b02ef6d705fa72c2b6242a5ee0c173a9fabff96e3",
+      "retrieved": "2026-11-02"
+    },
+    {
+      "file": "113-initial-labor-questions.pdf",
+      "title": "113年初等考試・勞工行政與勞工法規大意・原卷",
+      "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=503&code=113010&q=1&s=0204&t=Q",
+      "pages": 4,
+      "sha256": "ed6539452b8b606f078b9f510405538eefa700427ade893456c15cec9de7bb7d",
+      "retrieved": "2026-11-02"
+    },
+    {
+      "file": "113-initial-labor-answers.pdf",
+      "title": "113年初等考試・勞工行政與勞工法規大意・標準答案",
+      "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=503&code=113010&q=1&s=0204&t=S",
+      "pages": 1,
+      "sha256": "fc81d48d3ff48a5697ba6524a5d9b12e66a5a48bfa7f1787d7fe06b52c120673",
+      "retrieved": "2026-11-02"
+    },
+    {
+      "file": "113-ordinary-labor-questions.pdf",
+      "title": "113年普通考試・勞工行政與勞工立法概要・原卷",
+      "url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=408&code=113080&q=1&s=0510&t=Q",
+      "pages": 1,
+      "sha256": "01d0124561d5f03312704ec406885080294f8fe056ec016150aa153782eb64ad",
+      "retrieved": "2026-11-02"
+    }
+  ],
+  "selected_questions": [
+    {
+      "id": "past-capacity",
+      "label": "能力判斷",
+      "file": "112-initial-law-questions.pdf",
+      "page": 4,
+      "number": 32,
+      "exam": "112 年（2023）初等考試｜法學大意",
+      "key": "112-initial-law-answers-corrected.pdf",
+      "answer": "B",
+      "lesson": 1,
+      "explanation": "本題問「錯誤」的敘述。輔助宣告不等於監護宣告；受輔助宣告之人並非因此完全沒有行為能力，而是在民法第 15-2 條列舉的特定行為上，原則需輔助人同意。先分清制度，再判斷行為的效力。",
+      "rules": [
+        [
+          "民法 §15-2",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=15-2"
+        ]
+      ],
+      "question": "下列關於權利能力與行為能力之敘述，何者錯誤？",
+      "options": [
+        "人之權利能力，始於出生，終於死亡",
+        "受輔助宣告之人，無行為能力",
+        "法人於法令限制內，有享受權利負擔義務之能力。但專屬於自然人之權利義務，不在此限",
+        "權利能力及行為能力，不得拋棄"
+      ],
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=501&code=112010&q=1&s=0202&t=Q",
+      "official_answer_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=501&code=112010&q=1&s=0202&t=M",
+      "answer_verified": "official-pdf-visually-checked-2026-11-02",
+      "kind": "multiple-choice"
+    },
+    {
+      "id": "past-shares",
+      "label": "股份與股票",
+      "file": "114-cpa-company-questions.pdf",
+      "page": 2,
+      "number": 10,
+      "exam": "114 年（2025）會計師｜公司法、證券交易法與商業會計法",
+      "key": "114-cpa-company-answers.pdf",
+      "answer": "A",
+      "lesson": 2,
+      "explanation": "先圈出「非公開發行」。公司法第 161-1 條列的是公開發行公司的股票發行義務，不能直接套在題目的非公開發行公司上。有股份與是否須發行股票，是不同問題。",
+      "rules": [
+        [
+          "公司法 §161-1",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=161-1"
+        ]
+      ],
+      "question": "非公開發行之股份有限公司，依公司法之規定，下列敘述何者正確？",
+      "options": [
+        "可不發行股票",
+        "應於發行新股變更登記後 1 個月內發行股票",
+        "應於發行新股變更登記後 2 個月內發行股票",
+        "應於發行新股變更登記後 3 個月內發行股票"
+      ],
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=Q",
+      "official_answer_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=S",
+      "answer_verified": "official-pdf-visually-checked-2026-11-02",
+      "kind": "multiple-choice"
+    },
+    {
+      "id": "past-meeting",
+      "label": "股東會召集",
+      "file": "114-cpa-company-questions.pdf",
+      "page": 3,
+      "number": 11,
+      "exam": "114 年（2025）會計師｜公司法、證券交易法與商業會計法",
+      "key": "114-cpa-company-answers.pdf",
+      "answer": "C",
+      "lesson": 3,
+      "explanation": "董事會與董事長要分開。第 171 條原則由董事會召集股東會；符合第 173-1 條的多數股東及第 220 條的監察人，也有法定召集權。不能只因擔任董事長，就把職位本身當作獨立的法定召集權來源。",
+      "rules": [
+        [
+          "公司法 §171",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=171"
+        ],
+        [
+          "§173-1",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=173-1"
+        ],
+        [
+          "§220",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=220"
+        ]
+      ],
+      "question": "下列何者並非公司法明定之股份有限公司股東會召集權人？",
+      "options": [
+        "監察人",
+        "繼續 3 個月以上持有已發行股份總數過半數股份之股東",
+        "董事長",
+        "董事會"
+      ],
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=Q",
+      "official_answer_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=S",
+      "answer_verified": "official-pdf-visually-checked-2026-11-02",
+      "kind": "multiple-choice"
+    },
+    {
+      "id": "past-director-trade",
+      "label": "董事與公司交易",
+      "file": "114-cpa-company-questions.pdf",
+      "page": 2,
+      "number": 5,
+      "exam": "114 年（2025）會計師｜公司法、證券交易法與商業會計法",
+      "key": "114-cpa-company-answers.pdf",
+      "answer": "C",
+      "lesson": 5,
+      "explanation": "董事站在交易的一方，不能直接以「董事長平時代表公司」來回答。公司法第 223 條特別規定，董事為自己或他人與公司作買賣等法律行為時，由監察人代表公司；交易決策及利益衝突仍是另外的檢查。",
+      "rules": [
+        [
+          "公司法 §223",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=223"
+        ]
+      ],
+      "question": "A 公司為一家非公開發行股票之公司，該公司董事甲在某市擁有一塊土地。A 公司近期擬向甲購 買該土地，則 A 公司與甲為該土地交易時，應由何人為公司之代表？",
+      "options": [
+        "董事長",
+        "獨立董事",
+        "監察人",
+        "總經理"
+      ],
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=Q",
+      "official_answer_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=S",
+      "answer_verified": "official-pdf-visually-checked-2026-11-02",
+      "kind": "multiple-choice"
+    },
+    {
+      "id": "past-labor-term",
+      "label": "勞動契約期間",
+      "file": "113-initial-labor-questions.pdf",
+      "page": 2,
+      "number": 17,
+      "exam": "113 年（2024）初等考試｜勞工行政與勞工法規大意",
+      "key": "113-initial-labor-answers.pdf",
+      "answer": "A",
+      "lesson": 6,
+      "explanation": "原題 A 的措辭照錄，考點是「不定期契約沒有預先約定固定終止期限」。不是把一個長期存在的工作，任意改寫成一年或九個月就算不定期；有繼續性工作原則應為不定期契約。沒有固定終期，也不表示永遠不能依法終止。",
+      "rules": [
+        [
+          "勞動基準法 §9",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=9"
+        ]
+      ],
+      "question": "根據勞動基準法，不定期勞動契約之期限約定，下列敘述何者正確？",
+      "options": [
+        "勞雇間可相互約定最長期限為沒有上限期限",
+        "勞雇間可約定最長期限為 1 年，期限屆滿後經主管機關同意可再續約",
+        "勞雇間可約定最長期限為 9 個月，期限屆滿後不再續約",
+        "勞雇間可約定最長期限為完成一定工作後，終止勞動契約"
+      ],
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=503&code=113010&q=1&s=0204&t=Q",
+      "official_answer_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=503&code=113010&q=1&s=0204&t=S",
+      "answer_verified": "official-pdf-visually-checked-2026-11-02",
+      "kind": "multiple-choice"
+    },
+    {
+      "id": "past-labor-termination",
+      "label": "終止與預告",
+      "file": "113-initial-labor-questions.pdf",
+      "page": 3,
+      "number": 36,
+      "exam": "113 年（2024）初等考試｜勞工行政與勞工法規大意",
+      "key": "113-initial-labor-answers.pdf",
+      "answer": "C",
+      "lesson": 6,
+      "explanation": "本題在分辨第 11 條的預告終止，與第 12 條的不經預告終止。業務緊縮、確不能勝任及事業轉讓，都列在第 11 條；故意損耗機器則是第 12 條相關事由。實際案件仍須符合致雇主受損害等法定要件及期間，不能只看到「故意」二字就省略檢查。",
+      "rules": [
+        [
+          "勞動基準法 §11",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=11"
+        ],
+        [
+          "§12",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=12"
+        ]
+      ],
+      "question": "依據勞動基準法第 11 條之規定，下列何者非雇主須經預告始能解僱之情事？",
+      "options": [
+        "業務緊縮",
+        "勞工確不能勝任工作",
+        "勞工故意損耗機器",
+        "事業轉讓"
+      ],
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=503&code=113010&q=1&s=0204&t=Q",
+      "official_answer_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=503&code=113010&q=1&s=0204&t=S",
+      "answer_verified": "official-pdf-visually-checked-2026-11-02",
+      "kind": "multiple-choice"
+    },
+    {
+      "id": "past-limited-director",
+      "label": "進階：有限公司董事",
+      "file": "114-cpa-company-questions.pdf",
+      "page": 2,
+      "number": 2,
+      "exam": "114 年（2025）會計師｜公司法、證券交易法與商業會計法",
+      "key": "114-cpa-company-answers.pdf",
+      "answer": "C",
+      "lesson": 2,
+      "explanation": "題目問的是有限公司。公司法第 108 條規範一至三名董事、從有行為能力股東中選任等，但沒有本題 C 所說的法定三年任期上限；第 111 條另規定董事出資轉讓的同意門檻。先確認公司種類，避免把不同制度混用。這題超出本頁原先對有限公司的簡介，可等核心題熟悉後再練。",
+      "rules": [
+        [
+          "公司法 §108",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=108"
+        ],
+        [
+          "§111",
+          "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=111"
+        ]
+      ],
+      "question": "有關有限公司董事之敘述，下列何者錯誤？",
+      "options": [
+        "最多得設置董事三人",
+        "董事須具有股東身分",
+        "董事任期不得逾三年，但得連選連任",
+        "董事出資之轉讓須得其他股東表決權三分之二以上之同意"
+      ],
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=Q",
+      "official_answer_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=803&code=114130&q=1&s=0204&t=S",
+      "answer_verified": "official-pdf-visually-checked-2026-11-02",
+      "kind": "multiple-choice"
+    },
+    {
+      "id": "past-wages-essay",
+      "label": "工資給付申論",
+      "file": "113-ordinary-labor-questions.pdf",
+      "page": 1,
+      "number": "二",
+      "exam": "113 年（2024）普通考試｜勞工行政與勞工立法概要",
+      "question": "依勞動基準法第22條及第23條第1項之規定，工資給付之原則為何？請說明之。",
+      "points": 25,
+      "official_url": "https://wwwq.moex.gov.tw/exam/wHandExamQandA_File.ashx?c=408&code=113080&q=1&s=0510&t=Q",
+      "official_answer": null,
+      "kind": "essay"
+    }
+  ],
+  "transcription": "原題原選項；僅整理換行、空白及 A-D 選項標記。整理解析非官方解答。"
+}
