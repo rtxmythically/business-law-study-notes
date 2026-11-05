@@ -1,0 +1,3209 @@
+{
+  "retrieved": "2026-11-05",
+  "purpose": "依既有課程主題補充的法條精讀，非教師指定逐條考試清單",
+  "laws": {
+    "civil": {
+      "name": "民法",
+      "pcode": "B0000001",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=B0000001",
+      "html_sha256": "9e17bb2cb942cc82863924f833dd59aa709442b448b494deaf6df5d5cc06e488",
+      "metadata": {
+        "法規名稱：": "民法\r\n                EN",
+        "修正日期：": "民國 115 年 08 月 17 日",
+        "生效狀態：": "※本法規部分或全部條文尚未生效，最後生效日期：未定\r\n                    連結舊法規內容\r\n                \r\n                \r\n                    1.八十八年四月二十一日增訂之第 166-1  條條文施行日期，由行政院會同司法院另定之。2.一百十五年八月十七日修正公布第 1223 條條文，自公布六個月後施行。"
+      }
+    },
+    "company": {
+      "name": "公司法",
+      "pcode": "J0080001",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080001",
+      "html_sha256": "2105e4894a83aae0e03275cba251be413d6953175d3f4de81ab974ba459c0313",
+      "metadata": {
+        "法規名稱：": "公司法\r\n                EN",
+        "修正日期：": "民國 114 年 12 月 26 日"
+      }
+    },
+    "labor": {
+      "name": "勞動基準法",
+      "pcode": "N0030001",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030001",
+      "html_sha256": "e5de33c59c428c2f8558e21942a441aa6b2a24bd5b05864942df267b58814cd2",
+      "metadata": {
+        "法規名稱：": "勞動基準法\r\n                EN",
+        "修正日期：": "民國 113 年 07 月 31 日"
+      }
+    },
+    "business": {
+      "name": "商業登記法",
+      "pcode": "J0080004",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=J0080004",
+      "html_sha256": "5911854adfaa0072ade95372736e22f46c756cbff68e16a6655200a3e78fe33e",
+      "metadata": {
+        "法規名稱：": "商業登記法\r\n                EN",
+        "修正日期：": "民國 114 年 12 月 26 日"
+      }
+    },
+    "labor_rules": {
+      "name": "勞動基準法施行細則",
+      "pcode": "N0030002",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030002",
+      "html_sha256": "a48c6f175dce6de08a7221a817f10738532771a055dea72eac7be1ffc697b819",
+      "metadata": {
+        "法規名稱：": "勞動基準法施行細則\r\n                EN",
+        "修正日期：": "民國 113 年 03 月 27 日"
+      }
+    },
+    "pension": {
+      "name": "勞工退休金條例",
+      "pcode": "N0030020",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030020",
+      "html_sha256": "35d2998f7c493b8344c63d207074d023582c05136f3b6c05a628ca1b7d36ede4",
+      "metadata": {
+        "法規名稱：": "勞工退休金條例\r\n                EN",
+        "修正日期：": "民國 108 年 05 月 15 日"
+      }
+    },
+    "minimum": {
+      "name": "最低工資法",
+      "pcode": "N0030028",
+      "url": "https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=N0030028",
+      "html_sha256": "52fcda21359b88454b5d168e6c716611a88a9a4722b7fdcc56ef504c601eaeb9",
+      "metadata": {
+        "法規名稱：": "最低工資法（112.12.27制定）\r\n                EN"
+      }
+    }
+  },
+  "articles": {
+    "civil:6": {
+      "law": "民法",
+      "number": "6",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=6",
+      "lines": [
+        {
+          "text": "人之權利能力，始於出生，終於死亡。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:7": {
+      "law": "民法",
+      "number": "7",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=7",
+      "lines": [
+        {
+          "text": "胎兒以將來非死產者為限，關於其個人利益之保護，視為既已出生。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:26": {
+      "law": "民法",
+      "number": "26",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=26",
+      "lines": [
+        {
+          "text": "法人於法令限制內，有享受權利負擔義務之能力。但專屬於自然人之權利義務，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:12": {
+      "law": "民法",
+      "number": "12",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=12",
+      "lines": [
+        {
+          "text": "滿十八歲為成年。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:13": {
+      "law": "民法",
+      "number": "13",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=13",
+      "lines": [
+        {
+          "text": "未滿七歲之未成年人，無行為能力。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "滿七歲以上之未成年人，有限制行為能力。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:14": {
+      "law": "民法",
+      "number": "14",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=14",
+      "lines": [
+        {
+          "text": "對於因精神障礙或其他心智缺陷，致不能為意思表示或受意思表示，或不能辨識其意思表示之效果者，法院得因本人、配偶、四親等內之親屬、最近一年有同居事實之其他親屬、檢察官、主管機關、社會福利機構、輔助人、意定監護受任人或其他利害關係人之聲請，為監護之宣告。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "受監護之原因消滅時，法院應依前項聲請權人之聲請，撤銷其宣告。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "法院對於監護之聲請，認為未達第一項之程度者，得依第十五條之一第一項規定，為輔助之宣告。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "受監護之原因消滅，而仍有輔助之必要者，法院得依第十五條之一第一項規定，變更為輔助之宣告。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "civil:15": {
+      "law": "民法",
+      "number": "15",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=15",
+      "lines": [
+        {
+          "text": "受監護宣告之人，無行為能力。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:15-1": {
+      "law": "民法",
+      "number": "15-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=15-1",
+      "lines": [
+        {
+          "text": "對於因精神障礙或其他心智缺陷，致其為意思表示或受意思表示，或辨識其意思表示效果之能力，顯有不足者，法院得因本人、配偶、四親等內之親屬、最近一年有同居事實之其他親屬、檢察官、主管機關或社會福利機構之聲請，為輔助之宣告。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "受輔助之原因消滅時，法院應依前項聲請權人之聲請，撤銷其宣告。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "受輔助宣告之人有受監護之必要者，法院得依第十四條第一項規定，變更為監護之宣告。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "civil:15-2": {
+      "law": "民法",
+      "number": "15-2",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=15-2",
+      "lines": [
+        {
+          "text": "受輔助宣告之人為下列行為時，應經輔助人同意。但純獲法律上利益，或依其年齡及身分、日常生活所必需者，不在此限：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、為獨資、合夥營業或為法人之負責人。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、為消費借貸、消費寄託、保證、贈與或信託。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、為訴訟行為。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、為和解、調解、調處或簽訂仲裁契約。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、為不動產、船舶、航空器、汽車或其他重要財產之處分、設定負擔、買賣、租賃或借貸。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "六、為遺產分割、遺贈、拋棄繼承權或其他相關權利。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "七、法院依前條聲請權人或輔助人之聲請，所指定之其他行為。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "第七十八條至第八十三條規定，於未依前項規定得輔助人同意之情形，準用之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "第八十五條規定，於輔助人同意受輔助宣告之人為第一項第一款行為時，準用之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "第一項所列應經同意之行為，無損害受輔助宣告之人利益之虞，而輔助人仍不為同意時，受輔助宣告之人得逕行聲請法院許可後為之。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "civil:75": {
+      "law": "民法",
+      "number": "75",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=75",
+      "lines": [
+        {
+          "text": "無行為能力人之意思表示，無效；雖非無行為能力人，而其意思表示，係在無意識或精神錯亂中所為者亦同。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:76": {
+      "law": "民法",
+      "number": "76",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=76",
+      "lines": [
+        {
+          "text": "無行為能力人由法定代理人代為意思表示，並代受意思表示。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:77": {
+      "law": "民法",
+      "number": "77",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=77",
+      "lines": [
+        {
+          "text": "限制行為能力人為意思表示及受意思表示，應得法定代理人之允許。但純獲法律上利益，或依其年齡及身分、日常生活所必需者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:78": {
+      "law": "民法",
+      "number": "78",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=78",
+      "lines": [
+        {
+          "text": "限制行為能力人未得法定代理人之允許，所為之單獨行為，無效。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:79": {
+      "law": "民法",
+      "number": "79",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=79",
+      "lines": [
+        {
+          "text": "限制行為能力人未得法定代理人之允許，所訂立之契約，須經法定代理人之承認，始生效力。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:80": {
+      "law": "民法",
+      "number": "80",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=80",
+      "lines": [
+        {
+          "text": "前條契約相對人，得定一個月以上之期限，催告法定代理人，確答是否承認。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "於前項期限內，法定代理人不為確答者，視為拒絕承認。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:81": {
+      "law": "民法",
+      "number": "81",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=81",
+      "lines": [
+        {
+          "text": "限制行為能力人於限制原因消滅後，承認其所訂立之契約者，其承認與法定代理人之承認，有同一效力。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "前條規定，於前項情形準用之。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:82": {
+      "law": "民法",
+      "number": "82",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=82",
+      "lines": [
+        {
+          "text": "限制行為能力人所訂立之契約，未經承認前，相對人得撤回之。但訂立契約時，知其未得有允許者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:83": {
+      "law": "民法",
+      "number": "83",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=83",
+      "lines": [
+        {
+          "text": "限制行為能力人用詐術使人信其為有行為能力人或已得法定代理人之允許者，其法律行為為有效。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:84": {
+      "law": "民法",
+      "number": "84",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=84",
+      "lines": [
+        {
+          "text": "法定代理人允許限制行為能力人處分之財產，限制行為能力人，就該財產有處分之能力。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:85": {
+      "law": "民法",
+      "number": "85",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=85",
+      "lines": [
+        {
+          "text": "法定代理人允許限制行為能力人獨立營業者，限制行為能力人，關於其營業，有行為能力。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "限制行為能力人，就其營業有不勝任之情形時，法定代理人得將其允許撤銷或限制之。但不得對抗善意第三人。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:71": {
+      "law": "民法",
+      "number": "71",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=71",
+      "lines": [
+        {
+          "text": "法律行為，違反強制或禁止之規定者，無效。但其規定並不以之為無效者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:72": {
+      "law": "民法",
+      "number": "72",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=72",
+      "lines": [
+        {
+          "text": "法律行為，有背於公共秩序或善良風俗者，無效。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:73": {
+      "law": "民法",
+      "number": "73",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=73",
+      "lines": [
+        {
+          "text": "法律行為，不依法定方式者，無效。但法律另有規定者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:86": {
+      "law": "民法",
+      "number": "86",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=86",
+      "lines": [
+        {
+          "text": "表意人無欲為其意思表示所拘束之意，而為意思表示者，其意思表示，不因之無效。但其情形為相對人所明知者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:87": {
+      "law": "民法",
+      "number": "87",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=87",
+      "lines": [
+        {
+          "text": "表意人與相對人通謀而為虛偽意思表示者，其意思表示無效。但不得以其無效對抗善意第三人。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "虛偽意思表示，隱藏他項法律行為者，適用關於該項法律行為之規定。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:88": {
+      "law": "民法",
+      "number": "88",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=88",
+      "lines": [
+        {
+          "text": "意思表示之內容有錯誤，或表意人若知其事情即不為意思表示者，表意人得將其意思表示撤銷之。但以其錯誤或不知事情，非由表意人自己之過失者為限。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "當事人之資格或物之性質，若交易上認為重要者，其錯誤，視為意思表示內容之錯誤。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:89": {
+      "law": "民法",
+      "number": "89",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=89",
+      "lines": [
+        {
+          "text": "意思表示，因傳達人或傳達機關傳達不實者，得比照前條之規定撤銷之。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:90": {
+      "law": "民法",
+      "number": "90",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=90",
+      "lines": [
+        {
+          "text": "前二條之撤銷權，自意思表示後，經過一年而消滅。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:91": {
+      "law": "民法",
+      "number": "91",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=91",
+      "lines": [
+        {
+          "text": "依第八十八條及第八十九條之規定撤銷意思表示時，表意人對於信其意思表示為有效而受損害之相對人或第三人，應負賠償責任。但其撤銷之原因，受害人明知或可得而知者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:92": {
+      "law": "民法",
+      "number": "92",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=92",
+      "lines": [
+        {
+          "text": "因被詐欺或被脅迫而為意思表示者，表意人得撤銷其意思表示。但詐欺係由第三人所為者，以相對人明知其事實或可得而知者為限，始得撤銷之。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "被詐欺而為之意思表示，其撤銷不得以之對抗善意第三人。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:93": {
+      "law": "民法",
+      "number": "93",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=93",
+      "lines": [
+        {
+          "text": "前條之撤銷，應於發見詐欺或脅迫終止後，一年內為之。但自意思表示後，經過十年，不得撤銷。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:95": {
+      "law": "民法",
+      "number": "95",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=95",
+      "lines": [
+        {
+          "text": "非對話而為意思表示者，其意思表示，以通知達到相對人時，發生效力。但撤回之通知，同時或先時到達者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "表意人於發出通知後死亡或喪失行為能力或其行為能力受限制者，其意思表示，不因之失其效力。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "civil:98": {
+      "law": "民法",
+      "number": "98",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=98",
+      "lines": [
+        {
+          "text": "解釋意思表示，應探求當事人之真意，不得拘泥於所用之辭句。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:153": {
+      "law": "民法",
+      "number": "153",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=153",
+      "lines": [
+        {
+          "text": "當事人互相表示意思一致者，無論其為明示或默示，契約即為成立。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "當事人對於必要之點，意思一致，而對於非必要之點，未經表示意思者，推定其契約為成立，關於該非必要之點，當事人意思不一致時，法院應依其事件之性質定之。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:1": {
+      "law": "公司法",
+      "number": "1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=1",
+      "lines": [
+        {
+          "text": "本法所稱公司，謂以營利為目的，依照本法組織、登記、成立之社團法人。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公司經營業務，應遵守法令及商業倫理規範，得採行增進公共利益之行為，以善盡其社會責任。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:6": {
+      "law": "公司法",
+      "number": "6",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=6",
+      "lines": [
+        {
+          "text": "公司非在中央主管機關登記後，不得成立。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "business:3": {
+      "law": "商業登記法",
+      "number": "3",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080004&flno=3",
+      "lines": [
+        {
+          "text": "本法所稱商業，指以營利為目的，以獨資或合夥方式經營之事業。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "civil:667": {
+      "law": "民法",
+      "number": "667",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=667",
+      "lines": [
+        {
+          "text": "稱合夥者，謂二人以上互約出資以經營共同事業之契約。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "前項出資，得為金錢或其他財產權，或以勞務、信用或其他利益代之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "金錢以外之出資，應估定價額為其出資額。未經估定者，以他合夥人之平均出資額視為其出資額。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "civil:681": {
+      "law": "民法",
+      "number": "681",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=B0000001&flno=681",
+      "lines": [
+        {
+          "text": "合夥財產不足清償合夥之債務時，各合夥人對於不足之額，連帶負其責任。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:2": {
+      "law": "公司法",
+      "number": "2",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=2",
+      "lines": [
+        {
+          "text": "公司分為左列四種：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、無限公司：指二人以上股東所組織，對公司債務負連帶無限清償責任之公司。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、有限公司：由一人以上股東所組織，就其出資額為限，對公司負其責任之公司。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、兩合公司：指一人以上無限責任股東，與一人以上有限責任股東所組織，其無限責任股東對公司債務負連帶無限清償責任；有限責任股東就其出資額為限，對公司負其責任之公司。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、股份有限公司：指二人以上股東或政府、法人股東一人所組織，全部資本分為股份；股東就其所認股份，對公司負其責任之公司。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "公司名稱，應標明公司之種類。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:99": {
+      "law": "公司法",
+      "number": "99",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=99",
+      "lines": [
+        {
+          "text": "各股東對於公司之責任，除第二項規定外，以其出資額為限。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "股東濫用公司之法人地位，致公司負擔特定債務且清償顯有困難，其情節重大而有必要者，該股東應負清償之責。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:154": {
+      "law": "公司法",
+      "number": "154",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=154",
+      "lines": [
+        {
+          "text": "股東對於公司之責任，除第二項規定外，以繳清其股份之金額為限。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "股東濫用公司之法人地位，致公司負擔特定債務且清償顯有困難，其情節重大而有必要者，該股東應負清償之責。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:156": {
+      "law": "公司法",
+      "number": "156",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=156",
+      "lines": [
+        {
+          "text": "股份有限公司之資本，應分為股份，擇一採行票面金額股或無票面金額股。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公司採行票面金額股者，每股金額應歸一律；採行無票面金額股者，其所得之股款應全數撥充資本。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公司股份之一部分得為特別股；其種類，由章程定之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "公司章程所定股份總數，得分次發行；同次發行之股份，其發行條件相同者，價格應歸一律。但公開發行股票之公司，其股票發行價格之決定方法，得由證券主管機關另定之。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "股東之出資，除現金外，得以對公司所有之貨幣債權、公司事業所需之財產或技術抵充之；其抵充之數額需經董事會決議。",
+          "paragraph": 5,
+          "main": true
+        }
+      ]
+    },
+    "company:157": {
+      "law": "公司法",
+      "number": "157",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=157",
+      "lines": [
+        {
+          "text": "公司發行特別股時，應就下列各款於章程中定之：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、特別股分派股息及紅利之順序、定額或定率。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、特別股分派公司賸餘財產之順序、定額或定率。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、特別股之股東行使表決權之順序、限制或無表決權。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、複數表決權特別股或對於特定事項具否決權特別股。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、特別股股東被選舉為董事、監察人之禁止或限制，或當選一定名額董事之權利。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "六、特別股轉換成普通股之轉換股數、方法或轉換公式。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "七、特別股轉讓之限制。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "八、特別股權利、義務之其他事項。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "前項第四款複數表決權特別股股東，於監察人選舉，與普通股股東之表決權同。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "下列特別股，於公開發行股票之公司，不適用之：",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "一、第一項第四款、第五款及第七款之特別股。",
+          "paragraph": 3,
+          "main": false
+        },
+        {
+          "text": "二、得轉換成複數普通股之特別股。",
+          "paragraph": 3,
+          "main": false
+        }
+      ]
+    },
+    "company:179": {
+      "law": "公司法",
+      "number": "179",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=179",
+      "lines": [
+        {
+          "text": "公司各股東，除本法另有規定外，每股有一表決權。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "有下列情形之一者，其股份無表決權：",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "一、公司依法持有自己之股份。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "二、被持有已發行有表決權之股份總數或資本總額超過半數之從屬公司，所持有控制公司之股份。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "三、控制公司及其從屬公司直接或間接持有他公司已發行有表決權之股份總數或資本總額合計超過半數之他公司，所持有控制公司及其從屬公司之股份。",
+          "paragraph": 2,
+          "main": false
+        }
+      ]
+    },
+    "company:161-1": {
+      "law": "公司法",
+      "number": "161-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=161-1",
+      "lines": [
+        {
+          "text": "公開發行股票之公司，應於設立登記或發行新股變更登記後三個月內發行股票。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公司負責人違反前項規定，不發行股票者，除由證券主管機關令其限期發行外，各處新臺幣二十四萬元以上二百四十萬元以下罰鍰；屆期仍未發行者，得繼續令其限期發行，並按次處罰至發行股票為止。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:163": {
+      "law": "公司法",
+      "number": "163",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=163",
+      "lines": [
+        {
+          "text": "公司股份之轉讓，除本法另有規定外，不得以章程禁止或限制之。但非於公司設立登記後，不得轉讓。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:108": {
+      "law": "公司法",
+      "number": "108",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=108",
+      "lines": [
+        {
+          "text": "公司應至少置董事一人執行業務並代表公司，最多置董事三人，應經股東表決權三分之二以上之同意，就有行為能力之股東中選任之。董事有數人時，得以章程置董事長一人，對外代表公司；董事長應經董事過半數之同意互選之。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事請假或因故不能行使職權時，指定股東一人代理之；未指定代理人者，由股東間互推一人代理之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "董事為自己或他人為與公司同類業務之行為，應對全體股東說明其行為之重要內容，並經股東表決權三分之二以上之同意。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "第三十條、第四十六條、第四十九條至第五十三條、第五十四條第三項、第五十七條至第五十九條、第二百零八條第三項、第二百零八條之一及第二百十一條第一項及第二項之規定，於董事準用之。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "代表公司之董事違反前項準用第二百十一條第一項或第二項規定者，處新臺幣二萬元以上十萬元以下罰鍰。",
+          "paragraph": 5,
+          "main": true
+        }
+      ]
+    },
+    "company:111": {
+      "law": "公司法",
+      "number": "111",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=111",
+      "lines": [
+        {
+          "text": "股東非得其他股東表決權過半數之同意，不得以其出資之全部或一部，轉讓於他人。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事非得其他股東表決權三分之二以上之同意，不得以其出資之全部或一部，轉讓於他人。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "前二項轉讓，不同意之股東有優先受讓權；如不承受，視為同意轉讓，並同意修改章程有關股東及其出資額事項。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "法院依強制執行程序，將股東之出資轉讓於他人時，應通知公司及其他股東，於二十日內，依第一項或第二項之方式，指定受讓人；逾期未指定或指定之受讓人不依同一條件受讓時，視為同意轉讓，並同意修改章程有關股東及其出資額事項。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:170": {
+      "law": "公司法",
+      "number": "170",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=170",
+      "lines": [
+        {
+          "text": "股東會分左列二種：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、股東常會，每年至少召集一次。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、股東臨時會，於必要時召集之。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "前項股東常會應於每會計年度終了後六個月內召開。但有正當事由經報請主管機關核准者，不在此限。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "代表公司之董事違反前項召開期限之規定者，處新臺幣一萬元以上五萬元以下罰鍰。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "company:171": {
+      "law": "公司法",
+      "number": "171",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=171",
+      "lines": [
+        {
+          "text": "股東會除本法另有規定外，由董事會召集之。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:172": {
+      "law": "公司法",
+      "number": "172",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=172",
+      "lines": [
+        {
+          "text": "股東常會之召集，應於二十日前通知各股東。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "股東臨時會之召集，應於十日前通知各股東。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司股東常會之召集，應於三十日前通知各股東；股東臨時會之召集，應於十五日前通知各股東。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "通知應載明召集事由；其通知經相對人同意者，得以電子方式為之。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "選任或解任董事、監察人、變更章程、減資、申請停止公開發行、董事競業許可、盈餘轉增資、公積轉增資、公司解散、合併、分割或第一百八十五條第一項各款之事項，應在召集事由中列舉並說明其主要內容，不得以臨時動議提出；其主要內容得置於證券主管機關或公司指定之網站，並應將其網址載明於通知。",
+          "paragraph": 5,
+          "main": true
+        },
+        {
+          "text": "代表公司之董事，違反第一項至第三項或前項規定者，處新臺幣一萬元以上五萬元以下罰鍰。但公開發行股票之公司，由證券主管機關處代表公司之董事新臺幣二十四萬元以上二百四十萬元以下罰鍰。",
+          "paragraph": 6,
+          "main": true
+        }
+      ]
+    },
+    "company:173": {
+      "law": "公司法",
+      "number": "173",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=173",
+      "lines": [
+        {
+          "text": "繼續一年以上，持有已發行股份總數百分之三以上股份之股東，得以書面記明提議事項及理由，請求董事會召集股東臨時會。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "前項請求提出後十五日內，董事會不為召集之通知時，股東得報經主管機關許可，自行召集。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "依前二項規定召集之股東臨時會，為調查公司業務及財產狀況，得選任檢查人。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "董事因股份轉讓或其他理由，致董事會不為召集或不能召集股東會時，得由持有已發行股份總數百分之三以上股份之股東，報經主管機關許可，自行召集。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:173-1": {
+      "law": "公司法",
+      "number": "173-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=173-1",
+      "lines": [
+        {
+          "text": "繼續三個月以上持有已發行股份總數過半數股份之股東，得自行召集股東臨時會。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "前項股東持股期間及持股數之計算，以第一百六十五條第二項或第三項停止股票過戶時之持股為準。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:174": {
+      "law": "公司法",
+      "number": "174",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=174",
+      "lines": [
+        {
+          "text": "股東會之決議，除本法另有規定外，應有代表已發行股份總數過半數股東之出席，以出席股東表決權過半數之同意行之。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:175": {
+      "law": "公司法",
+      "number": "175",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=175",
+      "lines": [
+        {
+          "text": "出席股東不足前條定額，而有代表已發行股份總數三分之一以上股東出席時，得以出席股東表決權過半數之同意，為假決議，並將假決議通知各股東，於一個月內再行召集股東會。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "前項股東會，對於假決議，如仍有已發行股份總數三分之一以上股東出席，並經出席股東表決權過半數之同意，視同前條之決議。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:277": {
+      "law": "公司法",
+      "number": "277",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=277",
+      "lines": [
+        {
+          "text": "公司非經股東會決議，不得變更章程。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "前項股東會之決議，應有代表已發行股份總數三分之二以上之股東出席，以出席股東表決權過半數之同意行之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司，出席股東之股份總數不足前項定額者，得以有代表已發行股份總數過半數股東之出席，出席股東表決權三分之二以上之同意行之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "前二項出席股東股份總數及表決權數，章程有較高之規定者，從其規定。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:178": {
+      "law": "公司法",
+      "number": "178",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=178",
+      "lines": [
+        {
+          "text": "股東對於會議之事項，有自身利害關係致有害於公司利益之虞時，不得加入表決，並不得代理他股東行使其表決權。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:180": {
+      "law": "公司法",
+      "number": "180",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=180",
+      "lines": [
+        {
+          "text": "股東會之決議，對無表決權股東之股份數，不算入已發行股份之總數。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "股東會之決議，對依第一百七十八條規定不得行使表決權之股份數，不算入已出席股東之表決權數。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:189": {
+      "law": "公司法",
+      "number": "189",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=189",
+      "lines": [
+        {
+          "text": "股東會之召集程序或其決議方法，違反法令或章程時，股東得自決議之日起三十日內，訴請法院撤銷其決議。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:189-1": {
+      "law": "公司法",
+      "number": "189-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=189-1",
+      "lines": [
+        {
+          "text": "法院對於前條撤銷決議之訴，認為其違反之事實非屬重大且於決議無影響者，得駁回其請求。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:191": {
+      "law": "公司法",
+      "number": "191",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=191",
+      "lines": [
+        {
+          "text": "股東會決議之內容，違反法令或章程者無效。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:192": {
+      "law": "公司法",
+      "number": "192",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=192",
+      "lines": [
+        {
+          "text": "公司董事會，設置董事不得少於三人，由股東會就有行為能力之人選任之。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公司得依章程規定不設董事會，置董事一人或二人。置董事一人者，以其為董事長，董事會之職權並由該董事行使，不適用本法有關董事會之規定；置董事二人者，準用本法有關董事會之規定。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司依第一項選任之董事，其全體董事合計持股比例，證券主管機關另有規定者，從其規定。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "民法第十五條之二及第八十五條之規定，對於第一項行為能力，不適用之。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "公司與董事間之關係，除本法另有規定外，依民法關於委任之規定。",
+          "paragraph": 5,
+          "main": true
+        },
+        {
+          "text": "第三十條之規定，對董事準用之。",
+          "paragraph": 6,
+          "main": true
+        }
+      ]
+    },
+    "company:195": {
+      "law": "公司法",
+      "number": "195",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=195",
+      "lines": [
+        {
+          "text": "董事任期不得逾三年。但得連選連任。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事任期屆滿而不及改選時，延長其執行職務至改選董事就任時為止。但主管機關得依職權限期令公司改選；屆期仍不改選者，自限期屆滿時，當然解任。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:198": {
+      "law": "公司法",
+      "number": "198",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=198",
+      "lines": [
+        {
+          "text": "股東會選任董事時，每一股份有與應選出董事人數相同之選舉權，得集中選舉一人，或分配選舉數人，由所得選票代表選舉權較多者，當選為董事。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "第一百七十八條之規定，對於前項選舉權，不適用之。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:199": {
+      "law": "公司法",
+      "number": "199",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=199",
+      "lines": [
+        {
+          "text": "董事得由股東會之決議，隨時解任；如於任期中無正當理由將其解任時，董事得向公司請求賠償因此所受之損害。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "股東會為前項解任之決議，應有代表已發行股份總數三分之二以上股東之出席，以出席股東表決權過半數之同意行之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司，出席股東之股份總數不足前項定額者，得以有代表已發行股份總數過半數股東之出席，出席股東表決權三分之二以上之同意行之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "前二項出席股東股份總數及表決權數，章程有較高之規定者，從其規定。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:197": {
+      "law": "公司法",
+      "number": "197",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=197",
+      "lines": [
+        {
+          "text": "董事經選任後，應向主管機關申報，其選任當時所持有之公司股份數額；公開發行股票之公司董事在任期中轉讓超過選任當時所持有之公司股份數額二分之一時，其董事當然解任。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事在任期中其股份有增減時，應向主管機關申報並公告之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司董事當選後，於就任前轉讓超過選任當時所持有之公司股份數額二分之一時，或於股東會召開前之停止股票過戶期間內，轉讓持股超過二分之一時，其當選失其效力。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "company:202": {
+      "law": "公司法",
+      "number": "202",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=202",
+      "lines": [
+        {
+          "text": "公司業務之執行，除本法或章程規定應由股東會決議之事項外，均應由董事會決議行之。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:203": {
+      "law": "公司法",
+      "number": "203",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=203",
+      "lines": [
+        {
+          "text": "每屆第一次董事會，由所得選票代表選舉權最多之董事於改選後十五日內召開之。但董事係於上屆董事任滿前改選，並決議自任期屆滿時解任者，應於上屆董事任滿後十五日內召開之。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事係於上屆董事任期屆滿前改選，並經決議自任期屆滿時解任者，其董事長、副董事長、常務董事之改選得於任期屆滿前為之，不受前項之限制。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "第一次董事會之召開，出席之董事未達選舉常務董事或董事長之最低出席人數時，原召集人應於十五日內繼續召開，並得適用第二百零六條之決議方法選舉之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "得選票代表選舉權最多之董事，未在第一項或前項期限內召開董事會時，得由過半數當選之董事，自行召集之。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:204": {
+      "law": "公司法",
+      "number": "204",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=204",
+      "lines": [
+        {
+          "text": "董事會之召集，應於三日前通知各董事及監察人。但章程有較高之規定者，從其規定。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司董事會之召集，其通知各董事及監察人之期間，由證券主管機關定之，不適用前項規定。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "有緊急情事時，董事會之召集，得隨時為之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "前三項召集之通知，經相對人同意者，得以電子方式為之。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "董事會之召集，應載明事由。",
+          "paragraph": 5,
+          "main": true
+        }
+      ]
+    },
+    "company:205": {
+      "law": "公司法",
+      "number": "205",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=205",
+      "lines": [
+        {
+          "text": "董事會開會時，董事應親自出席。但公司章程訂定得由其他董事代理者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事會開會時，如以視訊會議為之，其董事以視訊參與會議者，視為親自出席。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "董事委託其他董事代理出席董事會時，應於每次出具委託書，並列舉召集事由之授權範圍。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "前項代理人，以受一人之委託為限。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "公司章程得訂明經全體董事同意，董事就當次董事會議案以書面方式行使其表決權，而不實際集會。",
+          "paragraph": 5,
+          "main": true
+        },
+        {
+          "text": "前項情形，視為已召開董事會；以書面方式行使表決權之董事，視為親自出席董事會。",
+          "paragraph": 6,
+          "main": true
+        },
+        {
+          "text": "前二項規定，於公開發行股票之公司，不適用之。",
+          "paragraph": 7,
+          "main": true
+        }
+      ]
+    },
+    "company:206": {
+      "law": "公司法",
+      "number": "206",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=206",
+      "lines": [
+        {
+          "text": "董事會之決議，除本法另有規定外，應有過半數董事之出席，出席董事過半數之同意行之。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事對於會議之事項，有自身利害關係時，應於當次董事會說明其自身利害關係之重要內容。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "董事之配偶、二親等內血親，或與董事具有控制從屬關係之公司，就前項會議之事項有利害關係者，視為董事就該事項有自身利害關係。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "第一百七十八條、第一百八十條第二項之規定，於第一項之決議準用之。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:208": {
+      "law": "公司法",
+      "number": "208",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=208",
+      "lines": [
+        {
+          "text": "董事會未設常務董事者，應由三分之二以上董事之出席，及出席董事過半數之同意，互選一人為董事長，並得依章程規定，以同一方式互選一人為副董事長。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事會設有常務董事者，其常務董事依前項選舉方式互選之，名額至少三人，最多不得超過董事人數三分之一。董事長或副董事長由常務董事依前項選舉方式互選之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "董事長對內為股東會、董事會及常務董事會主席，對外代表公司。董事長請假或因故不能行使職權時，由副董事長代理之；無副董事長或副董事長亦請假或因故不能行使職權時，由董事長指定常務董事一人代理之；其未設常務董事者，指定董事一人代理之；董事長未指定代理人者，由常務董事或董事互推一人代理之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "常務董事於董事會休會時，依法令、章程、股東會決議及董事會決議，以集會方式經常執行董事會職權，由董事長隨時召集，以半數以上常務董事之出席，及出席過半數之決議行之。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "第五十七條及第五十八條對於代表公司之董事準用之。",
+          "paragraph": 5,
+          "main": true
+        }
+      ]
+    },
+    "company:8": {
+      "law": "公司法",
+      "number": "8",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=8",
+      "lines": [
+        {
+          "text": "本法所稱公司負責人：在無限公司、兩合公司為執行業務或代表公司之股東；在有限公司、股份有限公司為董事。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公司之經理人、清算人或臨時管理人，股份有限公司之發起人、監察人、檢查人、重整人或重整監督人，在執行職務範圍內，亦為公司負責人。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公司之非董事，而實質上執行董事業務或實質控制公司之人事、財務或業務經營而實質指揮董事執行業務者，與本法董事同負民事、刑事及行政罰之責任。但政府為發展經濟、促進社會安定或其他增進公共利益等情形，對政府指派之董事所為之指揮，不適用之。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "company:23": {
+      "law": "公司法",
+      "number": "23",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=23",
+      "lines": [
+        {
+          "text": "公司負責人應忠實執行業務並盡善良管理人之注意義務，如有違反致公司受有損害者，負損害賠償責任。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公司負責人對於公司業務之執行，如有違反法令致他人受有損害時，對他人應與公司負連帶賠償之責。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公司負責人對於違反第一項之規定，為自己或他人為該行為時，股東會得以決議，將該行為之所得視為公司之所得。但自所得產生後逾一年者，不在此限。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "company:209": {
+      "law": "公司法",
+      "number": "209",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=209",
+      "lines": [
+        {
+          "text": "董事為自己或他人為屬於公司營業範圍內之行為，應對股東會說明其行為之重要內容並取得其許可。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "股東會為前項許可之決議，應有代表已發行股份總數三分之二以上股東之出席，以出席股東表決權過半數之同意行之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司，出席股東之股份總數不足前項定額者，得以有代表已發行股份總數過半數股東之出席，出席股東表決權三分之二以上之同意行之。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "前二項出席股東股份總數及表決權數，章程有較高之規定者，從其規定。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "董事違反第一項之規定，為自己或他人為該行為時，股東會得以決議，將該行為之所得視為公司之所得。但自所得產生後逾一年者，不在此限。",
+          "paragraph": 5,
+          "main": true
+        }
+      ]
+    },
+    "company:216": {
+      "law": "公司法",
+      "number": "216",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=216",
+      "lines": [
+        {
+          "text": "公司監察人，由股東會選任之，監察人中至少須有一人在國內有住所。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "公開發行股票之公司依前項選任之監察人須有二人以上，其全體監察人合計持股比例，證券主管機關另有規定者，從其規定。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "公司與監察人間之關係，從民法關於委任之規定。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "第三十條之規定及第一百九十二條第一項、第四項關於行為能力之規定，對監察人準用之。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:217": {
+      "law": "公司法",
+      "number": "217",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=217",
+      "lines": [
+        {
+          "text": "監察人任期不得逾三年。但得連選連任。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "監察人任期屆滿而不及改選時，延長其執行職務至改選監察人就任時為止。但主管機關得依職權，限期令公司改選；屆期仍不改選者，自限期屆滿時，當然解任。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:222": {
+      "law": "公司法",
+      "number": "222",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=222",
+      "lines": [
+        {
+          "text": "監察人不得兼任公司董事、經理人或其他職員。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:218": {
+      "law": "公司法",
+      "number": "218",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=218",
+      "lines": [
+        {
+          "text": "監察人應監督公司業務之執行，並得隨時調查公司業務及財務狀況，查核、抄錄或複製簿冊文件，並得請求董事會或經理人提出報告。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "監察人辦理前項事務，得代表公司委託律師、會計師審核之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "違反第一項規定，規避、妨礙或拒絕監察人檢查行為者，代表公司之董事處新臺幣二萬元以上十萬元以下罰鍰。但公開發行股票之公司，由證券主管機關處代表公司之董事新臺幣二十四萬元以上二百四十萬元以下罰鍰。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "前項情形，主管機關或證券主管機關並應令其限期改正；屆期未改正者，繼續令其限期改正，並按次處罰至改正為止。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "company:218-1": {
+      "law": "公司法",
+      "number": "218-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=218-1",
+      "lines": [
+        {
+          "text": "董事發現公司有受重大損害之虞時，應立即向監察人報告。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:218-2": {
+      "law": "公司法",
+      "number": "218-2",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=218-2",
+      "lines": [
+        {
+          "text": "監察人得列席董事會陳述意見。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "董事會或董事執行業務有違反法令、章程或股東會決議之行為者，監察人應即通知董事會或董事停止其行為。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "company:219": {
+      "law": "公司法",
+      "number": "219",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=219",
+      "lines": [
+        {
+          "text": "監察人對於董事會編造提出股東會之各種表冊，應予查核，並報告意見於股東會。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "監察人辦理前項事務，得委託會計師審核之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "監察人違反第一項規定而為虛偽之報告者，各科新臺幣六萬元以下罰金。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "company:221": {
+      "law": "公司法",
+      "number": "221",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=221",
+      "lines": [
+        {
+          "text": "監察人各得單獨行使監察權。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:220": {
+      "law": "公司法",
+      "number": "220",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=220",
+      "lines": [
+        {
+          "text": "監察人除董事會不為召集或不能召集股東會外，得為公司利益，於必要時，召集股東會。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:223": {
+      "law": "公司法",
+      "number": "223",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=223",
+      "lines": [
+        {
+          "text": "董事為自己或他人與公司為買賣、借貸或其他法律行為時，由監察人為公司之代表。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:224": {
+      "law": "公司法",
+      "number": "224",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=224",
+      "lines": [
+        {
+          "text": "監察人執行職務違反法令、章程或怠忽職務，致公司受有損害者，對公司負賠償責任。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "company:227": {
+      "law": "公司法",
+      "number": "227",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=J0080001&flno=227",
+      "lines": [
+        {
+          "text": "第一百九十六條至第二百條、第二百零八條之一、第二百十四條及第二百十五條之規定，於監察人準用之。但第二百十四條對監察人之請求，應向董事會為之。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor:1": {
+      "law": "勞動基準法",
+      "number": "1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=1",
+      "lines": [
+        {
+          "text": "為規定勞動條件最低標準，保障勞工權益，加強勞雇關係，促進社會與經濟發展，特制定本法；本法未規定者，適用其他法律之規定。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "雇主與勞工所訂勞動條件，不得低於本法所定之最低標準。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "labor:2": {
+      "law": "勞動基準法",
+      "number": "2",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=2",
+      "lines": [
+        {
+          "text": "本法用詞，定義如下：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、勞工：指受雇主僱用從事工作獲致工資者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、雇主：指僱用勞工之事業主、事業經營之負責人或代表事業主處理有關勞工事務之人。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、工資：指勞工因工作而獲得之報酬；包括工資、薪金及按計時、計日、計月、計件以現金或實物等方式給付之獎金、津貼及其他任何名義之經常性給與均屬之。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、平均工資：指計算事由發生之當日前六個月內所得工資總額除以該期間之總日數所得之金額。工作未滿六個月者，指工作期間所得工資總額除以工作期間之總日數所得之金額。工資按工作日數、時數或論件計算者，其依上述方式計算之平均工資，如少於該期內工資總額除以實際工作日數所得金額百分之六十者，以百分之六十計。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、事業單位：指適用本法各業僱用勞工從事工作之機構。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "六、勞動契約：指約定勞雇關係而具有從屬性之契約。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "七、派遣事業單位：指從事勞動派遣業務之事業單位。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "八、要派單位：指依據要派契約，實際指揮監督管理派遣勞工從事工作者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "九、派遣勞工：指受派遣事業單位僱用，並向要派單位提供勞務者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "十、要派契約：指要派單位與派遣事業單位就勞動派遣事項所訂立之契約。",
+          "paragraph": 1,
+          "main": false
+        }
+      ]
+    },
+    "labor:9": {
+      "law": "勞動基準法",
+      "number": "9",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=9",
+      "lines": [
+        {
+          "text": "勞動契約，分為定期契約及不定期契約。臨時性、短期性、季節性及特定性工作得為定期契約；有繼續性工作應為不定期契約。派遣事業單位與派遣勞工訂定之勞動契約，應為不定期契約。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "定期契約屆滿後，有下列情形之一，視為不定期契約：",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "一、勞工繼續工作而雇主不即表示反對意思者。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "二、雖經另訂新約，惟其前後勞動契約之工作期間超過九十日，前後契約間斷期間未超過三十日者。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "前項規定於特定性或季節性之定期工作不適用之。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "labor_rules:6": {
+      "law": "勞動基準法施行細則",
+      "number": "6",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030002&flno=6",
+      "lines": [
+        {
+          "text": "本法第九條第一項所稱臨時性、短期性、季節性及特定性工作，依左列規定認定之：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、臨時性工作：係指無法預期之非繼續性工作，其工作期間在六個月以內者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、短期性工作：係指可預期於六個月內完成之非繼續性工作。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、季節性工作：係指受季節性原料、材料來源或市場銷售影響之非繼續性工作，其工作期間在九個月以內者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、特定性工作：係指可在特定期間完成之非繼續性工作。其工作期間超過一年者，應報請主管機關核備。",
+          "paragraph": 1,
+          "main": false
+        }
+      ]
+    },
+    "labor:11": {
+      "law": "勞動基準法",
+      "number": "11",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=11",
+      "lines": [
+        {
+          "text": "非有左列情事之一者，雇主不得預告勞工終止勞動契約：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、歇業或轉讓時。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、虧損或業務緊縮時。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、不可抗力暫停工作在一個月以上時。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、業務性質變更，有減少勞工之必要，又無適當工作可供安置時。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、勞工對於所擔任之工作確不能勝任時。",
+          "paragraph": 1,
+          "main": false
+        }
+      ]
+    },
+    "labor:12": {
+      "law": "勞動基準法",
+      "number": "12",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=12",
+      "lines": [
+        {
+          "text": "勞工有左列情形之一者，雇主得不經預告終止契約：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、於訂立勞動契約時為虛偽意思表示，使雇主誤信而有受損害之虞者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、對於雇主、雇主家屬、雇主代理人或其他共同工作之勞工，實施暴行或有重大侮辱之行為者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、受有期徒刑以上刑之宣告確定，而未諭知緩刑或未准易科罰金者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、違反勞動契約或工作規則，情節重大者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、故意損耗機器、工具、原料、產品，或其他雇主所有物品，或故意洩漏雇主技術上、營業上之秘密，致雇主受有損害者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "六、無正當理由繼續曠工三日，或一個月內曠工達六日者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "雇主依前項第一款、第二款及第四款至第六款規定終止契約者，應自知悉其情形之日起，三十日內為之。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "labor:13": {
+      "law": "勞動基準法",
+      "number": "13",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=13",
+      "lines": [
+        {
+          "text": "勞工在第五十條規定之停止工作期間或第五十九條規定之醫療期間，雇主不得終止契約。但雇主因天災、事變或其他不可抗力致事業不能繼續，經報主管機關核定者，不在此限。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor:14": {
+      "law": "勞動基準法",
+      "number": "14",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=14",
+      "lines": [
+        {
+          "text": "有下列情形之一者，勞工得不經預告終止契約：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、雇主於訂立勞動契約時為虛偽之意思表示，使勞工誤信而有受損害之虞者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、雇主、雇主家屬、雇主代理人對於勞工，實施暴行或有重大侮辱之行為者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、契約所訂之工作，對於勞工健康有危害之虞，經通知雇主改善而無效果者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、雇主、雇主代理人或其他勞工患有法定傳染病，對共同工作之勞工有傳染之虞，且重大危害其健康者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、雇主不依勞動契約給付工作報酬，或對於按件計酬之勞工不供給充分之工作者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "六、雇主違反勞動契約或勞工法令，致有損害勞工權益之虞者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "勞工依前項第一款、第六款規定終止契約者，應自知悉其情形之日起，三十日內為之。但雇主有前項第六款所定情形者，勞工得於知悉損害結果之日起，三十日內為之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "有第一項第二款或第四款情形，雇主已將該代理人間之契約終止，或患有法定傳染病者依衛生法規已接受治療時，勞工不得終止契約。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "第十七條規定於本條終止契約準用之。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "labor:15": {
+      "law": "勞動基準法",
+      "number": "15",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=15",
+      "lines": [
+        {
+          "text": "特定性定期契約期限逾三年者，於屆滿三年後，勞工得終止契約。但應於三十日前預告雇主。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "不定期契約，勞工終止契約時，應準用第十六條第一項規定期間預告雇主。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "labor:15-1": {
+      "law": "勞動基準法",
+      "number": "15-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=15-1",
+      "lines": [
+        {
+          "text": "未符合下列規定之一，雇主不得與勞工為最低服務年限之約定：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、雇主為勞工進行專業技術培訓，並提供該項培訓費用者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、雇主為使勞工遵守最低服務年限之約定，提供其合理補償者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "前項最低服務年限之約定，應就下列事項綜合考量，不得逾合理範圍：",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "一、雇主為勞工進行專業技術培訓之期間及成本。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "二、從事相同或類似職務之勞工，其人力替補可能性。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "三、雇主提供勞工補償之額度及範圍。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "四、其他影響最低服務年限合理性之事項。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "違反前二項規定者，其約定無效。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "勞動契約因不可歸責於勞工之事由而於最低服務年限屆滿前終止者，勞工不負違反最低服務年限約定或返還訓練費用之責任。",
+          "paragraph": 4,
+          "main": true
+        }
+      ]
+    },
+    "labor:16": {
+      "law": "勞動基準法",
+      "number": "16",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=16",
+      "lines": [
+        {
+          "text": "雇主依第十一條或第十三條但書規定終止勞動契約者，其預告期間依左列各款之規定：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、繼續工作三個月以上一年未滿者，於十日前預告之。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、繼續工作一年以上三年未滿者，於二十日前預告之。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、繼續工作三年以上者，於三十日前預告之。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "勞工於接到前項預告後，為另謀工作得於工作時間請假外出。其請假時數，每星期不得超過二日之工作時間，請假期間之工資照給。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "雇主未依第一項規定期間預告而終止契約者，應給付預告期間之工資。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "labor:17": {
+      "law": "勞動基準法",
+      "number": "17",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=17",
+      "lines": [
+        {
+          "text": "雇主依前條終止勞動契約者，應依下列規定發給勞工資遣費：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、在同一雇主之事業單位繼續工作，每滿一年發給相當於一個月平均工資之資遣費。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、依前款計算之剩餘月數，或工作未滿一年者，以比例計給之。未滿一個月者以一個月計。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "前項所定資遣費，雇主應於終止勞動契約三十日內發給。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "labor:18": {
+      "law": "勞動基準法",
+      "number": "18",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=18",
+      "lines": [
+        {
+          "text": "有左列情形之一者，勞工不得向雇主請求加發預告期間工資及資遣費：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、依第十二條或第十五條規定終止勞動契約者。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、定期勞動契約期滿離職者。",
+          "paragraph": 1,
+          "main": false
+        }
+      ]
+    },
+    "pension:12": {
+      "law": "勞工退休金條例",
+      "number": "12",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030020&flno=12",
+      "lines": [
+        {
+          "text": "勞工適用本條例之退休金制度者，適用本條例後之工作年資，於勞動契約依勞動基準法第十一條、第十三條但書、第十四條及第二十條或職業災害勞工保護法第二十三條、第二十四條規定終止時，其資遣費由雇主按其工作年資，每滿一年發給二分之一個月之平均工資，未滿一年者，以比例計給；最高以發給六個月平均工資為限，不適用勞動基準法第十七條之規定。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "依前項規定計算之資遣費，應於終止勞動契約後三十日內發給。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "選擇繼續適用勞動基準法退休金規定之勞工，其資遣費與退休金依同法第十七條、第五十五條及第八十四條之二規定發給。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "labor:10-1": {
+      "law": "勞動基準法",
+      "number": "10-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=10-1",
+      "lines": [
+        {
+          "text": "雇主調動勞工工作，不得違反勞動契約之約定，並應符合下列原則：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、基於企業經營上所必須，且不得有不當動機及目的。但法律另有規定者，從其規定。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、對勞工之工資及其他勞動條件，未作不利之變更。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、調動後工作為勞工體能及技術可勝任。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、調動工作地點過遠，雇主應予以必要之協助。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、考量勞工及其家庭之生活利益。",
+          "paragraph": 1,
+          "main": false
+        }
+      ]
+    },
+    "labor:19": {
+      "law": "勞動基準法",
+      "number": "19",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=19",
+      "lines": [
+        {
+          "text": "勞動契約終止時，勞工如請求發給服務證明書，雇主或其代理人不得拒絕。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor:20": {
+      "law": "勞動基準法",
+      "number": "20",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=20",
+      "lines": [
+        {
+          "text": "事業單位改組或轉讓時，除新舊雇主商定留用之勞工外，其餘勞工應依第十六條規定期間預告終止契約，並應依第十七條規定發給勞工資遣費。其留用勞工之工作年資，應由新雇主繼續予以承認。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor_rules:10": {
+      "law": "勞動基準法施行細則",
+      "number": "10",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030002&flno=10",
+      "lines": [
+        {
+          "text": "本法第二條第三款所稱之其他任何名義之經常性給與係指左列各款以外之給與。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、紅利。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、獎金：指年終獎金、競賽獎金、研究發明獎金、特殊功績獎金、久任獎金、節約燃料物料獎金及其他非經常性獎金。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、春節、端午節、中秋節給與之節金。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、醫療補助費、勞工及其子女教育補助費。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "五、勞工直接受自顧客之服務費。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "六、婚喪喜慶由雇主致送之賀禮、慰問金或奠儀等。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "七、職業災害補償費。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "八、勞工保險及雇主以勞工為被保險人加入商業保險支付之保險費。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "九、差旅費、差旅津貼及交際費。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "十、工作服、作業用品及其代金。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "十一、其他經中央主管機關會同中央目的事業主管機關指定者。",
+          "paragraph": 1,
+          "main": false
+        }
+      ]
+    },
+    "labor:21": {
+      "law": "勞動基準法",
+      "number": "21",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=21",
+      "lines": [
+        {
+          "text": "工資由勞雇雙方議定之。但不得低於基本工資。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "前項基本工資，由中央主管機關設基本工資審議委員會擬訂後，報請行政院核定之。",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "前項基本工資審議委員會之組織及其審議程序等事項，由中央主管機關另以辦法定之。",
+          "paragraph": 3,
+          "main": true
+        }
+      ]
+    },
+    "minimum:5": {
+      "law": "最低工資法",
+      "number": "5",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030028&flno=5",
+      "lines": [
+        {
+          "text": "勞工與雇主雙方議定之工資，不得低於最低工資；其議定之工資低於最低工資者，以本法所定之最低工資為其工資數額。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor:22": {
+      "law": "勞動基準法",
+      "number": "22",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=22",
+      "lines": [
+        {
+          "text": "工資之給付，應以法定通用貨幣為之。但基於習慣或業務性質，得於勞動契約內訂明一部以實物給付之。工資之一部以實物給付時，其實物之作價應公平合理，並適合勞工及其家屬之需要。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "工資應全額直接給付勞工。但法令另有規定或勞雇雙方另有約定者，不在此限。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "labor:23": {
+      "law": "勞動基準法",
+      "number": "23",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=23",
+      "lines": [
+        {
+          "text": "工資之給付，除當事人有特別約定或按月預付者外，每月至少定期發給二次，並應提供工資各項目計算方式明細；按件計酬者亦同。",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "雇主應置備勞工工資清冊，將發放工資、工資各項目計算方式明細、工資總額等事項記入。工資清冊應保存五年。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "labor_rules:14-1": {
+      "law": "勞動基準法施行細則",
+      "number": "14-1",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030002&flno=14-1",
+      "lines": [
+        {
+          "text": "本法第二十三條所定工資各項目計算方式明細，應包括下列事項：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、勞雇雙方議定之工資總額。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、工資各項目之給付金額。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、依法令規定或勞雇雙方約定，得扣除項目之金額。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "四、實際發給之金額。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "雇主提供之前項明細，得以紙本、電子資料傳輸方式或其他勞工可隨時取得及得列印之資料為之。",
+          "paragraph": 2,
+          "main": true
+        }
+      ]
+    },
+    "labor:25": {
+      "law": "勞動基準法",
+      "number": "25",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=25",
+      "lines": [
+        {
+          "text": "雇主對勞工不得因性別而有差別之待遇。工作相同、效率相同者，給付同等之工資。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor:26": {
+      "law": "勞動基準法",
+      "number": "26",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=26",
+      "lines": [
+        {
+          "text": "雇主不得預扣勞工工資作為違約金或賠償費用。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor:27": {
+      "law": "勞動基準法",
+      "number": "27",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=27",
+      "lines": [
+        {
+          "text": "雇主不按期給付工資者，主管機關得限期令其給付。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    },
+    "labor:28": {
+      "law": "勞動基準法",
+      "number": "28",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=28",
+      "lines": [
+        {
+          "text": "雇主有歇業、清算或宣告破產之情事時，勞工之下列債權受償順序與第一順位抵押權、質權或留置權所擔保之債權相同，按其債權比例受清償；未獲清償部分，有最優先受清償之權：",
+          "paragraph": 1,
+          "main": true
+        },
+        {
+          "text": "一、本於勞動契約所積欠之工資未滿六個月部分。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "二、雇主未依本法給付之退休金。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "三、雇主未依本法或勞工退休金條例給付之資遣費。",
+          "paragraph": 1,
+          "main": false
+        },
+        {
+          "text": "雇主應按其當月僱用勞工投保薪資總額及規定之費率，繳納一定數額之積欠工資墊償基金，作為墊償下列各款之用：",
+          "paragraph": 2,
+          "main": true
+        },
+        {
+          "text": "一、前項第一款積欠之工資數額。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "二、前項第二款與第三款積欠之退休金及資遣費，其合計數額以六個月平均工資為限。",
+          "paragraph": 2,
+          "main": false
+        },
+        {
+          "text": "積欠工資墊償基金，累積至一定金額後，應降低費率或暫停收繳。",
+          "paragraph": 3,
+          "main": true
+        },
+        {
+          "text": "第二項費率，由中央主管機關於萬分之十五範圍內擬訂，報請行政院核定之。",
+          "paragraph": 4,
+          "main": true
+        },
+        {
+          "text": "雇主積欠之工資、退休金及資遣費，經勞工請求未獲清償者，由積欠工資墊償基金依第二項規定墊償之；雇主應於規定期限內，將墊款償還積欠工資墊償基金。",
+          "paragraph": 5,
+          "main": true
+        },
+        {
+          "text": "積欠工資墊償基金，由中央主管機關設管理委員會管理之。基金之收繳有關業務，得由中央主管機關，委託勞工保險機構辦理之。基金墊償程序、收繳與管理辦法、第三項之一定金額及管理委員會組織規程，由中央主管機關定之。",
+          "paragraph": 6,
+          "main": true
+        }
+      ]
+    },
+    "labor:29": {
+      "law": "勞動基準法",
+      "number": "29",
+      "url": "https://law.moj.gov.tw/LawClass/LawSingle.aspx?pcode=N0030001&flno=29",
+      "lines": [
+        {
+          "text": "事業單位於營業年度終了結算，如有盈餘，除繳納稅捐、彌補虧損及提列股息、公積金外，對於全年工作並無過失之勞工，應給與獎金或分配紅利。",
+          "paragraph": 1,
+          "main": true
+        }
+      ]
+    }
+  },
+  "cards": [
+    {
+      "unit": 1,
+      "id": "law-person",
+      "title": "權利能力：先問「誰能擁有權利、負擔義務」",
+      "refs": [
+        "civil:6",
+        "civil:7",
+        "civil:26"
+      ],
+      "reading": "<ol><li><strong>第 6 條的主詞是「人」，判斷的是權利義務主體資格。</strong>出生的嬰兒可以受贈財產、成為繼承人；不會簽名或尚不能理解交易，不會因此失去權利能力。</li><li><strong>第 7 條是胎兒利益的特別保護。</strong>注意「將來非死產」與「關於其個人利益」兩個限制；不是把胎兒在所有事情上都當成已出生。</li><li><strong>第 26 條把範圍接到法人。</strong>公司可以買辦公室、欠貨款、成為契約當事人；但結婚、收養等專屬自然人的身分行為，不能直接搬給公司。</li><li><strong>下一步才問行為能力。</strong>能成為財產所有人，不等於能親自有效訂立買賣契約。兩種能力不能混成一個判斷。</li></ol>",
+      "worked": "祖母要送 2 歲孫子一筆錢。先看第 6 條：孫子可以享有財產權；再看第 13、76 條：他沒有行為能力，法律行為須由法定代理人處理。不能寫成「未成年，所以不能擁有存款」。",
+      "check": "公司能買土地，是否也代表公司能結婚？",
+      "answer": "不能。第 26 條承認法人的權利義務能力，但排除專屬自然人的權利義務。買土地和結婚的權利性質不同。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 1,
+      "id": "law-capacity",
+      "title": "成年、監護、輔助：能力要分開判斷",
+      "refs": [
+        "civil:12",
+        "civil:13",
+        "civil:14",
+        "civil:15",
+        "civil:15-1",
+        "civil:15-2"
+      ],
+      "reading": "<ol><li><strong>年齡先分三段。</strong>未滿 7 歲無行為能力；滿 7 歲、未滿 18 歲為限制行為能力；滿 18 歲成年。剛滿 7 歲已進入第二段，剛滿 18 歲已成年。</li><li><strong>成年不等於永遠不再檢查能力。</strong>受監護宣告者依第 15 條無行為能力；監護宣告要有法院宣告，不能只憑家人說有精神疾病就直接套用。</li><li><strong>輔助宣告不等於監護宣告。</strong>第 15-2 條是針對列舉的重要行為要求輔助人同意，例如借款、保證、不動產交易；不是將所有行為一律判無效。</li><li><strong>列舉行為仍有但書。</strong>純獲法律上利益或日常生活所必需者，原則不受該同意要求限制。未得同意時，該條準用第 78–83 條，仍須分辨單獨行為、契約等效果。</li></ol>",
+      "worked": "甲 30 歲，受輔助宣告後，想借款 100 萬元。重點不是「已成年就能自己決定」，而是第 15-2 條第 1 項第 2 款列了消費借貸，原則需輔助人同意。也不能因受輔助宣告就寫成「甲完全沒有行為能力」。",
+      "check": "17 歲、滿 18 歲、30 歲受監護宣告，分別如何判斷？",
+      "answer": "17 歲原則限制行為能力；滿 18 歲成年，一般有完全行為能力；30 歲受監護宣告則依第 15 條無行為能力。年齡和法院宣告是不同判斷軸。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 1,
+      "id": "law-minor-consent",
+      "title": "未成年人的交易：原則、例外與法定代理",
+      "refs": [
+        "civil:75",
+        "civil:76",
+        "civil:77"
+      ],
+      "reading": "<ol><li><strong>無行為能力與限制行為能力的規則不同。</strong>前者自己的意思表示依第 75 條無效，由法定代理人依第 76 條代為或代受意思表示；後者先依第 77 條檢查允許。</li><li><strong>「純獲法律上利益」看有沒有法律負擔。</strong>單純接受無負擔贈與，可能適用例外；買到很便宜的東西仍有付款義務，不是因為經濟划算就純獲利益。</li><li><strong>「日常生活所必需」要搭配年齡、身分。</strong>不能只用價格一刀切，也不能說所有吃喝購物都一定屬於例外。</li><li><strong>例外要先檢查，再談第 78、79 條。</strong>若本來就屬例外，不要仍要求法定代理人承認。</li></ol>",
+      "worked": "17 歲乙買一般日常餐點，與未經允許購買 8 萬元電腦，不能直接作相同結論。前者先查年齡、身分下的日常必需；後者若題目已排除日常必需、純獲利益及其他授權，才接第 79 條判斷契約效力。",
+      "check": "原價 5 萬元的電腦只賣 1 萬元，是純獲法律上利益嗎？",
+      "answer": "不是僅憑便宜就成立。買方仍負付款義務，應繼續檢查允許、日常必需或其他授權。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 1,
+      "id": "law-minor-effect",
+      "title": "同樣未得允許：單獨行為無效，契約效力未定",
+      "refs": [
+        "civil:78",
+        "civil:79",
+        "civil:80",
+        "civil:81",
+        "civil:82",
+        "civil:83"
+      ],
+      "reading": "<ol><li><strong>先分行為種類。</strong>契約要雙方意思合致；單獨行為由一方意思表示即可發生所要的效果。不能把「只有一個人簽名」直接當成單獨行為的定義。</li><li><strong>第 78 條：未得允許的單獨行為無效。</strong>第 79 條：未得允許的契約須承認才生效，通常稱效力未定。這是兩個不同結果。</li><li><strong>第 80 條：相對人可催告。</strong>期限須一個月以上；代理人在期限內不確答，視為拒絕承認，並非默示同意。</li><li><strong>第 81、82 條：後續身分與撤回。</strong>限制原因消滅後本人可承認；相對人原則可在承認前撤回，但訂約時明知未得允許者，不適用這項撤回權。</li><li><strong>第 83 條另處理詐術。</strong>須有以詐術使人相信具行為能力或已得允許的事實；題目僅寫未成年或沒有主動告知年齡，不能省略詐術要件。</li></ol>",
+      "worked": "17 歲丙未經允許購買非日常必需的電腦：先依第 79 條判效力未定。店家給法定代理人「兩星期內回覆」並不能直接套第 80 條一個月以上催告的效果；若依法給足期限而不回覆，才視為拒絕承認。",
+      "check": "父母收到合法催告後一直不答，是否表示同意買賣？",
+      "answer": "不是。第 80 條規定在一個月以上的催告期限內不確答，視為拒絕承認。也要先確認催告與期限合法。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 1,
+      "id": "law-minor-authority",
+      "title": "特定財產與獨立營業：授權有範圍",
+      "refs": [
+        "civil:84",
+        "civil:85"
+      ],
+      "reading": "<ol><li><strong>第 84 條是財產範圍的授權。</strong>法定代理人允許處分某筆財產，限制行為能力人就該財產有處分能力；不是因此對所有財產都取得完全行為能力。</li><li><strong>第 85 條是營業範圍的授權。</strong>經允許獨立營業，在該營業相關事項有行為能力；營業以外仍回到原本的能力規則。</li><li><strong>授權變更仍須顧及交易安全。</strong>營業不勝任可撤銷或限制允許，但不得對抗善意第三人。這裡的善意，是不知道該撤銷或限制的情況。</li></ol>",
+      "worked": "家長允許 17 歲丁獨立經營烘焙生意。丁為營業採買麵粉，與丁私人買高價機車，應分開判斷；不能只看到有開店，就說兩種交易都有同樣的行為能力。",
+      "check": "被允許處分 3,000 元零用錢，是否能因此自行處分家長名下房屋？",
+      "answer": "不能。第 84 條的處分能力限於被允許處分的財產，也不會讓未成年人取得別人房屋的處分權。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 1,
+      "id": "law-validity",
+      "title": "法律行為有效嗎：強制禁止、公序良俗、法定方式",
+      "refs": [
+        "civil:71",
+        "civil:72",
+        "civil:73"
+      ],
+      "reading": "<ol><li><strong>第 71 條先問違反哪一個強制或禁止規定。</strong>原則無效，但但書明文保留「規定並不以之為無效」的情況。看到行政違規或罰鍰，不要直接推成契約一定無效。</li><li><strong>第 72 條看內容是否違反公序良俗。</strong>它與能力不足、意思不一致是不同層次；作答須說明究竟哪個內容侵害公共秩序或善良風俗。</li><li><strong>第 73 條只在法律要求方式時才進場。</strong>不是所有契約都要求書面；若有法定方式，原則不遵守則無效，但還要查法律的其他規定。</li><li><strong>成立、有效、履行要分三層。</strong>雙方意思一致可能已成立；成立後仍可能因內容或方式而無效；有效後還有是否依約付款、交貨的履行問題。</li></ol>",
+      "worked": "甲乙口頭約定買賣普通二手桌，先依第 153 條看是否意思一致，不能只因沒有紙本就否認成立。若是其他法律特別要求一定方式的交易，才再以第 73 條檢查方式效果。",
+      "check": "「有違法就一定契約無效」漏掉第 71 條哪一部分？",
+      "answer": "漏掉但書。須解釋被違反規定的目的與效力，不能只憑有處罰規定就認定私法行為無效。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 1,
+      "id": "law-intention",
+      "title": "意思表示：心裡不想算數、通謀虛偽、錯誤、詐欺",
+      "refs": [
+        "civil:86",
+        "civil:87",
+        "civil:88",
+        "civil:89",
+        "civil:90",
+        "civil:91",
+        "civil:92",
+        "civil:93"
+      ],
+      "reading": "<ol><li><strong>第 86 條是單方心中保留。</strong>表面作成意思表示，心裡不想受拘束，原則不因此無效；相對人明知才看但書。不能事後一句「我只是開玩笑」就自動免責。</li><li><strong>第 87 條是雙方通謀虛偽。</strong>雙方共同作假，原則無效，但有善意第三人保護；若假買賣其實隱藏贈與，隱藏行為須依贈與等規定另行檢查。</li><li><strong>第 88、89 條是錯誤、傳達不實的撤銷。</strong>要辨認內容或重要資格、物的性質之錯誤，以及自己的過失等條件；並非事後覺得價格不划算就當然可撤銷。第 90 條有一年限制，第 91 條還可能有信賴損害賠償。</li><li><strong>第 92 條的詐欺、脅迫是「得撤銷」，不是一開始當然無效。</strong>第三人詐欺還須相對人明知或可得而知；詐欺撤銷不得對抗善意第三人。</li><li><strong>第 93 條再檢查期間。</strong>發見詐欺或脅迫終止後一年內，且意思表示後十年是最長限制。兩個起算點不同。</li></ol>",
+      "worked": "店家故意以假證明把仿品當真品賣，買方因而購買。先找欺罔及其與購買決定的關係，再依第 92 條討論撤銷；若買方只是後來不喜歡顏色，不能把主觀後悔直接寫成受詐欺。",
+      "check": "「通謀虛偽無效」與「受詐欺得撤銷」能否寫成同一種效果？",
+      "answer": "不能。前者雙方通謀作假，原則意思表示無效；後者是受欺騙的一方有撤銷權，並有要件、期間和第三人保護問題。",
+      "level": "連讀補充"
+    },
+    {
+      "unit": 1,
+      "id": "law-contract",
+      "title": "到達、真意、合意：契約什麼時候成立",
+      "refs": [
+        "civil:95",
+        "civil:98",
+        "civil:153"
+      ],
+      "reading": "<ol><li><strong>第 95 條處理非對話意思表示的生效時點。</strong>關鍵是通知達到相對人，不是寄出就一定生效，也不是一定要等本人實際讀完。具體是否到達仍須看傳遞事實。</li><li><strong>撤回通知須先到或同時到。</strong>若原表示已先到達，不能只說之後補寄撤回就當作從未生效。</li><li><strong>第 98 條提醒不要只抓字面。</strong>須探求當事人真意，搭配交易情境、前後約定判斷；也不表示一方事後自己說的心意必定優先。</li><li><strong>第 153 條看必要事項是否合意。</strong>明示、默示都可能成立；沉默與默示不能不分情境一概畫等號。非必要事項未說，並不必然阻止契約成立。</li></ol>",
+      "worked": "甲說「這張桌子 2,000 元賣你」，乙明確接受，且標的、價金等必要事項一致。在沒有其他特別方式要求的假設下，可能已成立買賣；之後有沒有簽收據、是否交桌付款，是不同問題。",
+      "check": "電子訊息按下送出，就一定同時達到相對人嗎？",
+      "answer": "不能只看送出。第 95 條採到達規則，須檢查通知實際進入相對人可支配或了解範圍等傳遞事實。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 2,
+      "id": "law-business-form",
+      "title": "企業、商業、公司、合夥：先找法律主體",
+      "refs": [
+        "company:1",
+        "company:6",
+        "business:3",
+        "civil:667",
+        "civil:681"
+      ],
+      "reading": "<ol><li><strong>企業是經營活動的概念，公司是法定組織。</strong>第 1 條把公司定為營利目的、依法組織登記成立的社團法人；第 6 條強調登記成立。</li><li><strong>商業登記法第 3 條的「商業」限獨資、合夥事業。</strong>日常語言把所有做生意者都叫公司，法律題不能照這種叫法判斷。</li><li><strong>一般合夥與公司分開。</strong>民法第 667 條的合夥是二人以上互約出資經營共同事業的契約，出資不只現金；第 681 條規定合夥財產不足時，合夥人對不足額負連帶責任。</li><li><strong>先問誰欠錢，再問誰另負責。</strong>商號、公司、股東、董事不可以互換。法律主體不同，責任範圍和請求對象也不同。</li></ol>",
+      "worked": "甲乙各出資開店：若是一般合夥，店內財產不足清償時須接民法第 681 條；若是依法成立的有限公司，則先查第 99 條。不能兩者都用「我只出 10 萬，最多賠 10 萬」結束分析。",
+      "check": "店名叫「某某企業社」，能否只憑名稱認定它是股份有限公司？",
+      "answer": "不能。應查其實際登記的組織型態，不能用商號名稱推定法人資格或股東責任。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 2,
+      "id": "law-limited-liability",
+      "title": "四種公司與有限責任：到底對誰、負到哪裡",
+      "refs": [
+        "company:2",
+        "company:99",
+        "company:154"
+      ],
+      "reading": "<ol><li><strong>第 2 條先分四種型態。</strong>無限公司股東對公司債務負連帶無限清償責任；兩合公司同時有無限責任與有限責任股東，不能一概而論。</li><li><strong>有限公司看第 99 條，股份有限公司看第 154 條。</strong>股東對公司的出資責任有額度限制，不等於公司自己的債務也只負到資本額。</li><li><strong>「公司負債」與「股東欠繳出資」是兩個法律關係。</strong>股東出資已足額履行，不代表股東可把公司帳上的錢當作私人錢取回。</li><li><strong>有限責任並非所有情況免責。</strong>法人地位濫用、特定債務、清償顯有困難、情節重大且有必要等條件，須逐一檢查；個人保證或自己的侵權責任也另論。</li></ol>",
+      "worked": "有限公司股東已繳足出資 10 萬，公司另欠供應商 100 萬。在沒有保證、濫用或其他責任事由的假設下，債務人是公司，不能只因公司資產不足就直接要求該股東另付 100 萬。",
+      "check": "有限責任是否等於公司欠債最多只還登記資本額？",
+      "answer": "不是。公司仍以其財產負擔自己的債務；有限責任主要在限定股東對公司的出資責任，另有法定例外。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 2,
+      "id": "law-share-rights",
+      "title": "股份、股票、特別股、表決權是不同層次",
+      "refs": [
+        "company:156",
+        "company:157",
+        "company:179",
+        "company:161-1",
+        "company:163"
+      ],
+      "reading": "<ol><li><strong>第 156 條：資本分為股份。</strong>可採票面金額股或無票面金額股；股份是出資與權益的單位，不是公司財產的直接共有份額。</li><li><strong>第 157 條：特別股內容須看章程及法律限制。</strong>股利、剩餘財產分配、表決權等可不同；不能只因叫特別股，就推論必有或必無表決權。公開發行公司另有不適用的種類。</li><li><strong>第 179 條：每股一表決權是原則。</strong>法律另有規定及本條無表決權情況要先排除，不是每個股東一票。</li><li><strong>第 161-1 條的股票義務針對公開發行公司。</strong>設立或新股變更登記後三個月內發行股票；有股份不等於所有公司都必須發行同樣形式的股票。</li><li><strong>第 163 條是股份轉讓原則。</strong>須注意「除本法另有規定外」與登記成立前不得轉讓，不能忽略特別股、閉鎖性等其他法定制度。</li></ol>",
+      "worked": "甲持有 100 股，乙持有 900 股。假設全為一般有表決權股份，表決權是 100 與 900，並非甲乙各一票；甲也不能因持股 10% 就自行搬走公司 10% 的設備。",
+      "check": "非公開發行公司沒有印股票，是否就表示股東沒有股份？",
+      "answer": "不是。有無股份與是否須發行股票是不同問題。第 161-1 條的發行義務對象要先辨認；可回做國考原題第 2 題。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 2,
+      "id": "law-limited-company",
+      "title": "有限公司的董事與出資轉讓，不能套股份有限公司",
+      "refs": [
+        "company:108",
+        "company:111"
+      ],
+      "reading": "<ol><li><strong>有限公司至少一名、最多三名董事。</strong>須以股東表決權三分之二以上同意，從有行為能力的股東中選任。與股份有限公司第 192 條不要求必為股東的規則不同。</li><li><strong>第 108 條沒有直接規定董事任期不得超過三年。</strong>不要把股份有限公司第 195 條或監察人第 217 條的任期上限直接搬過來。</li><li><strong>第 111 條分一般股東與董事。</strong>一般股東出資轉讓需其他股東表決權過半數同意；董事出資轉讓需其他股東表決權三分之二以上同意。</li><li><strong>分母是「其他股東表決權」。</strong>不是公司總股數，不是把轉讓人自己的票加進同意數；不同意者的優先受讓等後續規則亦須連讀。</li></ol>",
+      "worked": "有限公司某董事要轉讓出資，其他股東表決權合計 90 票，至少需 60 票同意。若只是一般非董事股東轉讓，同一假設下須超過 45 票，至少 46 票；兩種身分門檻不同。",
+      "check": "有限公司董事任期可以直接背「最長三年」嗎？",
+      "answer": "不能直接用股份有限公司的第 195 條推論。有限公司須依第 108 條等適用規定判斷；這正是國考原題第 7 題的區別。",
+      "level": "連讀補充"
+    },
+    {
+      "unit": 3,
+      "id": "law-meeting-call",
+      "title": "股東會種類、召集權與通知：不是董事長想開就開",
+      "refs": [
+        "company:170",
+        "company:171",
+        "company:172",
+        "company:173",
+        "company:173-1"
+      ],
+      "reading": "<ol><li><strong>第 170 條：常會每年至少一次。</strong>原則會計年度終了後六個月內召開；臨時會在必要時召集。這是會議種類及時點。</li><li><strong>第 171 條：原則召集權在董事會。</strong>董事長擔任主席、對外代表，和有無獨立法定召集權不是同一回事。</li><li><strong>第 173 條少數股東路徑。</strong>繼續一年以上、持股 3%以上，先書面請求；十五日內董事會不為召集通知，才報經主管機關許可自行召集。第 4 項另有董事會不為或不能召集的路徑。</li><li><strong>第 173-1 條多數股東路徑。</strong>繼續三個月以上、持股過半數，可自行召集臨時會；持股期間與持股數另依停止過戶時點計算。兩條不能只背一個百分比。</li><li><strong>第 172 條再看通知。</strong>非公開發行常會 20 日／臨時會 10 日；公開發行常會 30 日／臨時會 15 日。選解任董監事、變更章程等列舉事項須列召集事由，不得臨時動議。</li></ol>",
+      "worked": "甲持股 4% 已一年，書面請求後第 5 天就自行召集，不能只因超過 3% 就認為合法。要再檢查十五日與主管機關許可等條件；若改成持股 60% 已三個月，則另查第 173-1 條。",
+      "check": "董事長與董事會是同一個召集權人嗎？",
+      "answer": "不是。第 171 條原則由董事會召集，董事長的主席、代表權職位不直接等同獨立召集權；尚有法定股東、監察人等例外。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 3,
+      "id": "law-ordinary-resolution",
+      "title": "普通決議：出席與同意的分母要換一次",
+      "refs": [
+        "company:174"
+      ],
+      "reading": "<ol><li><strong>先讀開頭「除本法另有規定外」。</strong>普通決議只是一般規則，變更章程、解任董事、競業許可等要先找各自條文。</li><li><strong>第一關：出席。</strong>看出席者代表的股份是否超過已發行股份總數一半；不是數現場來了幾個人。</li><li><strong>第二關：同意。</strong>看同意票是否超過出席股東表決權一半。已到場但棄權，不能逕自當成不在分母。</li><li><strong>兩關「過半數」都不含剛好一半。</strong>在整數且每股一票的簡化題，最低合格數可用一半向下取整再加一；真題仍須先扣除法定不計入者。</li></ol>",
+      "worked": "總數 10,000 股、出席 6,000 股、同意 3,000 票：6,000＞5,000，第一關通過；3,000＝6,000÷2，第二關未通過。同意改 3,001 才過半。這裡假設全有表決權、無利害關係扣除，且程序合法。",
+      "check": "出席 6,000 股時，需要總公司 5,001 張同意票才通過普通決議嗎？",
+      "answer": "不需要以總股數作同意分母。在本題簡化假設下，同意分母是出席表決權 6,000，至少 3,001 票；出席門檻與同意門檻的分母不同。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 3,
+      "id": "law-provisional",
+      "title": "假決議：三分之一以上只是第一步",
+      "refs": [
+        "company:175"
+      ],
+      "reading": "<ol><li><strong>起點是未達第 174 條出席定額。</strong>但出席已達總股份三分之一以上，才進到假決議。不是任意議案都能用它取代各自的特殊決議。</li><li><strong>第一場須出席表決權過半數同意。</strong>作成假決議後，須通知各股東，並於一個月內再召集。</li><li><strong>第二場仍須兩個條件。</strong>對原假決議，總股份三分之一以上出席，且出席表決權過半數同意，才視同普通決議。</li><li><strong>「以上」與「過半數」要分開。</strong>三分之一以上包含正好三分之一；過半數不含一半。也不能省略第二場會議。</li></ol>",
+      "worked": "總股數 9,000，第一場出席 3,000、同意 1,501：出席正好三分之一，未達普通決議過半數出席，但可依本條作假決議。第二場若只出席 2,999，即使全票贊成，仍不足三分之一以上。",
+      "check": "第一場 3,000／9,000 出席，能直接宣布普通決議完成嗎？",
+      "answer": "不能。先依第 175 條作假決議、通知，於一個月內再召集；第二場對假決議符合條件，才視同第 174 條決議。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 3,
+      "id": "law-special-resolution",
+      "title": "變更章程的特殊決議，與普通決議分開",
+      "refs": [
+        "company:277"
+      ],
+      "reading": "<ol><li><strong>第 1 項先決定權限。</strong>變更章程須經股東會決議，不能只由董事長簽名決定。</li><li><strong>一般路徑：</strong>總股份三分之二以上出席，出席表決權過半數同意。「出席三分之二」與「同意過半」位置不能對調。</li><li><strong>公開發行公司的替代路徑：</strong>出席不足前述定額時，得總股份過半數出席、出席表決權三分之二以上同意。不是所有非公開發行公司都可選這條。</li><li><strong>最後讀章程更高要求。</strong>法條允許章程提高門檻時，題目已交代較高規定就不能忽略；召集事由也須接第 172 條。</li></ol>",
+      "worked": "總股數 9,000，全有表決權。非公開發行公司出席 6,000、同意 3,001，符合一般路徑；若出席 5,000、同意 3,400，不能只因同意超過三分之二就讓非公開發行公司套公開發行替代路徑。",
+      "check": "公開發行替代路徑，總數 9,000、出席 5,000 時，至少多少同意票？",
+      "answer": "在無扣除與無章程更高要求的簡化假設下，出席超過 4,500；同意須達 5,000×2/3＝3,333.333…，整數至少 3,334 票。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 3,
+      "id": "law-vote-exclusions",
+      "title": "無表決權與利害關係：兩種扣除不能混用",
+      "refs": [
+        "company:178",
+        "company:179",
+        "company:180"
+      ],
+      "reading": "<ol><li><strong>第 179 條是股份本身無表決權。</strong>例如公司依法持有自己股份。第 180 條第 1 項把這些股份從決議所用已發行股份總數扣除。</li><li><strong>第 178 條是對特定議案的表決限制。</strong>須有自身利害關係，而且有害公司利益之虞，才不得加入表決，也不得代理其他股東表決。</li><li><strong>第 180 條第 2 項扣的是出席表決權數。</strong>不能看到「不能投票」就一律從所有分母全部刪掉；先說明適用第幾項。</li><li><strong>計算次序固定：</strong>辨認無表決權股份 → 決定出席分母 → 辨認議案利害關係 → 決定同意分母 → 代入門檻。遇特殊選舉等另有規定還須再查。</li></ol>",
+      "worked": "假設 10,000 股中，公司自己持有 1,000 股；出席有表決權股數 6,000，其中對本案依法不得表決 1,000。出席分母先以 9,000 判斷，6,000＞4,500；同意分母為 5,000，普通決議需超過 2,500。不能把兩個分母都寫成 10,000。",
+      "check": "依法不得對本議案表決的 1,000 股，是否等同公司持有自己股份？",
+      "answer": "不同。前者接第 178、180 條第 2 項，處理出席表決權分母；後者接第 179、180 條第 1 項，處理已發行股份總數分母。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 3,
+      "id": "law-resolution-defects",
+      "title": "程序有瑕疵與決議內容違法，效果不同",
+      "refs": [
+        "company:189",
+        "company:189-1",
+        "company:191"
+      ],
+      "reading": "<ol><li><strong>第 189 條看召集程序或決議方法。</strong>例如通知程序、表決方法違反法令或章程，股東得自決議日起三十日內訴請法院撤銷；不是自己宣布撤銷即可。</li><li><strong>第 189-1 條有法院裁量。</strong>違反事實非屬重大，且對決議無影響時，法院得駁回撤銷請求。兩個條件要一起讀。</li><li><strong>第 191 條看決議內容。</strong>內容違反法令或章程者無效，和程序瑕疵的撤銷制度不同。</li><li><strong>作答先分類，再談效果。</strong>通知不足、出席門檻錯誤、決議內容違法，不要全部只寫「決議違法所以無效」。決議不成立等其他類型仍須依個案另論。</li></ol>",
+      "worked": "同樣是股東會爭議，某股東主張通知期間不足，是程序層次；若主張議案內容本身違反法律禁止規定，是內容層次。應先選對第 189 或 191 條，再談期間及法院處理。",
+      "check": "程序違反後，是否一定可以不管三十日而永久主張撤銷？",
+      "answer": "不能如此概括。第 189 條明定自決議日起三十日內訴請法院撤銷；內容無效或不成立等不同問題須另外分類。",
+      "level": "連讀補充"
+    },
+    {
+      "unit": 4,
+      "id": "law-director-election",
+      "title": "董事的選任、任期、累積投票與解任",
+      "refs": [
+        "company:192",
+        "company:195",
+        "company:198",
+        "company:199"
+      ],
+      "reading": "<ol><li><strong>第 192 條先看組織前提。</strong>設董事會時董事不得少於三人；另有依章程不設董事會、置一人或二人的規則。本章一般決議例子以設有董事會的股份有限公司為前提，公開發行等尚須檢查特別規定。</li><li><strong>董事由股東會選任，不以股東身分為當然要件。</strong>須有行為能力；第 192 條也排除民法第 15-2、85 條在該選任能力上的適用。公司與董事關係原則依委任。</li><li><strong>第 195 條：任期不得逾三年，但得連選連任。</strong>不是三年到了終身不能再任；未及改選的職務延長與主管機關限期改選，是後段不同規則。</li><li><strong>第 198 條採累積投票。</strong>每股選舉權＝應選董事人數，可集中或分配，依所得選舉權較多者當選；不是把普通決議過半同意的公式套進選舉。</li><li><strong>第 199 條解任要用特別門檻。</strong>股東會可隨時解任，但任期中無正當理由可能須賠償。解任有效與須否賠償要分開；公開發行替代門檻及章程較高規定也須檢查。</li></ol>",
+      "worked": "應選三名董事，甲持 100 股，享有 300 個選舉權，可全部投給一名候選人，或分配給數人；不是甲固定只有 100 票，也不是候選人必須各得全公司過半票才當選。",
+      "check": "董事任期最長三年，是否表示不得連任？",
+      "answer": "不是。第 195 條明定得連選連任。有限公司董事則不得直接套用本條任期規則，須回第 108 條分辨。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 4,
+      "id": "law-director-transfer",
+      "title": "董事持股轉讓：時間、公司類型、分母都要看",
+      "refs": [
+        "company:197"
+      ],
+      "reading": "<ol><li><strong>先認公開發行股票公司。</strong>第 1 項的任期中轉讓超過一半當然解任，不可直接擴張為所有非公開發行公司的一般規則。</li><li><strong>基準是「選任當時所持有股份」。</strong>不是公司總股數，也不是每次賣股前剩下的股份。題目分次轉讓時，仍須對照該基準判斷。</li><li><strong>任期中超過一半：董事當然解任。</strong>無須再由股東會另作解任決議，與第 199 條的解任程序不同。</li><li><strong>就任前或停止過戶期間：讀第 3 項的當選失效。</strong>效果用語與第 1 項不同，不能全部寫成任期中解任。</li><li><strong>持股增減申報是另一義務。</strong>即使數量沒有超過一半，不等於所有申報義務都消失。</li></ol>",
+      "worked": "公開發行公司甲董事選任時持 1,000 股，任期中轉讓 500 股：500＝1,000÷2，未超過。若轉讓 501 股，501＞500，符合本條的數量條件。這正是老師公告強調的「超過」不含本數。",
+      "check": "要以選任時持股，還是公司已發行股份總數除以二？",
+      "answer": "以該董事選任當時持有股份為分母。還須檢查公開發行身分與轉讓時間，不能只算出一半就結束。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 4,
+      "id": "law-board-call",
+      "title": "董事會的權限、第一次召開、召集通知",
+      "refs": [
+        "company:202",
+        "company:203",
+        "company:204"
+      ],
+      "reading": "<ol><li><strong>第 202 條先畫權限。</strong>公司業務執行原則由董事會決議；法律或章程交給股東會者，不能用董事會取代。</li><li><strong>第 203 條是每屆第一次董事會的特別召集。</strong>一般先由所得選票代表選舉權最多的董事，在法定十五日期間內召開；改選與任期屆滿先後不同，起算點也不同。</li><li><strong>第 204 條一般通知為三日前。</strong>章程有較高規定從其規定；公開發行公司的通知期間交由證券主管機關規定，不能直接背所有公司都是三日。</li><li><strong>緊急與電子通知各有條件。</strong>緊急情事得隨時召集；電子方式要經相對人同意。通知還須載明事由，和會議最後怎麼表決分開檢查。</li></ol>",
+      "worked": "題目問非公開發行公司的一般董事會，章程規定五日前通知。不能只背第 204 條三日就說三日前一定合法；該條已明文要求章程較高規定從其規定。",
+      "check": "股東會通知 20／10 日，可以直接拿來算董事會通知嗎？",
+      "answer": "不能。兩種會議適用不同條文；董事會一般查第 204 條，公開發行及章程較高要求另看。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 4,
+      "id": "law-board-vote",
+      "title": "董事會出席、代理、一般決議與利益迴避",
+      "refs": [
+        "company:205",
+        "company:206",
+        "company:178",
+        "company:180"
+      ],
+      "reading": "<ol><li><strong>第 205 條原則親自出席。</strong>章程允許才可由其他董事代理，須逐次出具委託書並列授權範圍，代理人以受一人委託為限；不能隨便找非董事親友代開。</li><li><strong>視訊參與視為親自出席。</strong>不實際集會而用書面表決，則需章程訂明、全體董事同意等條件；公開發行公司不適用該書面替代制度。</li><li><strong>第 206 條一般門檻是兩個過半。</strong>全體董事過半出席、出席董事過半同意，計算單位是人數，不是持股數。</li><li><strong>利害關係先揭露，再檢查是否須迴避。</strong>自身、所列親屬或控制從屬公司利害關係的規則要讀；有害公司利益之虞才接第 178 條的表決限制，並依第 180 條第 2 項處理表決權分母。</li><li><strong>不要自行省略利益衝突的事實。</strong>一般無衝突題可直接算；有衝突時應先列明準用依據，再處理哪些人能表決及分母，不把所有出席、表決概念一併刪除。</li></ol>",
+      "worked": "五名董事、無利益衝突，三人出席、兩人同意：3＞5÷2，2＞3÷2，符合一般門檻。若議案改為互選董事長，就不能沿用這個出席標準，須接第 208 條。",
+      "check": "五名董事只有兩人出席，兩人一致同意能通過一般決議嗎？",
+      "answer": "不能。全體董事過半數出席的第一關未達到，一致同意不能補足出席門檻。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 4,
+      "id": "law-chairman",
+      "title": "董事長：互選門檻與對外代表分開",
+      "refs": [
+        "company:208"
+      ],
+      "reading": "<ol><li><strong>未設常務董事的一般互選門檻：</strong>三分之二以上董事出席、出席董事過半數同意。與第 206 條一般業務決議的出席門檻不同。</li><li><strong>董事長是董事互選，不是一般情況由股東直接選。</strong>設有常務董事時又有不同互選層次，須按第 2 項讀。</li><li><strong>第 3 項分對內主席與對外代表。</strong>對外代表公司，不表示可略過內部應有決議；合法內部決定，也不代表任何董事都可對外簽約。</li><li><strong>請假或不能行使職權有代理順序。</strong>先看副董事長，再看指定或互推的董事／常務董事，不是任何職員自動取得代表權。</li></ol>",
+      "worked": "五名董事互選董事長，至少四人出席，因 5×2/3＝3.333…；若四人出席，同意須過半，至少三人。只有三人出席、兩人同意，雖符合一般董事會門檻，仍不符合本條一般互選出席門檻。",
+      "check": "董事長能代表公司，是否可直接代替股東會修改章程？",
+      "answer": "不能。代表權與內部決策權不同；變更章程須依第 277 條股東會決議，不能以第 208 條跳過。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 4,
+      "id": "law-duties-competition",
+      "title": "負責人義務、利益衝突與競業許可",
+      "refs": [
+        "company:8",
+        "company:23",
+        "company:209"
+      ],
+      "reading": "<ol><li><strong>第 8 條先辨認誰是公司負責人。</strong>有限公司、股份有限公司的董事屬之；經理人、監察人等在執行職務範圍內亦可能屬之，實質控制者另有規定。</li><li><strong>第 23 條第 1 項：對公司責任。</strong>忠實執行、善良管理人注意義務、違反、公司受損害等須連起來；不是只要經營虧損就當然違反義務。</li><li><strong>第 2 項：對他人的責任。</strong>執行公司業務違反法令致他人損害，負責人與公司連帶賠償；不能只寫公司有法人格就一律切斷個人責任。</li><li><strong>第 209 條：屬公司營業範圍內的競業。</strong>為自己或他人做，應向股東會說明重要內容並取得許可，不能只找董事長口頭答應。許可有特別決議門檻、公開發行替代規則及章程更高要求。</li><li><strong>違反競業另有所得歸入。</strong>股東會可決議將所得視為公司所得，但有所得產生後一年限制；它與一般損害賠償的構造不同。</li></ol>",
+      "worked": "董事以私人名義接走公司營業範圍內的訂單，先查第 209 條的說明與股東會許可；若挪用公司資源、造成損害，另查第 23 條。不能只把所有問題統稱「利益衝突」而不分法條。",
+      "check": "董事有利益衝突的議案迴避，等於已取得競業許可嗎？",
+      "answer": "不等於。第 206 條的揭露、表決迴避與第 209 條股東會競業許可，是不同義務與程序。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 5,
+      "id": "law-supervisor-status",
+      "title": "監察人的選任、任期與兼任禁止",
+      "refs": [
+        "company:216",
+        "company:217",
+        "company:222"
+      ],
+      "reading": "<ol><li><strong>以下先以設有監察人的股份有限公司為情境。</strong>有審計委員會等制度者須再看特別法，不能把監察人與所有公司監督機制完全畫等號。</li><li><strong>第 216 條由股東會選任。</strong>至少一人在國內有住所；公開發行公司監察人須二人以上，並有持股比例等特別規定。</li><li><strong>第 217 條任期不得逾三年，得連選連任。</strong>任滿未及改選的職務延長，和主管機關限期後當然解任要分讀。</li><li><strong>第 222 條防止監督、執行混同。</strong>不得兼任該公司董事、經理人或其他職員；並非只有不能兼董事，當公司一般員工也要檢查禁止。</li></ol>",
+      "worked": "公司想讓現任財務經理同時當監察人，理由是最懂帳。正因財務經理是被監督的執行角色，須依第 222 條檢查兼任禁止，不能只以懂財務取代獨立性要求。",
+      "check": "監察人一定只能當三年、不能再選嗎？",
+      "answer": "不是。任期每次不得逾三年，但可連選連任；和兼任限制是不同問題。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 5,
+      "id": "law-supervision",
+      "title": "監督權不是只簽財報：調查、報告與停止違法",
+      "refs": [
+        "company:218",
+        "company:218-1",
+        "company:218-2",
+        "company:219",
+        "company:221"
+      ],
+      "reading": "<ol><li><strong>第 218 條有實際調查工具。</strong>可查業務、財務，查核抄錄複製簿冊文件，請董事會或經理人報告，並得代表公司委託律師、會計師審核。</li><li><strong>第 218-1、218-2 條形成預警機制。</strong>董事發現重大損害之虞須立即報告；監察人可列席董事會陳述意見，發現違反法令、章程或股東會決議，應通知停止行為。</li><li><strong>列席不等於取得董事表決權。</strong>監察人不是因此成為董事會成員，不能把其人數加進一般董事會決議分母。</li><li><strong>第 219 條須查核表冊並向股東會報告。</strong>不能只掛名、從不查核而以「經理人都說沒問題」代替職務。</li><li><strong>第 221 條各得單獨行使監察權。</strong>兩名監察人不必先過半數開監察人會，才可查帳；但個別職權的具體行使仍須符合其法定內容。</li></ol>",
+      "worked": "公司有兩名監察人，甲要求查核簿冊，董事說「乙沒簽名同意，所以拒絕」。就監察權的一般規則，第 221 條容許甲單獨行使；董事不得自創兩人共同同意作為所有查核的前提。",
+      "check": "監察人列席董事會，是否可以算作第六名董事一起投票？",
+      "answer": "不能。列席陳述意見與以董事身分出席表決不同，計算一般董事會門檻不能混入監察人。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 5,
+      "id": "law-supervisor-call",
+      "title": "監察人召集股東會：先看必要性",
+      "refs": [
+        "company:220"
+      ],
+      "reading": "<ol><li><strong>它是第 171 條董事會召集原則的例外。</strong>第 220 條列董事會不為或不能召集的情境，並允許為公司利益於必要時召集。</li><li><strong>不是監察人想開就可以任意開。</strong>要說明公司利益與必要性，並遵守股東會通知、召集事由等適用程序。</li><li><strong>召集權與決議權分開。</strong>監察人召集後，股東會仍須符合出席、表決及各議案門檻，不會因監察人召集就略過第 174、277 條等。</li></ol>",
+      "worked": "董事會拒絕面對重大違法交易，監察人認為有必要讓股東討論。先說明第 220 條的召集理由，接著檢查第 172 條通知及議案程序，不能只寫「監察人有權」就省略後半。",
+      "check": "由監察人召集，就不必寄股東會通知嗎？",
+      "answer": "仍須遵守適用的召集程序。有召集權與合法行使召集權是兩個問題。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 5,
+      "id": "law-supervisor-transaction",
+      "title": "董事與公司交易：決策、迴避、代表、責任四層",
+      "refs": [
+        "company:223",
+        "company:224",
+        "company:227"
+      ],
+      "reading": "<ol><li><strong>第 223 條解決「誰代表公司」。</strong>董事為自己或他人與公司買賣、借貸等，由監察人代表公司，避免董事站在交易兩邊。</li><li><strong>它不取代其他程序。</strong>公司內部有無合法決策、董事是否揭露迴避、交易是否符合忠實注意義務，都須分別檢查。</li><li><strong>第 224 條監察人也可能負責。</strong>違反法令、章程或怠忽職務，致公司損害，對公司負賠償責任；不是只換個人簽名就一定合法。</li><li><strong>第 227 條是準用入口。</strong>其中準用第 197 條，所以監察人持股轉讓也要接公開發行、選任時持股、超過二分之一等條件；不能只抄「準用」二字而不說被帶進來的規則。</li></ol>",
+      "worked": "董事甲把私人房屋賣給公司：①找出公司有權作成決策的機關；②檢查甲的揭露及表決迴避；③依第 223 條由監察人代表公司；④再查價格及執行是否違反義務。監察人簽約只完成其中一層。",
+      "check": "公開發行公司監察人選任時持 1,000 股，任期中轉讓 500 股，就該持股門檻是否已當然解任？",
+      "answer": "第 227 條準用第 197 條，仍須「超過」一半；500 股正好一半，僅就該數量條件尚未超過，501 股才超過。其他義務仍另查。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 6,
+      "id": "law-employment",
+      "title": "勞動契約的主體、從屬性與最低標準",
+      "refs": [
+        "labor:1",
+        "labor:2"
+      ],
+      "reading": "<ol><li><strong>第 2 條第 6 款先定義契約。</strong>約定勞雇關係而具有從屬性；「承攬」「合作夥伴」的標題不能取代實際工作判斷。</li><li><strong>把從屬性拆成事實。</strong>人格面看排班、指揮、考核；經濟面看為誰事業工作、工具及風險；組織面看是否納入企業分工。這是綜合判斷，不能只靠單一特徵。</li><li><strong>第 2 條第 1、2 款再分勞工與雇主。</strong>主管、實際處理勞工事務者等在法定定義下亦須辨認，不能只看誰在薪資單簽名。</li><li><strong>第 1 條第 2 項是不利益約定的邊界。</strong>適用勞基法時，勞動條件不得低於法定最低標準；簽名、同意或公司內規，不會當然讓低於標準的條款有效。</li><li><strong>適用前提仍要查。</strong>須先確認工作關係及法律適用範圍；不是所有提供服務的人不論關係均直接套同一套規則。</li></ol><p class=\"small\">補充來源：<a href=\"https://www.mol.gov.tw/1607/28162/28296/28340/28342/28344/\" target=\"_blank\" rel=\"noopener\">勞動部《勞動契約認定指導原則》</a>。</p>",
+      "worked": "飲料店稱乙為承攬夥伴，但固定排班、要求打卡、依規則製作飲料並考核，乙使用店家器材、不負經營風險。逐項指出這些從屬事實，再綜合判斷，不能只引用契約封面的名稱。",
+      "check": "員工簽「自願不領法定加班費」，就一定有效嗎？",
+      "answer": "不能只因簽名認定有效。先確認適用制度及是否實際有法定給付義務，再依第 1 條檢查是否低於法定最低標準。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 6,
+      "id": "law-fixed-term",
+      "title": "定期、不定期：四種非繼續性工作與續約",
+      "refs": [
+        "labor:9",
+        "labor_rules:6"
+      ],
+      "reading": "<ol><li><strong>先看工作本身是否有繼續性。</strong>有繼續性工作應為不定期；不能先任意寫一年聘約，再用紙上的到期日決定工作性質。</li><li><strong>施行細則第 6 條拆四種類型。</strong>臨時性是無法預期、非繼續、六個月內；短期性是可預期六個月內完成、非繼續；季節性受季節影響、非繼續、九個月內；特定性是在特定期間完成的非繼續工作，超過一年須核備。</li><li><strong>第 9 條第 2 項看屆滿後實際狀況。</strong>繼續工作而雇主不即反對，或另訂新約而前後工作期間超過九十日、間斷未超過三十日等，可能視為不定期。</li><li><strong>一定要讀第 3 項例外。</strong>前述轉換規則對特定性、季節性定期工作不適用，不能只背九十日／三十日套全部。</li><li><strong>派遣另有明文。</strong>派遣事業單位與派遣勞工的契約應為不定期。</li></ol>",
+      "worked": "公司每年都需要的固定櫃檯職位，每次寫六個月並不當然成為短期性工作；先查是否為持續性需求。相反，真正一次完成的特定專案，須依工作事實、期間及核備等條件另判。",
+      "check": "不定期是不是表示勞工永遠不能離職、雇主永遠不能終止？",
+      "answer": "不是。不定期是沒有預先設定固定終止期限，仍可能依第 11、12、14、15 條等合法終止。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 6,
+      "id": "law-employer-dismissal",
+      "title": "雇主解僱：第 11 條預告終止與第 12 條不經預告",
+      "refs": [
+        "labor:11",
+        "labor:12",
+        "labor:13"
+      ],
+      "reading": "<ol><li><strong>先問法定事由，再問預告。</strong>第 11 條列歇業轉讓、虧損或業務緊縮、不可抗力停工一個月以上、業務性質變更等要件、確不能勝任。不是願意付預告工資就可無理由解僱。</li><li><strong>第 12 條各款條件不同。</strong>重大違規不能省略「情節重大」；故意損耗機器等須看損害；曠工須無正當理由，繼續三日或一個月內六日。</li><li><strong>三十日不是套所有款。</strong>第 12 條第 2 項針對第 1 項第 1、2、4、5、6 款，自知悉情形日起三十日內行使。不要連第 3 款也不分地抄進去。</li><li><strong>第 13 條再查特殊保護期間。</strong>法定停止工作或職災醫療期間原則不得終止；不可抗力致事業不能繼續且經核定等但書，須一併讀。</li><li><strong>結論要帶條件。</strong>不要只看到虧損、損壞、曠工一個詞就認定解僱合法，仍須檢查該款完整要件及個案事實。</li></ol>",
+      "worked": "員工不小心打破一個杯子，不能直接用第 12 條第 1 項第 5 款「故意損耗」解僱。若是無正當理由連續曠工三日，則另查第 6 款及知悉後三十日期間，兩案不能只因公司不滿就混用。",
+      "check": "雇主付三十天工資，是否就可以完全不說解僱理由？",
+      "answer": "不能。法定終止事由與預告義務是不同層次；支付預告期間工資不能補出不存在的第 11 條事由。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 6,
+      "id": "law-worker-termination",
+      "title": "勞工終止：一般辭職、雇主違法、最低服務年限",
+      "refs": [
+        "labor:14",
+        "labor:15",
+        "labor:15-1"
+      ],
+      "reading": "<ol><li><strong>第 15 條一般不定期契約離職。</strong>準用第 16 條第 1 項的年資預告；特定性定期契約超過三年者，屆滿三年後另有三十日前預告的規定。</li><li><strong>第 14 條是勞工有法定理由的不經預告終止。</strong>例如不依約給付報酬、雇主違反契約或勞工法令致有權益受損之虞等；不是所有離職都屬一般自願辭職。</li><li><strong>行使期間依款別讀。</strong>第 14 條第 2 項針對第 1、6 款設三十日規則及第 6 款但書；第 3 項也有不得終止的特定情況，不能省略。</li><li><strong>第 14 條第 4 項接資遣費。</strong>不能一看到「是勞工提出離職」就認為絕無資遣費；尚須分新舊制。</li><li><strong>第 15-1 條限制最低服務年限。</strong>須有專業培訓並支付費用或提供合理補償等前提，約定期間也須合理；違反法定要求者無效，不可只拿簽名當答案。</li></ol>",
+      "worked": "甲任職一年半，單純想換工作，依第 15 條準用第 16 條一般須二十日前預告。若改為雇主不依約給薪，則要檢查第 14 條的事由與要件，不應直接要求一律再等二十日。",
+      "check": "只要是勞工先說要走，就一定沒有資遣費嗎？",
+      "answer": "不是。依第 14 條合法終止與第 15 條一般辭職不同；第 14 條並有資遣費連結，適用新制年資還須看勞退條例第 12 條。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 6,
+      "id": "law-notice-severance",
+      "title": "預告、預告期間工資、資遣費：分開計算",
+      "refs": [
+        "labor:16",
+        "labor:17",
+        "labor:18",
+        "pension:12"
+      ],
+      "reading": "<ol><li><strong>第 16 條先讀適用事由。</strong>雇主依第 11 條或第 13 條但書終止時，三個月以上未滿一年預告十日；一年以上未滿三年二十日；三年以上三十日。</li><li><strong>預告未足額，另有預告期間工資。</strong>不是把這筆錢稱作資遣費；接到預告後法定謀職假亦有工資照給規則。</li><li><strong>資遣費先分年資制度。</strong>勞基法第 17 條一般為每滿一年一個月平均工資，零數依該條；適用勞退新制的年資則按條例第 12 條每滿一年半個月、未滿一年比例計、最高六個月。</li><li><strong>期限同樣不能漏。</strong>資遣費須在契約終止後三十日內給付。兼有新舊年資，不能全部只套其中一套。</li><li><strong>第 18 條是反面檢查。</strong>第 12 或 15 條終止、定期契約期滿等列舉情形，不得依該條請求加發預告期間工資與資遣費；不要把第 14 條也誤當第 15 條。</li></ol>",
+      "worked": "假設全部為新制年資二年、平均月工資 40,000 元，依法資遣：資遣費＝40,000×0.5×2＝40,000 元；預告應二十日前。若沒有給足預告，須另算不足日數的預告期間工資，不能說已付 40,000 元就全部抵完。",
+      "check": "年資一年半的新制資遣費，可以直接用一個半月平均工資嗎？",
+      "answer": "不能直接套舊制。若全部是新制且符合給付事由，依勞退條例第 12 條，為半個月×1.5＝0.75 個月平均工資；預告與其他請求另論。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 6,
+      "id": "law-transfer-certificate",
+      "title": "調動、事業轉讓與服務證明：契約周邊不能漏",
+      "refs": [
+        "labor:10-1",
+        "labor:19",
+        "labor:20"
+      ],
+      "reading": "<ol><li><strong>第 10-1 條不是給雇主任意調動權。</strong>不得違反契約約定，並須符合經營必要、無不當動機、不利益變更限制、勝任能力、過遠協助及家庭生活利益等原則。</li><li><strong>第 20 條分留用與未留用。</strong>改組、轉讓時，新舊雇主商定留用者年資應繼續承認；其餘勞工依法預告並給資遣費，不能只因換老闆就把所有年資歸零。</li><li><strong>第 19 條是契約終止後的服務證明。</strong>勞工請求發給時，雇主或代理人不得拒絕。和是否符合資遣費條件是不同問題。</li></ol>",
+      "worked": "店家轉讓，新舊老闆商定留用甲。不能直接稱甲從零年資開始，須依第 20 條承認年資；若某員工未留用，則另接預告與資遣規則。",
+      "check": "雇主說「薪水沒降，所以調到很遠的地方一定合法」夠嗎？",
+      "answer": "不夠。第 10-1 條有多項累積檢查，還要看契約、經營必要、不當動機、勝任、必要協助與家庭生活利益。",
+      "level": "連讀補充"
+    },
+    {
+      "unit": 7,
+      "id": "law-wage-definition",
+      "title": "工資認定：名稱、給付原因與實際制度",
+      "refs": [
+        "labor:2",
+        "labor_rules:10"
+      ],
+      "reading": "<ol><li><strong>第 2 條第 3 款先抓「因工作而獲得之報酬」。</strong>按時、日、月、件，以現金或實物支付，甚至名稱叫獎金、津貼，都不能只看名稱排除。</li><li><strong>不要把「每月固定」當唯一標準。</strong>重點是是否屬提供勞務的對價；給付制度、條件及實質要一起看。反過來，實報實銷的真正費用，不是因按月報銷就自動變工資。</li><li><strong>細則第 10 條列非經常性給與等項目。</strong>列到年終獎金、差旅費，不代表雇主只要把薪資改名就可全部排除。要辨明實際是恩惠、費用補償，還是工作報酬。</li><li><strong>第 2 條第 4 款另定平均工資。</strong>原則是計算事由前六個月工資總額÷期間總日數，另有未滿六個月、按日／時／件及法定排除期間等規則。日平均、月平均、每小時工資額不能混用。</li></ol><p class=\"small\">補充來源：<a href=\"https://www.mol.gov.tw/1607/28162/28166/28180/28194/29050/\" target=\"_blank\" rel=\"noopener\">勞動部工資認定與給付</a>；下列練習是依事實判斷，非以名稱列黑白清單。</p>",
+      "worked": "公司每月本薪 30,000 元、因擔任職務固定支付津貼 3,000 元，另憑發票報銷出差交通 1,200 元。先檢查 3,000 元是否為工作對價，不能只看叫津貼就排除；1,200 元若確為真實代墊費用報銷，不能只因一起匯款就全部當薪資。",
+      "check": "每月發放但叫「獎金」，就一定不是工資嗎？",
+      "answer": "不能。依實際給付原因與工作對價認定；名稱和是否固定只是分析線索，不能取代第 2 條的判斷。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 7,
+      "id": "law-minimum-wage",
+      "title": "最低工資：議定自由有法定下限",
+      "refs": [
+        "labor:21",
+        "minimum:5"
+      ],
+      "reading": "<ol><li><strong>第 21 條原文仍使用基本工資用語。</strong>閱讀時要和現行最低工資制度連在一起；不能只抄舊名詞就漏掉最低工資法第 5 條。</li><li><strong>最低工資法第 5 條不只規定「不得低於」。</strong>議定低於最低工資者，以法定最低工資為其工資數額，不能用勞工自願簽名排除。</li><li><strong>2026 年適用數額：</strong>按月計酬的相應全時工作情境，每月最低工資 29,500 元；按時計酬每小時 196 元，自 2026/1/1 生效。題目年度不同須查當年度規則。</li><li><strong>最低工資、約定月薪、加班費分開。</strong>法定下限不是允許雇主把較高的既有約定薪資任意降到下限；也不能直接用含加班費總額取代正常工時工資的檢查。</li></ol><p class=\"small\">數額來源：<a href=\"https://www.mol.gov.tw/1607/28162/28166/28180/70460/76761/76833/post\" target=\"_blank\" rel=\"noopener\">勞動部歷年最低工資調整</a>；<a href=\"https://www.mol.gov.tw/1607/28690/2282/2284/2290/7121/\" target=\"_blank\" rel=\"noopener\">月薪、時薪與日薪說明</a>。</p>",
+      "worked": "2026 年按時計酬、適用最低工資的一般工作，約定一小時 180 元，即使寫「雙方同意」，仍須依最低工資法第 5 條以 196 元下限處理。這個例子不代表所有月薪都應直接用 196 乘整月每個時數。",
+      "check": "原本約定月薪 40,000 元，最低工資 29,500 元，雇主就可單方只付 29,500 嗎？",
+      "answer": "不能這樣推論。最低工資是法定下限，不會自動改掉較高的既有工資約定。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 7,
+      "id": "law-wage-payment",
+      "title": "通貨、全額、直接給付：第 22 條每個但書都要讀",
+      "refs": [
+        "labor:22"
+      ],
+      "reading": "<ol><li><strong>第 1 項先是通貨給付。</strong>原則應以法定通用貨幣給付；禮券、公司商品不會只因有標價就等同法定通用貨幣。</li><li><strong>實物給付是有條件的部分例外。</strong>須基於習慣或業務性質，在契約訂明一部以實物給付；作價公平合理，並符合勞工及家屬需要。不能把例外讀成公司任意用全額商品抵薪。</li><li><strong>第 2 項同時規定全額、直接。</strong>全額是不能任意扣少；直接是給付對象為勞工，兩者不是同一個概念。</li><li><strong>法令或另有約定的例外仍須合法。</strong>例如依法扣繳稅款等要有依據；勞雇約定也不能藉此規避第 1 條最低標準、第 26 條預扣禁止等強制規定。</li></ol>",
+      "worked": "雇主把應付薪資改成全額自家禮券，理由是員工已簽名。依序檢查：是否通貨→是否符合實物例外的原因、契約與一部限制→作價與需要→約定是否違反其他保障，不能只停在「有約定」三字。",
+      "check": "法條寫「另有約定不在此限」，是否表示任何扣薪條款都可有效？",
+      "answer": "不是。必須連同其他強制規定檢查，不能用第 22 條但書排除第 26 條等保障。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 7,
+      "id": "law-wage-slip",
+      "title": "定期給付與薪資明細：每月至少兩次也有例外",
+      "refs": [
+        "labor:23",
+        "labor_rules:14-1"
+      ],
+      "reading": "<ol><li><strong>先讀第 23 條開頭的除外。</strong>除有特別約定或按月預付外，每月至少定期發給二次。因此不能一概說每月一次都違法，也不能說有約定就可不定期拖欠。</li><li><strong>給明細與置清冊是兩個義務。</strong>勞工應取得各項目計算方式明細；雇主另須置備工資清冊，保存五年，按件計酬同樣要給明細。</li><li><strong>細則第 14-1 條有四項。</strong>議定工資總額、各項給付、合法扣除項目金額、實際發給金額。只丟一個匯款總數，不能讓勞工檢查怎麼算。</li><li><strong>明細可電子提供。</strong>須是可隨時取得並得列印等法定方式，不是只能在主管手機上看一眼。</li></ol>",
+      "worked": "議定本薪 30,000＋職務津貼 3,000，假設依法扣繳等扣除共 1,000，實發 32,000。明細須讓人辨認 33,000 的給付組成、1,000 的合法扣除依據與金額、32,000 實發，不能只寫「已匯款 32,000」。",
+      "check": "公司有自己的薪資清冊，是否因此不用給勞工計算明細？",
+      "answer": "不行。對勞工提供明細與雇主置備保存清冊是不同義務，不能相互取代。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 7,
+      "id": "law-deduction",
+      "title": "同工同酬、預扣禁止與遲付救濟",
+      "refs": [
+        "labor:25",
+        "labor:26",
+        "labor:27"
+      ],
+      "reading": "<ol><li><strong>第 25 條看性別差別與工作效率。</strong>工作相同、效率相同應同等工資；不是所有職位、不同工作條件都不分事實一律同薪。</li><li><strong>第 26 條禁止預扣工資作違約金或賠償。</strong>雇主預先從薪資扣一筆作保證、破損預備金或防離職違約金，都要檢查此限制。</li><li><strong>不要混成「勞工永遠不負賠償」。</strong>是否確有損害、可歸責、金額與請求依據，是另一問題；雇主不能只憑自己指稱損害就任意從工資預扣。</li><li><strong>第 27 條提供主管機關限期給付的制度。</strong>欠薪還可能接第 14 條等救濟；不要把「公司說資金不足」當成依法免付工資的理由。</li></ol>",
+      "worked": "公司每月固定扣 2,000 元，年底沒打破杯子才退還。這是在損害是否發生、責任是否成立之前就預扣賠償準備金，須依第 26 條判斷，不能僅以「以後會退」排除問題。",
+      "check": "禁止預扣是否等於員工故意造成公司損害也一律不用負責？",
+      "answer": "不是。預扣工資的合法性與損害賠償責任應分開；後者仍須依法確認事實、責任與金額。",
+      "level": "主題精讀"
+    },
+    {
+      "unit": 7,
+      "id": "law-wage-protection",
+      "title": "欠薪保障、墊償與盈餘獎金：再往下連讀",
+      "refs": [
+        "labor:28",
+        "labor:29"
+      ],
+      "reading": "<ol><li><strong>第 28 條先有啟動情形。</strong>雇主歇業、清算或宣告破產時，列舉勞工債權有特別受償順位；不是每一筆任何年數債權都毫無上限自動全額拿到。</li><li><strong>工資、退休金、資遣費的限制分開。</strong>積欠工資未滿六個月部分，與退休金、資遣費項目各依條文；基金墊償退休金與資遣費合計又有六個月平均工資上限。</li><li><strong>優先受償與基金墊償不同。</strong>前者決定破產等財產的分配順序，後者依法定程序先行墊償；須連同請求未獲清償、申請程序等條件判斷。</li><li><strong>第 29 條的盈餘獎金有條件。</strong>年度結算有盈餘，並經稅捐、虧損彌補、股息及公積等處理，對全年工作無過失勞工應給獎金或分紅；不是法條保證所有人固定幾個月年終。</li></ol>",
+      "worked": "題目說公司歇業積欠薪資，先分類是工資、退休金還是資遣費，再對照受償順位與墊償範圍。若只是問一般年終獎金，也不能直接拿第 28 條來回答；應查約定、給付性質及第 29 條等條件。",
+      "check": "勞基法第 29 條是否直接規定每個人年終至少一個月？",
+      "answer": "沒有。該條規定特定盈餘與勞工條件下的獎金或分紅，沒有直接寫固定一個月；另有契約或其他規範時再判斷。",
+      "level": "連讀補充"
+    }
+  ],
+  "editorial_note": "條文原文取自全國法規資料庫，保留項款文字；白話拆解、自編例子與自問答為學習整理，不是教師講義或官方解答。連讀補充非已確認必考。",
+  "effective_note": "民法資料庫另列第166-1條、第1223條未生效提醒，本頁未收錄該兩條；不得以整部法規最新公布日期推定每條同日施行。最低工資金額以題目年度判斷。"
+}
